@@ -16,6 +16,11 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 
 [My Awesome Stars](AWESOME-STARS.md)
 
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 #### :wrench: My preferred programming language is:
 
