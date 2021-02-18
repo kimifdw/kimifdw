@@ -1,6 +1,16 @@
-### Hi there 👋
 
-![kimifdw's github stats](https://github-readme-stats.vercel.app/api?username=kimifdw&show_icons=true&theme=radical)
+### Hi kimifdw there :wave: [![ ](https://cfrating.ihcr.top/?user=kimifdw&style=flat-square)](https://codeforces.com/profile/kimifdw)
+
+[<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=kimifdw&show_icons=true&theme=radical">](https://metrics.lecoq.io/kimifdw?template=classic&config.timezone=Asia%2FShanghai&config.animated=true)
+
+I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
+
+-   :hammer_and_pick: Java/Go, a little bit JavaScript
+-   :pencil2: Macbook / Idea / Oh My Zsh / VS Code / Chrome
+-   :woman: Pronouns: she
+-   :key: GPG key: 77D06C4CE4870F15
+
+---
 
 My preferred programming language is:
 
