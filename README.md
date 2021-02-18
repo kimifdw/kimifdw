@@ -19,6 +19,7 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 
