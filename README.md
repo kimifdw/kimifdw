@@ -10,6 +10,10 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 -   :woman: Pronouns: she
 -   :key: GPG key: 77D06C4CE4870F15
 
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=kimifdw&MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+</p>
+
 ---
 
 #### :star2: Projects starred by me
