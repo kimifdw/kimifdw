@@ -12,7 +12,12 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 
 ---
 
-My preferred programming language is:
+#### :star2: Projects starred by me
+
+[My Awesome Stars](AWESOME-STARS.md)
+
+
+#### :wrench: My preferred programming language is:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimifdw&layout=compact&hide=html,css,javascript)
 
