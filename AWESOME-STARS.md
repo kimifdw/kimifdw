@@ -17,7 +17,6 @@
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
-  - [GLSL](#glsl)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -251,10 +250,6 @@
 - [emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
 - [RabbitMQ](https://github.com/sky-big/RabbitMQ) - RabbitMQ系统3.5.3版本中文完全注释(同时实现了RabbitMQ系统和插件源代码编译，根据配置文件创建RabbitMQ集群，创建连接RabbitMQ系统的客户端节点等相关功能，方便源代码的阅读)
 - [ticktick](https://github.com/ericliang/ticktick) - An id generator for message service.
-
-## GLSL 
-
-- [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Go 
 
@@ -2192,6 +2187,8 @@
 
 ## Others 
 
+- [book](https://github.com/bumzy/book) - 
+- [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [opentalk](https://github.com/gocn/opentalk) - Go 开源说
 - [awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) - A curated list of awesome Kotlin frameworks, libraries, documents and other resources
 - [kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
@@ -2531,7 +2528,6 @@
 
 ## PHP 
 
-- [easy-tips](https://github.com/TIGERB/easy-tips) - A little Tips in my Code Career with Go&PHP 🥳🥳🥳
 - [howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [LittleProxy](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy originally written by your friends at Lantern and now maintained by a stellar group of volunteer open source programmers.
 - [rdebug](https://github.com/didi/rdebug) - Rdebug — Real Debugger
@@ -2549,7 +2545,6 @@
 
 ## Perl 
 
-- [gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
 - [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) - Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part
 
 ## PowerShell 
@@ -2654,7 +2649,7 @@
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [DPED](https://github.com/aiff22/DPED) - Software and pre-trained models for automatic photo quality enhancement using Deep Convolutional Networks
 - [alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) - 
-- [HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [taobaospider](https://github.com/FranLucky/taobaospider) - 淘宝商品信息爬取：selenium + phantomJS + pyqurey + mongo
 - [googlebridge](https://github.com/FastSchnell/googlebridge) - Demo Websize
 - [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
