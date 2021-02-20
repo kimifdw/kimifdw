@@ -74,7 +74,6 @@
 - [TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed.
 - [gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 - [netty-tcnative](https://github.com/netty/netty-tcnative) - A fork of Apache Tomcat Native, based on finagle-native
-- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 - [react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
@@ -127,6 +126,7 @@
 - [Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
 - [bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
 - [capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript
+- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [algorithms](https://github.com/zshellzhang1993-2025/algorithms) - 记录我学过的算法与刷过的题
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [euler](https://github.com/alibaba/euler) - A distributed graph deep learning framework.
@@ -2187,6 +2187,7 @@
 
 ## Others 
 
+- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [book](https://github.com/bumzy/book) - 
 - [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [opentalk](https://github.com/gocn/opentalk) - Go 开源说
