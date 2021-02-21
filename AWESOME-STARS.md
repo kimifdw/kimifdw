@@ -15,6 +15,7 @@
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -237,6 +238,10 @@
 - [confluence](https://github.com/joker8023/confluence) - 
 - [docker-appengine-go](https://github.com/mercari/docker-appengine-go) - Projects has been moved
 - [maven-image](https://github.com/AliyunContainerService/maven-image) - Maven Docker Image with Aliyun Mirror
+
+## EJS 
+
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Emacs Lisp 
 
@@ -859,7 +864,6 @@
 - [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [dubbo-monitor](https://github.com/handuyishe/dubbo-monitor) - 基于Dubbox最新版本重新开发的简单监控
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
-- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -909,7 +913,6 @@
 - [eagle](https://github.com/luxiaoxun/eagle) - Real time data processing system based on flink and CEP
 - [reflections](https://github.com/ronmamo/reflections) - Java runtime metadata analysis
 - [loom](https://github.com/openjdk/loom) - https://openjdk.java.net/projects/loom/
-- [java-vertx-web](https://github.com/opentracing-contrib/java-vertx-web) - OpenTracing instrumentation for Vert.x web package
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [JGrowing](https://github.com/javagrowing/JGrowing) - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
 - [sds](https://github.com/didi/sds) - SDS是一个基于Java开发的简单、易用、高性能的服务降级系统，支持限流、熔断和降级等功能，服务端必备！！
@@ -1162,7 +1165,7 @@
 - [micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 - [powermock](https://github.com/powermock/powermock) - PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.
-- [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+- [advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [netty-in-action-cn](https://github.com/ReactivePlatform/netty-in-action-cn) - Netty In Action 中文版
 - [miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
@@ -2187,6 +2190,7 @@
 
 ## Others 
 
+- [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [book](https://github.com/bumzy/book) - 
 - [awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
@@ -2550,7 +2554,7 @@
 
 ## PowerShell 
 
-- [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio - Enable Kubernetes/Istio on Docker Desktop in China
+- [k8s-for-docker-desktop](https://github.com/AliyunContainerService/k8s-for-docker-desktop) - 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。M1芯片Mac用户请切换v1.19.7分支
 
 ## Python 
 
@@ -2741,6 +2745,7 @@
 
 ## Shell 
 
+- [K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
