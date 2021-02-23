@@ -15,7 +15,6 @@
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
-  - [EJS](#ejs)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -238,10 +237,6 @@
 - [confluence](https://github.com/joker8023/confluence) - 
 - [docker-appengine-go](https://github.com/mercari/docker-appengine-go) - Projects has been moved
 - [maven-image](https://github.com/AliyunContainerService/maven-image) - Maven Docker Image with Aliyun Mirror
-
-## EJS 
-
-- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Emacs Lisp 
 
@@ -864,6 +859,7 @@
 - [ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [dubbo-monitor](https://github.com/handuyishe/dubbo-monitor) - 基于Dubbox最新版本重新开发的简单监控
 - [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -917,7 +913,6 @@
 - [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [JGrowing](https://github.com/javagrowing/JGrowing) - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
 - [sds](https://github.com/didi/sds) - SDS是一个基于Java开发的简单、易用、高性能的服务降级系统，支持限流、熔断和降级等功能，服务端必备！！
-- [guice-demo](https://github.com/greengerong/guice-demo) - 
 - [vertx-mqtt-broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) - Vert.x based MQTT Broker
 - [jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [realworld-vertx](https://github.com/skanjo/realworld-vertx) - Starter kit for new RealWorld framework implementations
@@ -950,7 +945,6 @@
 - [jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [grpc-nebula-java](https://github.com/grpc-nebula/grpc-nebula-java) - 微服务治理框架Java实现
 - [KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified  platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
-- [redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 - [fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [jedis](https://github.com/redis/jedis) - A blazingly small and sane redis java client
 - [mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
@@ -1000,7 +994,6 @@
 - [Dubbo-Demo](https://github.com/zhailuxu/Dubbo-Demo) - 《深度剖析Apache Dubbo技术内幕》一书Demo
 - [scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite) - 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
 - [agrona](https://github.com/real-logic/agrona) - High Performance data structures and utility methods for Java
-- [intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [gs-spring-boot-kubernetes](https://github.com/spring-guides/gs-spring-boot-kubernetes) - Spring Boot Kubernetes :: Deploy a Spring Boot application to Kubernetes :: spring-boot,spring-framework
 - [redis-dqueue](https://github.com/biezhi/redis-dqueue) - redis base delay queue
 - [ecp-uid](https://github.com/linhuaichuan/ecp-uid) - 居于美团leaf、百度UidGenerator、原生snowflake 进行整合的 唯一ID生成器
@@ -1505,7 +1498,7 @@
 - [shark](https://github.com/gaoxianglong/shark) - :shark:分布式mysql分库分表中间件，sharding领域的一站式解决方案
 - [greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) - Java诊断工具
 - [hackernews-App-powered-by-Apache-Weex](https://github.com/weexteam/hackernews-App-powered-by-Apache-Weex) - 
-- [deeplearning4j](https://github.com/eclipse/deeplearning4j) - Eclipse Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs + Spark
+- [deeplearning4j](https://github.com/eclipse/deeplearning4j) - Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
 - [java](https://github.com/json-iterator/java) - jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go
 - [netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
@@ -2829,6 +2822,7 @@
 
 ## Swift 
 
+- [eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [Clippy](https://github.com/Cosmo/Clippy) - 📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
@@ -3019,7 +3013,7 @@
 - [nuxt-elm](https://github.com/EasyTuan/nuxt-elm) - 基于nuxt2+vue构建的全栈开源项目
 - [coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - CoreUI Vue is free Vue admin template based on Bootstrap 4
 - [vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于vue + element的后台管理系统解决方案
-- [vue-admin](https://github.com/jiangshanmeta/vue-admin) - 基于vue的通用管理后台
+- [vue-admin](https://github.com/jiangshanmeta/vue-admin) - 基于vue的针对admin应用的low code解决方案
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [surmon.me](https://github.com/surmon-china/surmon.me) - 🆒  My personal website and blog, powered by @vuejs (3)
 - [vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
