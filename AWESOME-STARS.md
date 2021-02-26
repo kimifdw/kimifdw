@@ -873,7 +873,7 @@
 
 ## Haskell 
 
-- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
 ## Java 
 
@@ -1392,7 +1392,7 @@
 - [dubbo3](https://github.com/linux-china/dubbo3) - Dubbo3: distributed RPC framework from Alibaba Dubbo2
 - [zookeeper](https://github.com/llohellohe/zookeeper) - 分布式系统服务ZooKeeper的学习历程
 - [canal_mysql_nosql_sync](https://github.com/liukelin/canal_mysql_nosql_sync) - 基于canal 的 mysql 与 redis/memcached/mongodb 的 nosql 数据实时同步方案 案例 demo canal client
-- [flow-core-x](https://github.com/FlowCI/flow-core-x) - Powerful and user-friendly CI/CD server
+- [flow-core-x](https://github.com/FlowCI/flow-core-x) - Powerful and user-friendly CI / CD server with high availability, parallel build, agent scaling
 - [tx-lcn](https://github.com/codingapi/tx-lcn) - LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases
 - [concurrent-programming](https://github.com/ZHENFENG13/concurrent-programming) - :cactus:《实战java高并发程序设计》源码整理
 - [hive](https://github.com/apache/hive) - Apache Hive
