@@ -355,7 +355,6 @@
 - [go-interlang](https://github.com/draffensperger/go-interlang) - Examples of calls between Go and C/C++ (and how to call a Go shared object from Node/Ruby/Python/Java)
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
-- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
@@ -790,6 +789,7 @@
 
 ## HTML 
 
+- [K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
 - [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [k8s-ansible](https://github.com/liyongjian5179/k8s-ansible) - 利用 ansible 自动化安装 k8s高可用集群
 - [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -932,7 +932,7 @@
 - [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [spring-javaformat](https://github.com/spring-io/spring-javaformat) - 
-- [spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native for GraalVM
+- [spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native provides an incubating support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [TrainSort](https://github.com/TommyLemon/TrainSort) - 火车跟进排序算法，最坏对比次数 N(N-1)/2，类似冒泡排序的一种交换排序
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
 - [moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker
@@ -1828,7 +1828,6 @@
 - [svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [g2-react](https://github.com/antvis/g2-react) - This repo is being deprecated, check Ant Design Charts https://github.com/ant-design/ant-design-charts
 - [json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
-- [highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
 - [react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [egg-scripts](https://github.com/eggjs/egg-scripts) - deploy tool for egg projects
@@ -2741,7 +2740,6 @@
 
 ## Shell 
 
-- [K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -2911,7 +2909,7 @@
 - [grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
-- [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components
+- [ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
 - [dubbo-js](https://github.com/apache/dubbo-js) - Node.js native Apache Dubbo client on hessian
 - [TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript使用手册（中文版）翻译。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
@@ -2940,6 +2938,7 @@
 - [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
