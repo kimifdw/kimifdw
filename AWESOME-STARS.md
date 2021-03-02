@@ -2306,7 +2306,7 @@
 - [My-Blog](https://github.com/codefollower/My-Blog) - 我的博客
 - [awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐
 - [guide-to-kotlin](https://github.com/Zhuinden/guide-to-kotlin) - [GUIDE] This tutorial assumes all you know is Java, but you want to learn Kotlin.
 - [KubeCon-North-America-2018](https://github.com/warmchang/KubeCon-North-America-2018) - KubeCon-CloudNativeCon-North-America-2018's slides. / 2018北美CNCF大会PPT。
