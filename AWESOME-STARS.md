@@ -216,6 +216,7 @@
 - [flutter_mp](https://github.com/areslabs/flutter_mp) - Bring your Flutter code to mini program
 - [mxflutter](https://github.com/mxflutter/mxflutter) - 基于JavaScript 的Flutter框架 mxflutter
 - [sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
+- [flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [fish-redux](https://github.com/alibaba/fish-redux) - An assembled flutter application framework.
 - [Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) - :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
 - [flutter-book](https://github.com/icepy/flutter-book) - 📚《Flutter 入门指南》
@@ -659,7 +660,7 @@
 - [kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed object store and file system to store and serve billions of files fast! Object store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console-based JVM monitoring tool
@@ -1105,7 +1106,6 @@
 - [litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [netcrusher-java](https://github.com/NetCrusherOrg/netcrusher-java) - NetCrusher is a TCP/UDP proxy that allows to test services for failover
 - [Leaf](https://github.com/Meituan-Dianping/Leaf) - Distributed ID Generate Service
-- [flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [ddd-cargo](https://github.com/Sayi/ddd-cargo) - Domain-Driven Design
 - [quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
 - [tech-weekly](https://github.com/mercyblitz/tech-weekly) - 「小马哥技术周报」
