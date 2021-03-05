@@ -755,7 +755,7 @@
 - [go-eureka-client](https://github.com/ArthurHlt/go-eureka-client) - A go client to communicate with the service discovery application Eureka
 - [falcon-plus](https://github.com/open-falcon/falcon-plus) - An open-source and enterprise-level monitoring system.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go
+- [tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [gosnowflake](https://github.com/Terry-Mao/gosnowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees (golang).
 - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - Golang push server cluster
 - [cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
