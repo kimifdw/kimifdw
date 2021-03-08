@@ -112,6 +112,7 @@
 - [Ray](https://github.com/RayTale/Ray) - 项目停止更新，新项目：https://github.com/RayTale/Vertex
 - [Util](https://github.com/dotnetcore/Util) - Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
 - [Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
+- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 - [git-push-deploy](https://github.com/jelastic-jps/git-push-deploy) - Simple Automated CI/CD Pipeline for GitHub and GitLab Projects
 - [winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -254,6 +255,7 @@
 
 ## Go 
 
+- [eventually-go](https://github.com/eventually-rs/eventually-go) - Idiomatic Event Sourcing in Go
 - [redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [go-workflow](https://github.com/go-workflow/go-workflow) - go版本极简工作流引擎
 - [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
@@ -661,7 +663,7 @@
 - [kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
-- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed blob store and file system to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
+- [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a distributed storage system for blobs, objects, files, and data warehouse, to store and serve billions of files fast! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV.
 - [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console-based JVM monitoring tool
@@ -1256,7 +1258,6 @@
 - [gradle-like-bazel](https://github.com/JakeWharton/gradle-like-bazel) - A demo showing that you can (probably) structure Gradle projects like you would Bazel
 - [eclipse-collections](https://github.com/eclipse/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [pandora](https://github.com/whataa/pandora) - an android library for debugging what we care about directly in app.
-- [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm
 - [practicing-java9-module-system](https://github.com/rahmanusta/practicing-java9-module-system) - Practicing the Java 9 Module System - Devoxx PL
 - [etcd-java](https://github.com/IBM/etcd-java) - Alternative etcd3 java client
 - [jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
