@@ -2188,6 +2188,7 @@
 
 ## Others 
 
+- [awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [understanding-kubernetes](https://github.com/mcsos/understanding-kubernetes) - Kubernetes源代码解析
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
@@ -2856,7 +2857,6 @@
 
 - [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 - [ng-pull-refresh](https://github.com/vthinkxie/ng-pull-refresh) - click refresh / auto refresh / pull refresh demo
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [kowl](https://github.com/cloudhut/kowl) - Apache Kafka Web UI for exploring messages, consumers, configurations and more with a focus on a good UI & UX.
 - [react-use-websocket](https://github.com/robtaussig/react-use-websocket) - React Hook for WebSocket communication
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -3004,6 +3004,7 @@
 ## Vue 
 
 - [element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3.0 UI Library made by Element team
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
 - [form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
