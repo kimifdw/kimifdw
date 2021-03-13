@@ -81,7 +81,7 @@
 - [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 - [xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
 - [iotjs](https://github.com/jerryscript-project/iotjs) - Platform for Internet of Things with JavaScript http://www.iotjs.net
-- [gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database
+- [gpdb](https://github.com/greenplum-db/gpdb) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 - [GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支
 - [noah](https://github.com/linux-noah/noah) - Bash on Ubuntu on macOS
 - [Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
@@ -394,7 +394,7 @@
 - [go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 - [guark](https://github.com/guark/guark) - Build awesome Golang desktop apps and beautiful interfaces with Vue.js, React.js, Framework 7, and more...
 - [pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
-- [cortex](https://github.com/cortexlabs/cortex) - Model serving at scale
+- [cortex](https://github.com/cortexlabs/cortex) - Deploy, manage, and scale machine learning models in production
 - [gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
@@ -793,6 +793,7 @@
 
 ## HTML 
 
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
 - [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [k8s-ansible](https://github.com/liyongjian5179/k8s-ansible) - 利用 ansible 自动化安装 k8s高可用集群
@@ -818,7 +819,7 @@
 - [learning-servicemesh](https://github.com/skyao/learning-servicemesh) - ServiceMesh学习笔记
 - [GoDoc-CN](https://github.com/glepnir/GoDoc-CN) - Go标准库的中文版Dash文档
 - [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) - :books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好
-- [java-almanac](https://github.com/marchof/java-almanac) - Some Java Historiography
+- [java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
 - [MyOIDC](https://github.com/monkeyk/MyOIDC) - 基于OIDC协议的参考实现,根据各类库提供实现参考
 - [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
@@ -922,6 +923,7 @@
 - [easy-flows](https://github.com/j-easy/easy-flows) - The simple, stupid workflow engine for Java
 - [aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
 - [jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM
+- [metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
 - [JUC](https://github.com/bjmashibing/JUC) - 多线程与高并发
 - [streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
@@ -935,7 +937,7 @@
 - [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [spring-javaformat](https://github.com/spring-io/spring-javaformat) - 
-- [spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native provides an incubating support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [TrainSort](https://github.com/TommyLemon/TrainSort) - 火车跟进排序算法，最坏对比次数 N(N-1)/2，类似冒泡排序的一种交换排序
 - [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
 - [moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker
@@ -1557,7 +1559,6 @@
 - [node-go-require](https://github.com/sagiegurari/node-go-require) - Load Google GO files as any javascript modules under nodeJS runtime.
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
-- [metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
@@ -2559,6 +2560,7 @@
 
 ## Python 
 
+- [abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [fund](https://github.com/weibycn/fund) - 天天基金数据处理
 - [pcc](https://github.com/ehmatthes/pcc) - Resources for Python Crash Course, from No Starch Press.
