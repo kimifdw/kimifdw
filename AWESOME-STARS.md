@@ -2146,6 +2146,7 @@
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissetor for Wireshark
 - [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) - Lua kafka client driver for the Openresty based on the cosocket API
+- [nebula](https://github.com/threathunterX/nebula) - "星云"业务风控系统，主工程
 - [apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus) - Prometheus metric library for Nginx written in Lua
 - [articles](https://github.com/Wscats/articles) - 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆
@@ -2411,7 +2412,7 @@
 - [UI-Design](https://github.com/tipoqueno/UI-Design) - :fire: A curated list of useful resources related to User Interface Design
 - [algorithm](https://github.com/LeuisKen/algorithm) - Practice algorithm everyday
 - [Python](https://github.com/TwoWater/Python) - 最良心的 Python 教程：
-- [EasyJob](https://github.com/ferrari014/EasyJob) - :fire:2019互联网求职面试知识复习
+- [EasyJob](https://github.com/ferrari014/EasyJob) - :fire:2021互联网求职面试知识复习
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [fuck-css](https://github.com/XueSeason/fuck-css) - 
@@ -2848,7 +2849,6 @@
 ## TSQL 
 
 - [TH_COVID19_International](https://github.com/Tencent/TH_COVID19_International) - 
-- [nebula](https://github.com/threathunterX/nebula) - "星云"业务风控系统，主工程
 - [oauthserver](https://github.com/jeesun/oauthserver) - 快速实现Spring Boot Oauth2授权服务，保护你的应用资源。
 
 ## TeX 
