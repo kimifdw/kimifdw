@@ -279,7 +279,7 @@
 - [paho.golang](https://github.com/eclipse/paho.golang) - Go libraries
 - [juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
-- [skipset](https://github.com/zhangyunhao116/skipset) - skipset is a high-performance concurrent sorted set based on skip list. Up to 3x ~ 10x faster than sync.Map in the typical pattern.
+- [skipset](https://github.com/zhangyunhao116/skipset) - skipset is a high-performance concurrent sorted set based on skip list. Up to 3x ~ 15x faster than sync.Map in the typical pattern.
 - [wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example application written in Go.
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -1434,7 +1434,7 @@
 - [grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
 - [Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 🔥🔥🔥Cloud-Platform是国内首个基于Spring Cloud的微服务开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Spring Boot2以及Spring Cloud Gateway相关核心组件，前端采用vue-element-admin组件。
 - [rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
-- [vespa](https://github.com/vespa-engine/vespa) - Vespa is an engine for low-latency computation over large data sets.
+- [vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [spring-security-oauth](https://github.com/Baeldung/spring-security-oauth) - Just Announced - "Learn Spring Security OAuth":
 - [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) - :art: High quality  pure Weex demo / 网易严选 App 感受 Weex 开发
 - [martian-cli](https://github.com/walid1992/martian-cli) - weex、vue 框架项目初始化工具~
@@ -1639,6 +1639,7 @@
 - [TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
 - [egg-router](https://github.com/eggjs/egg-router) - router for eggjs, fork from koa-router with some additional features
 - [evercookie](https://github.com/samyk/evercookie) - Produces persistent, respawning "super" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.
+- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
@@ -2896,7 +2897,6 @@
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
-- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
 - [vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
 - [wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
