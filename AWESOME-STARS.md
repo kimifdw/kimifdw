@@ -32,7 +32,6 @@
   - [Makefile](#makefile)
   - [Markdown](#markdown)
   - [Nunjucks](#nunjucks)
-  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -867,6 +866,7 @@
 - [liulangnan/aui](https://github.com/liulangnan/aui) - 移动端UI快速布局解决方案，一个靠谱的高性能移动前端框架
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
+- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [RaineySpace/ionic2](https://github.com/RaineySpace/ionic2) - 🚀 ionic2.0文档中文翻译
 - [kittencup/webpack-doc](https://github.com/kittencup/webpack-doc) - 个人业余 webpack 文档翻译（非官方）
 - [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
@@ -2171,10 +2171,6 @@
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
-## OCaml 
-
-- [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
-
 ## Objective-C 
 
 - [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
@@ -2296,7 +2292,7 @@
 - [taojintianxia/github-bookmark](https://github.com/taojintianxia/github-bookmark) - 收集了Github上的优秀工具,框架,知识合集
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
-- [chunlintang/golang-anything-recommend](https://github.com/chunlintang/golang-anything-recommend) - :fire: 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.
+- [kirintang/golang-anything-recommend](https://github.com/kirintang/golang-anything-recommend) - :fire: 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [formulahendry/awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn) - 中文版 Awesome VS Code
 - [llitfkitfk/go-best-practice](https://github.com/llitfkitfk/go-best-practice) - Go语言实战:  编写可维护Go语言代码建议
@@ -2647,7 +2643,6 @@
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [kimifdw/python-tips](https://github.com/kimifdw/python-tips) - python学习实践
 - [pcdack/SDMUSIC](https://github.com/pcdack/SDMUSIC) - Search && Download Music from multi-platform
-- [cloudera/hue](https://github.com/cloudera/hue) - Hue Editor: Open source SQL Query Assistant for Databases/Warehouses
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
