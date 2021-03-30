@@ -541,6 +541,7 @@
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [go-internals-cn/go-internals](https://github.com/go-internals-cn/go-internals) - Chinese Translation of https://github.com/teh-cmc/go-internals
 - [apache/dubbo-go-hessian2](https://github.com/apache/dubbo-go-hessian2) - caucho hessian2 implementation in Go for [apache/dubbo-go](https://github.com/apache/dubbo-go) which is compatible with [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite)
+- [RainbowMango/GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) - 《Go专家编程》Go语言快速入门，轻松进阶！
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [woodylan/go-websocket](https://github.com/woodylan/go-websocket) - 基于Golang实现的分布式WebSocket服务、IM服务，仅依赖Etcd，简单易部署，支持高并发、单发、群发、广播，其它项目可以通过http与本项目通信。
 - [timob/jnigi](https://github.com/timob/jnigi) - Golang Java JNI library
@@ -665,7 +666,7 @@
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console-based JVM monitoring tool
-- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration.
+- [txthinking/brook](https://github.com/txthinking/brook) - Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
 - [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [ContainerSolutions/helm-monitor](https://github.com/ContainerSolutions/helm-monitor) - Monitor K8S Helm release, rollback on metrics behavior (Prometheus, Elasticsearch, Sentry)
@@ -1621,7 +1622,7 @@
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [kuhami/react-ant-pro](https://github.com/kuhami/react-ant-pro) - （基于pro 1.0）基于Ant Design Pro 后台项目修改的多标签页tabs(多标签tabs、拖拽、富文本、多功能table、多选Select、React Hooks)
 - [kankungyip/taro-dva](https://github.com/kankungyip/taro-dva) - Use 'dva-core' for Taro
-- [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
+- [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [ant-tool/atool-build](https://github.com/ant-tool/atool-build) - :hammer: Build tool based on webpack.
 - [qit-team/taro-yanxuan](https://github.com/qit-team/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 - [LANIF-UI/dva-boot-admin](https://github.com/LANIF-UI/dva-boot-admin) - :cake: react admin dashboard ui LANIF-ADMIN --- react 16 + react-router 4 + dva 2 + antd 4 后台管理 脚手架
@@ -2240,7 +2241,6 @@
 - [juliandavidmr/awesome-nestjs](https://github.com/juliandavidmr/awesome-nestjs) - 😏 Curated list of NestJS
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
 - [starjuly/UnderstandingTheJVM](https://github.com/starjuly/UnderstandingTheJVM) - 《深入理解Java虚拟机 - Jvm高级特性与最佳实践（第三版）》阅读笔记
-- [RainbowMango/GoExpertProgramming](https://github.com/RainbowMango/GoExpertProgramming) - 《Go专家编程》Go语言快速入门，轻松进阶！
 - [hyper0x/awesome-go-China](https://github.com/hyper0x/awesome-go-China) - A curated list of awesome Go frameworks, libraries and software written by Ethnic Chinese.
 - [jetlinks/jetlinks](https://github.com/jetlinks/jetlinks) - JetLinks Core
 - [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
@@ -2744,6 +2744,7 @@
 
 ## Shell 
 
+- [calee0219/awesome-5g](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -3028,7 +3029,7 @@
 - [vuejs/vue-template-explorer](https://github.com/vuejs/vue-template-explorer) - Vue template compilation explorer
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗高仿饿了么App      ---内附教程
-- [bmfe/eros](https://github.com/bmfe/eros) - 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。【已停止维护】
+- [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [N3-components/N3-admin](https://github.com/N3-components/N3-admin) - vue / vuex / N3 / vue-router / axios v2
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
