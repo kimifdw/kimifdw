@@ -2082,7 +2082,7 @@
 
 - [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions
 - [nacular/doodle](https://github.com/nacular/doodle) - A pure Kotlin UI framework for the Web.
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - 
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [kousen/kotlin-cookbook](https://github.com/kousen/kotlin-cookbook) - Code from the book _Kotlin Cookbook_, published by O'Reilly Media in 2019, http://shop.oreilly.com/product/0636920224327.do
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
@@ -2245,7 +2245,7 @@
 - [jetlinks/jetlinks](https://github.com/jetlinks/jetlinks) - JetLinks Core
 - [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
-- [dackh/blog](https://github.com/dackh/blog) - ...
+- [dackh/blog](https://github.com/dackh/blog) - 本blog内容大部分基于书籍或者其他优秀文章中摘取，仅作为自己的学习总结理解。
 - [vscodecc/vscodecc](https://github.com/vscodecc/vscodecc) - The main repository for VS Code Chinese Community
 - [fzxa/VSCode-sourcecode-analysis](https://github.com/fzxa/VSCode-sourcecode-analysis) - 微软VSCode IDE源码分析：VSCode是一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。 采用Electron (JavaScript, HTML 和 CSS 等 Web 技术) 创建原生程序的框架。
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
@@ -2787,7 +2787,7 @@
 - [finn-no/grafana-dashboards](https://github.com/finn-no/grafana-dashboards) - 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
-- [ameizi/DevArticles](https://github.com/ameizi/DevArticles) - Develop Articles
+- [ameizi/notes](https://github.com/ameizi/notes) - notes
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
 - [dsyer/riff-http](https://github.com/dsyer/riff-http) - 
