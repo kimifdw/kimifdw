@@ -691,7 +691,7 @@
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [milkbobo/gopay](https://github.com/milkbobo/gopay) - golang支付:微信公众号，微信app，微信小程序，微信企业支付，支付宝网页版，支付宝app，支付宝企业支付
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [siddontang/go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
+- [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [fagongzi/manba](https://github.com/fagongzi/manba) - HTTP API Gateway
 - [linclin/gopub](https://github.com/linclin/gopub) - vue.js(element框架)+golang(beego框架)开发的运维发布系统,支持git,jenkins版本发布,go ssh,BT两种文件传输方式选择,支持部署前准备任务和部署后任务钩子函数
@@ -2157,7 +2157,6 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [servicemesher/getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) - Knative入门——构建基于 Kubernetes 的现代化Serverless应用 - https://www.servicemesher.com/getting-started-with-knative/
 - [layer5io/service-mesh-performance](https://github.com/layer5io/service-mesh-performance) - A common format for describing and capturing service mesh performance.
-- [rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Handbook - Istio Service Mesh Advanced Practical（Istio 服务网格进阶实战） - https://jimmysong.io/istio-handbook
 - [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
 - [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
 - [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
@@ -2775,6 +2774,7 @@
 - [docker-flink/docker-flink](https://github.com/docker-flink/docker-flink) - Docker packaging for Apache Flink
 - [nobodyiam/apollo-build-scripts](https://github.com/nobodyiam/apollo-build-scripts) - Apollo Build Scripts
 - [xwisen/deployk8s](https://github.com/xwisen/deployk8s) - 部署生产可用kubernetes集群
+- [rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Handbook - Istio Service Mesh Advanced Practical（Istio 服务网格进阶实战） - https://jimmysong.io/istio-handbook
 - [redhat-developer/reactive-microservices-in-java](https://github.com/redhat-developer/reactive-microservices-in-java) - Source code from the Reactive Microservices in Java book
 - [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 - [yeszao/dnmp](https://github.com/yeszao/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
