@@ -923,7 +923,7 @@
 - [j-easy/easy-flows](https://github.com/j-easy/easy-flows) - The simple, stupid workflow engine for Java
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM
-- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
 - [bjmashibing/JUC](https://github.com/bjmashibing/JUC) - 多线程与高并发
 - [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
@@ -982,7 +982,7 @@
 - [vert-x3/vertx-mqtt](https://github.com/vert-x3/vertx-mqtt) - Vert.x MQTT
 - [Cicizz/jmqtt](https://github.com/Cicizz/jmqtt) - A MQTT broker,implemented by java and netty,support persistence and cluster
 - [spring-cloud-incubator/spring-cloud-rsocket](https://github.com/spring-cloud-incubator/spring-cloud-rsocket) - This repository is now inactive. Please see https://github.com/rsocket-routing/
-- [vlingo/vlingo-lattice](https://github.com/vlingo/vlingo-lattice) - The VLINGO XOOM platform SDK Reactive Domain-Driven Design models that are highly scalable and concurrent. Includes compute grid, actor caching, spaces, cross-node grid cluster messaging, message exchanges, CQRS, and Event Sourcing support.
+- [vlingo/xoom-lattice](https://github.com/vlingo/xoom-lattice) - The VLINGO XOOM platform SDK Reactive Domain-Driven Design models that are highly scalable and concurrent. Includes compute grid, actor caching, spaces, cross-node grid cluster messaging, message exchanges, CQRS, and Event Sourcing support.
 - [mercyblitz/thinking-in-spring-boot-samples](https://github.com/mercyblitz/thinking-in-spring-boot-samples) - 小马哥书籍《Spring Boot 编程思想》示例工程
 - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
 - [jetlinks/device-simulator](https://github.com/jetlinks/device-simulator) - 基于netty的设备模拟器，模拟设备消息收发，压力测试。
