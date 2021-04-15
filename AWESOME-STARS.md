@@ -134,6 +134,7 @@
 - [alibaba/euler](https://github.com/alibaba/euler) - A distributed graph deep learning framework.
 - [LiquidPlayer/LiquidCore](https://github.com/LiquidPlayer/LiquidCore) - Node.js virtual machine for Android and iOS
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
@@ -1084,7 +1085,7 @@
 - [facebookarchive/nifty](https://github.com/facebookarchive/nifty) - Thrift on Netty
 - [CleverCloud/rabbitmq-autoreconnect-java](https://github.com/CleverCloud/rabbitmq-autoreconnect-java) - Helper to automatically handle reconnections automatically in a pool of rabbitmq servers.
 - [normanmaurer/netty-in-action](https://github.com/normanmaurer/netty-in-action) - 
-- [apache/incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
 - [AxonIQ/giftcard-demo](https://github.com/AxonIQ/giftcard-demo) - Axon Framework demo application focused around a simple giftcard domain.
 - [Arronlong/httpclientutil](https://github.com/Arronlong/httpclientutil) - 该项目基于HttpClient-4.4.1封装的一个工具类。提供了更为简单的GET、POST及上传下载等功能。同时支持插件式配置Http-Header（包含自定义header）、配置SSL和Proxy等。
 - [daoshenzzg/socket-mqtt](https://github.com/daoshenzzg/socket-mqtt) - 基于Netty+MQTT的高性能推送服务框架。支持普通Socket、MQTT、MQTT web socket协议。非常方便接入上层业务实现推送业务。
@@ -1215,7 +1216,6 @@
 - [sofastack/sofa-tracer](https://github.com/sofastack/sofa-tracer) - SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link. These logs can be used for quick discovery of faults, service governance, etc.
 - [asposemarketplace/Aspose_for_Apache_POI](https://github.com/asposemarketplace/Aspose_for_Apache_POI) - Aspose for Apache POI is a project to provide comparative source code examples to do the same file processing tasks using Aspose for Java APIs and Apache POI. Additionally, this project provides source code examples for advanced features offered by Aspose which are missing in Apache POI.
 - [Voltage825/AxonFramework3Demo](https://github.com/Voltage825/AxonFramework3Demo) - My take on Axon 3, example tutorial
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [becloudway/axon-redis](https://github.com/becloudway/axon-redis) - Redis token repository implementation for Axon Framework
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - Framework for Evolutionary Event-Driven Microservices on the JVM
@@ -2714,7 +2714,7 @@
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [rust-in-action/code](https://github.com/rust-in-action/code) - Source code for the book Rust in Action
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
