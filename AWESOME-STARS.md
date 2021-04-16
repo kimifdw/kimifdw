@@ -123,7 +123,7 @@
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181/RTSP.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
@@ -394,7 +394,7 @@
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 - [guark/guark](https://github.com/guark/guark) - Build awesome Golang desktop apps and beautiful interfaces with Vue.js, React.js, Framework 7, and more...
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Deploy, manage, and scale machine learning models in production
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing at scale
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
@@ -2390,7 +2390,7 @@
 - [pluralsight/guides](https://github.com/pluralsight/guides) - Article back-end for hack.guides() website
 - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 - [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
-- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [kjaisingh/high-school-guide-to-machine-learning](https://github.com/kjaisingh/high-school-guide-to-machine-learning) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [android/android-ktx](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development.
