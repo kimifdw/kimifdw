@@ -812,7 +812,6 @@
 - [wx-chevalier/Cloud-Series](https://github.com/wx-chevalier/Cloud-Series) - :books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。
-- [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [typesafehub/activator-akka-java-spring](https://github.com/typesafehub/activator-akka-java-spring) - Activator tutorial for Akka showing Java & Spring integration
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [tc39/proposal-async-await](https://github.com/tc39/proposal-async-await) - Async/await for ECMAScript
@@ -865,7 +864,6 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [liulangnan/aui](https://github.com/liulangnan/aui) - 移动端UI快速布局解决方案，一个靠谱的高性能移动前端框架
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [RaineySpace/ionic2](https://github.com/RaineySpace/ionic2) - 🚀 ionic2.0文档中文翻译
@@ -1742,6 +1740,7 @@
 - [ant-design/ant-design-pro-cli](https://github.com/ant-design/ant-design-pro-cli) - Cli tool of Ant Design Pro
 - [umijs/umi-example-dva-user-dashboard](https://github.com/umijs/umi-example-dva-user-dashboard) - User dashboard example with combination use of umi and dva.
 - [the-road-to-graphql/react-graphql-github-apollo](https://github.com/the-road-to-graphql/react-graphql-github-apollo) - 🚀 A React + Apollo + GraphQL GitHub Client. Your opportunity to learn about these technologies in a real world application.
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [airtap/airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
 - [redacademy/vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs) - Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend
 - [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
@@ -2024,6 +2023,7 @@
 - [dwqs/blog](https://github.com/dwqs/blog) - :dog: :clap: :star2: Welcome to star
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [egoist/vuepack](https://github.com/egoist/vuepack) - :package: A modern starter  which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron)
 - [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
@@ -2051,6 +2051,7 @@
 
 ## Jinja 
 
+- [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Jsonnet 
@@ -2390,7 +2391,6 @@
 - [pluralsight/guides](https://github.com/pluralsight/guides) - Article back-end for hack.guides() website
 - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 - [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
-- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [kjaisingh/high-school-guide-to-machine-learning](https://github.com/kjaisingh/high-school-guide-to-machine-learning) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students. This is my attempt at creating one.
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [android/android-ktx](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development.
@@ -2517,7 +2517,6 @@
 - [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 - [react-guide/react-basic](https://github.com/react-guide/react-basic) - React 设计思想
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
@@ -2820,6 +2819,7 @@
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn) - Elasticsearch权威指南中文版
 - [aqingsao/nana](https://github.com/aqingsao/nana) - A lightweight Nginx log analyzer written in shell(statistics of traffic/rate/response time/upstream servers/spiders/response codes)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [dsyer/dependency-hell](https://github.com/dsyer/dependency-hell) - Short article on a dependency management issue with Maven 3.3
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [llitfkitfk/docker-tutorial-cn](https://github.com/llitfkitfk/docker-tutorial-cn) - docker 教程
