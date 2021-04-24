@@ -395,7 +395,7 @@
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 - [guark/guark](https://github.com/guark/guark) - Build awesome Golang desktop apps and beautiful interfaces with Vue.js, React.js, Framework 7, and more...
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing at scale
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Serverless computing at scale
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
@@ -1550,12 +1550,14 @@
 
 ## JavaScript 
 
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [Nick930826/vite-react-app](https://github.com/Nick930826/vite-react-app) - Vite 2.0 + React + React-Router + Ant Design 开发环境种子项目
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [sagiegurari/node-go-require](https://github.com/sagiegurari/node-go-require) - Load Google GO files as any javascript modules under nodeJS runtime.
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
+- [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
@@ -1563,7 +1565,7 @@
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [areslabs/alita](https://github.com/areslabs/alita) - 一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2021)
 - [zhongshaofa/layuimini](https://github.com/zhongshaofa/layuimini) - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
 - [andifalk/reactive-spring-security-5-workshop](https://github.com/andifalk/reactive-spring-security-5-workshop) - Hands-On workshop for securing a reactive spring boot 2 application in multiple steps
 - [serputko/performance-testing-framework](https://github.com/serputko/performance-testing-framework) - Framework allows to perform load testing with Apache Jmeter, view application/server metrics in real-time with Grafana, analyze errors cause with detailed traces for failed requests, compare different test runs in scripted dashboard and perform frontend performance testing with sitespeed.io+webpagetest
@@ -2248,7 +2250,7 @@
 - [jetlinks/jetlinks](https://github.com/jetlinks/jetlinks) - JetLinks Core
 - [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
-- [dackh/blog](https://github.com/dackh/blog) - 本blog内容大部分基于书籍或者其他优秀文章中摘取，仅作为自己的学习总结理解。
+- [dackh/blog](https://github.com/dackh/blog) - 本blog内容大部分基于书籍或者其他文章中摘取，仅作为自己的学习总结理解。
 - [vscodecc/vscodecc](https://github.com/vscodecc/vscodecc) - The main repository for VS Code Chinese Community
 - [fzxa/VSCode-sourcecode-analysis](https://github.com/fzxa/VSCode-sourcecode-analysis) - 微软VSCode IDE源码分析：VSCode是一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。 采用Electron (JavaScript, HTML 和 CSS 等 Web 技术) 创建原生程序的框架。
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
@@ -3008,7 +3010,6 @@
 
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3.0 UI Library made by Element team
 - [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
-- [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [vuejs/docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
