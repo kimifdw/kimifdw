@@ -123,7 +123,7 @@
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181/RTSP.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
@@ -974,7 +974,7 @@
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 - [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) - 《史上最简单的Spring Cloud教程源码》
 - [howiehu/ddd-architecture-samples](https://github.com/howiehu/ddd-architecture-samples) - 
-- [360jinrong/chronus](https://github.com/360jinrong/chronus) - Chronus是360金融技术团队基于阿里开源项目TBSchedule重写的分布式调度。
+- [360jinrong/chronus](https://github.com/360jinrong/chronus) - Chronus是360数科技术团队基于阿里开源项目TBSchedule重写的分布式调度。
 - [nmyphp/tbschedule](https://github.com/nmyphp/tbschedule) - tbschedule是一个由Alibaba开源的支持分布式的调度框架。
 - [apple/servicetalk](https://github.com/apple/servicetalk) - A networking framework that evolves with your application
 - [vert-x3/vertx-mqtt](https://github.com/vert-x3/vertx-mqtt) - Vert.x MQTT
@@ -1063,7 +1063,7 @@
 - [zshellzhang1993-2025/Chinese_AQS](https://github.com/zshellzhang1993-2025/Chinese_AQS) - 添加中文注释, 重新按业务部门开发工程师的思维角度组织代码中的方法顺序, 使中国程序员轻松理解 AbstractQueuedSynchronizer;
 - [chewiebug/GCViewer](https://github.com/chewiebug/GCViewer) - Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
 - [windwant/spring-dubbo-service](https://github.com/windwant/spring-dubbo-service) - 微服务 spring dubbo项目：dubbo rpc；druid数据源连接池；mybatis配置集成，多数据源；jmx监控MBean；定时任务；aop；ftp；测试；Metrics监控；参数验证；跨域处理；shiro权限控制；consul服务注册，发现；redis分布式锁；SPI服务机制；cat监控；netty服务代理；websocket；disconf；mongodb集成；rest；docker；fescar
-- [justauth/JustAuth](https://github.com/justauth/JustAuth) - :100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
+- [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
 - [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) - Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
 - [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
 - [dubreuia/intellij-plugin-save-actions](https://github.com/dubreuia/intellij-plugin-save-actions) - Supports configurable, Eclipse like, save actions, including "organize imports", "reformat code" and "rearrange code".
@@ -1092,6 +1092,7 @@
 - [Wizzercn/MqttWk](https://github.com/Wizzercn/MqttWk) - Java + Netty 实现的高并发高可用MQTT服务broker，轻松支持10万并发，已用于生产环境
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 - [IoT-Technology/IOT-Technical-Guide](https://github.com/IoT-Technology/IOT-Technical-Guide) - :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
+- [IoT-Technology/Groza](https://github.com/IoT-Technology/Groza) - 开源物联网平台 - 物联网解决方案的设备管理，数据收集，处理
 - [crossoverJie/cim](https://github.com/crossoverJie/cim) - 📲cim(cross IM) 适用于开发者的分布式即时通讯系统
 - [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
 - [spccold/sailfish](https://github.com/spccold/sailfish) - A reliable, scalable, fast remoting module for rapid development of high performance network program with netty best practice(not rpc,not soa framework, just the cornerstone of them)
@@ -2280,7 +2281,6 @@
 - [mercyblitz/tech-daily-questions](https://github.com/mercyblitz/tech-daily-questions) - 「小马哥每日一问」
 - [servicemesher/infoq-service-mesh-emag-zh](https://github.com/servicemesher/infoq-service-mesh-emag-zh) - InfoQ eMag #75 Service Mesh Past, Present, and Future 中文版
 - [lightningMan/flash-netty](https://github.com/lightningMan/flash-netty) - 掘金小册对应源代码 https://juejin.im/book/5b4bc28bf265da0f60130116
-- [IoT-Technology/Groza](https://github.com/IoT-Technology/Groza) - 开源物联网平台 - 物联网解决方案的设备管理，数据收集，处理
 - [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) - It is a book about the Essentials of Norman Maurer's Netty in Action.《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》的一个精简
 - [zhangjiongdev/k8s](https://github.com/zhangjiongdev/k8s) - 
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
