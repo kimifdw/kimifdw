@@ -1146,7 +1146,7 @@
 - [hengboy/spring-boot-micro-job](https://github.com/hengboy/spring-boot-micro-job) - Micro-job is a distributed task scheduling and execution framework, which is used to distribute tasks under load balancing in cluster environment and define tasks for task consumption task consumer nodes-task automatic reporting task scheduler automatically chooses different consumer nodes to consume tasks according to load balancing strategy
 - [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [didi/DoraemonKit](https://github.com/didi/DoraemonKit) - A full-featured App (iOS 、Android、miniapp、Flutter) development assistant. You deserve it.  简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序、Flutter ）研发助手，你值得拥有。https://www.dokit.cn/
+- [didi/DoraemonKit](https://github.com/didi/DoraemonKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 - [apache/dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite) - Hessian Lite for Apache Dubbo
 - [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) - Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
 - [thubbo/jmeter-plugins-for-apache-dubbo](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - Dubbo Plugin for Apache JMeter, It is a plug-in developed for testing Dubbo in Jmeter.
@@ -1347,7 +1347,7 @@
 - [MusicXi/demo-aop-log](https://github.com/MusicXi/demo-aop-log) - 基于Spring AOP 使用元注解 实现系统操作日志记录
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆码云最有价值开源项目 🚀后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构！🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 腾讯内外四个奖项、腾讯开源五个第一 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构！🏆 4 awards inside&outside Tencent, 5 best aspects of Tencent Open. 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 - [poetix/protonpack](https://github.com/poetix/protonpack) - Stream utilities for Java 8
 - [NitorCreations/java8-utils](https://github.com/NitorCreations/java8-utils) - Utilities for Java 8 streams etc.
@@ -1661,7 +1661,6 @@
 - [txd-team/docsite](https://github.com/txd-team/docsite) - An opensource static website generator
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
 - [transitive-bullshit/create-react-library](https://github.com/transitive-bullshit/create-react-library) - ⚡CLI for creating reusable react libraries.
-- [rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Handbook - Istio Service Mesh Advanced Practical（Istio 服务网格进阶实战） - https://jimmysong.io/istio-handbook
 - [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
 - [fex-team/webuploader](https://github.com/fex-team/webuploader) - It's a new file uploader solution!
@@ -2297,7 +2296,7 @@
 - [taojintianxia/github-bookmark](https://github.com/taojintianxia/github-bookmark) - 收集了Github上的优秀工具,框架,知识合集
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
-- [kirintang/golang-anything-recommend](https://github.com/kirintang/golang-anything-recommend) - :fire: 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.
+- [kirintang/go-read-recommend](https://github.com/kirintang/go-read-recommend) - :fire: 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [formulahendry/awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn) - 中文版 Awesome VS Code
 - [llitfkitfk/go-best-practice](https://github.com/llitfkitfk/go-best-practice) - Go语言实战:  编写可维护Go语言代码建议
@@ -2781,6 +2780,7 @@
 - [docker-flink/docker-flink](https://github.com/docker-flink/docker-flink) - Docker packaging for Apache Flink
 - [nobodyiam/apollo-build-scripts](https://github.com/nobodyiam/apollo-build-scripts) - Apollo Build Scripts
 - [xwisen/deployk8s](https://github.com/xwisen/deployk8s) - 部署生产可用kubernetes集群
+- [rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Handbook（Istio 服务网格进阶实战）- https://jimmysong.io/istio-handbook
 - [redhat-developer/reactive-microservices-in-java](https://github.com/redhat-developer/reactive-microservices-in-java) - Source code from the Reactive Microservices in Java book
 - [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 - [yeszao/dnmp](https://github.com/yeszao/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
