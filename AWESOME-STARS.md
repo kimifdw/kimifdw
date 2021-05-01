@@ -797,6 +797,7 @@
 
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [wx-chevalier/K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [X-lab2017/github-analysis-report-2019](https://github.com/X-lab2017/github-analysis-report-2019) - GitHub 2019 Digital Report
@@ -2689,7 +2690,6 @@
 
 ## Ruby 
 
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
