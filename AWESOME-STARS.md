@@ -914,7 +914,6 @@
 - [YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
 - [didi/sds](https://github.com/didi/sds) - SDS是一个基于Java开发的简单、易用、高性能的服务降级系统，支持限流、熔断和降级等功能，服务端必备！！
-- [GruppoFilippetti/vertx-mqtt-broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) - Vert.x based MQTT Broker
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
 - [skanjo/realworld-vertx](https://github.com/skanjo/realworld-vertx) - Starter kit for new RealWorld framework implementations
 - [cescoffier/vertx-microservices-workshop](https://github.com/cescoffier/vertx-microservices-workshop) - Vert.x Microservices Hand's on lab
