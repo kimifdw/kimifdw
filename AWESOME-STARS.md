@@ -472,7 +472,7 @@
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [valyala/bytebufferpool](https://github.com/valyala/bytebufferpool) - Anti-memory-waste byte buffer pool
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [halturin/ergo](https://github.com/halturin/ergo) - a Framework for creating mesh networks using technologies and design patterns of Erlang/OTP in Golang
+- [halturin/ergo](https://github.com/halturin/ergo) - a Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [labulaka521/crocodile](https://github.com/labulaka521/crocodile) - Distributed Task Scheduling System|分布式定时任务调度平台
@@ -1551,7 +1551,6 @@
 ## JavaScript 
 
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
-- [Nick930826/vite-react-app](https://github.com/Nick930826/vite-react-app) - Vite 2.0 + React + React-Router + Ant Design 开发环境种子项目
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [sagiegurari/node-go-require](https://github.com/sagiegurari/node-go-require) - Load Google GO files as any javascript modules under nodeJS runtime.
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
