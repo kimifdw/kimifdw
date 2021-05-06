@@ -590,7 +590,7 @@
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [github/kube-service-exporter](https://github.com/github/kube-service-exporter) - A Kubernetes controller to export LoadBalancer Services to Consul
 - [GolangKazan/golangconf2019-challenge](https://github.com/GolangKazan/golangconf2019-challenge) - Розыгрыш билетов на GolangConf 2019 от GolangKazan
-- [eolinker/Goku-api-gateway-1.x](https://github.com/eolinker/Goku-api-gateway-1.x) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
+- [eolinker/goku](https://github.com/eolinker/goku) - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [istio/tools](https://github.com/istio/tools) - Tools shared by several Istio repositories
 - [ardanlabs/gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
