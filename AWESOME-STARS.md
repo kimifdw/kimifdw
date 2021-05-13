@@ -258,7 +258,7 @@
 
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
-- [eventually-rs/eventually-go](https://github.com/eventually-rs/eventually-go) - Idiomatic Event Sourcing in Go
+- [get-eventually/go-eventually](https://github.com/get-eventually/go-eventually) - Idiomatic Event Sourcing in Go
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [go-workflow/go-workflow](https://github.com/go-workflow/go-workflow) - go版本极简工作流引擎
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
@@ -529,7 +529,7 @@
 - [dustin/go-coap](https://github.com/dustin/go-coap) - Implementation of CoAP in go.
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
 - [VolantMQ/volantmq](https://github.com/VolantMQ/volantmq) - High-Performance MQTT Server
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [zeromq/gomq](https://github.com/zeromq/gomq) - Pure Go Implementation of a Subset of ZeroMQ
 - [DrmagicE/gmqtt](https://github.com/DrmagicE/gmqtt) - Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.1.1 and V5 in golang
 - [jeffallen/mqtt](https://github.com/jeffallen/mqtt) - MQTT Clients and Servers in Go
