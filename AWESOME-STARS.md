@@ -1346,7 +1346,7 @@
 - [MusicXi/demo-aop-log](https://github.com/MusicXi/demo-aop-log) - 基于Spring AOP 使用元注解 实现系统操作日志记录
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 腾讯内外五个奖项、腾讯开源五个第一 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构！🏆 5 awards inside&outside Tencent, 5 best aspects of Tencent Open. 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、自动化 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 - [poetix/protonpack](https://github.com/poetix/protonpack) - Stream utilities for Java 8
 - [NitorCreations/java8-utils](https://github.com/NitorCreations/java8-utils) - Utilities for Java 8 streams etc.
@@ -2191,7 +2191,7 @@
 
 - [huangliangyun/MindManager](https://github.com/huangliangyun/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [mcsos/understanding-kubernetes](https://github.com/mcsos/understanding-kubernetes) - Kubernetes源代码解析
+- [derekguo001/understanding-kubernetes](https://github.com/derekguo001/understanding-kubernetes) - Kubernetes源代码解析
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
