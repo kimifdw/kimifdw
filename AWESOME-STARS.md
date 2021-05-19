@@ -2123,7 +2123,7 @@
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 - [cortinico/slidetoact](https://github.com/cortinico/slidetoact) - A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
 - [spring-petclinic/spring-petclinic-kotlin](https://github.com/spring-petclinic/spring-petclinic-kotlin) - Kotlin version of Spring Petclinic
-- [google/iosched](https://github.com/google/iosched) - The Google I/O 2019 Android App
+- [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
 - [gildor/kotlin-coroutines-okhttp](https://github.com/gildor/kotlin-coroutines-okhttp) - Kotlin Coroutines await() extension for OkHttp Call
 - [mvysny/karibu-dsl](https://github.com/mvysny/karibu-dsl) - Kotlin Vaadin extensions and DSL
 - [dszopa/spring-starter-kotlin-oauth2-and-database](https://github.com/dszopa/spring-starter-kotlin-oauth2-and-database) - A clone of the spring-starter-oauth2-and-database code written in Kotlin
