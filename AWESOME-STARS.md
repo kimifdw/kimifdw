@@ -283,7 +283,7 @@
 - [eclipse/paho.golang](https://github.com/eclipse/paho.golang) - Go libraries
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
-- [zhangyunhao116/skipset](https://github.com/zhangyunhao116/skipset) - skipset is a high-performance concurrent sorted set based on skip list. Up to 3x ~ 15x faster than sync.Map in the typical pattern.
+- [zhangyunhao116/skipset](https://github.com/zhangyunhao116/skipset) - skipset is a high-performance, scalable concurrent sorted set based on skip-list. Up to 15x faster than sync.Map in the typical pattern.
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example application written in Go.
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -2250,7 +2250,7 @@
 - [jetlinks/jetlinks](https://github.com/jetlinks/jetlinks) - JetLinks Core
 - [Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
-- [dackh/blog](https://github.com/dackh/blog) - 本blog内容大部分基于书籍或者其他文章中摘取，仅作为自己的学习总结理解。
+- [dackh/blog](https://github.com/dackh/blog) - ...
 - [vscodecc/vscodecc](https://github.com/vscodecc/vscodecc) - The main repository for VS Code Chinese Community
 - [fzxa/VSCode-sourcecode-analysis](https://github.com/fzxa/VSCode-sourcecode-analysis) - 微软VSCode IDE源码分析：VSCode是一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。 采用Electron (JavaScript, HTML 和 CSS 等 Web 技术) 创建原生程序的框架。
 - [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
