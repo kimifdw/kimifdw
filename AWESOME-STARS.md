@@ -2778,7 +2778,7 @@
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [colinmollenhour/mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
 - [docker-flink/docker-flink](https://github.com/docker-flink/docker-flink) - Docker packaging for Apache Flink
-- [nobodyiam/apollo-build-scripts](https://github.com/nobodyiam/apollo-build-scripts) - Apollo Build Scripts
+- [apolloconfig/apollo-build-scripts](https://github.com/apolloconfig/apollo-build-scripts) - Apollo Quick Start Build Scripts
 - [xwisen/deployk8s](https://github.com/xwisen/deployk8s) - 部署生产可用kubernetes集群
 - [rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio Handbook（Istio 服务网格进阶实战）- https://jimmysong.io/istio-handbook
 - [redhat-developer/reactive-microservices-in-java](https://github.com/redhat-developer/reactive-microservices-in-java) - Source code from the Reactive Microservices in Java book
@@ -2878,7 +2878,7 @@
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [leebenson/reactql](https://github.com/leebenson/reactql) - Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
 - [mcuking/mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice) - :tiger: 移动 web 最佳实践
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
