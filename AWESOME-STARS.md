@@ -86,7 +86,7 @@
 - [guanzhi/GmSSL](https://github.com/guanzhi/GmSSL) - 支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支
 - [linux-noah/noah](https://github.com/linux-noah/noah) - Bash on Ubuntu on macOS
 - [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas) - A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team
-- [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.1.0 Please go to  https://aliosthings.iot.aliyun.com to get your minimal code.
+- [alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things) - AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.3.0 Please go to  https://aliosthings.iot.aliyun.com to get your minimal code.
 - [mackyle/sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
@@ -797,6 +797,7 @@
 
 ## HTML 
 
+- [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [wx-chevalier/K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
@@ -2528,7 +2529,7 @@
 - [blighli/Front-end-questions-to-the-interview-stage](https://github.com/blighli/Front-end-questions-to-the-interview-stage) - :snail:史上最全前端开发面试问题及答案整理
 - [kittencup/angular2-ama-cn](https://github.com/kittencup/angular2-ama-cn) - angular2 随便问
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. Join Kotlin release event: https://kotl.in/15-event
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [chenryn/logstash-best-practice-cn](https://github.com/chenryn/logstash-best-practice-cn) - 本书已出版《ELK Stack权威指南》
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
