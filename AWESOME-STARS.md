@@ -121,7 +121,7 @@
 ## C++ 
 
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
-- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.
+- [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - This industry unifying standard is a promise of reliable, secure connectivity—a seal of approval that devices will work seamlessly together, today and tomorrow. Matter is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers. This collaborative breakthrough is built on proven technologies and guided by the Connectivity Standards Alliance (formerly Zigbee Alliance), whose members come together from across industries to transform the future of connectivity.
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -1489,7 +1489,7 @@
 - [medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 - [NLPchina/nlp-lang](https://github.com/NLPchina/nlp-lang) - 这个项目是一个基本包.封装了大多数nlp项目中常用工具
 - [dangdangdotcom/dubbox](https://github.com/dangdangdotcom/dubbox) - Dubbox now means Dubbo eXtensions, and it adds features like RESTful remoting, Kyro/FST serialization, etc to the Dubbo service framework.
-- [ctripcorp/x-pipe](https://github.com/ctripcorp/x-pipe) - X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统。基于Redis的Master-Slave复制协议，实现低延时、高可用的Redis多数据中心复制，并且提供一键机房切换，复制监控、异常报警等功能。开源版本和携程内部生产环境版本一致。
+- [ctripcorp/x-pipe](https://github.com/ctripcorp/x-pipe) - X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统。基于Redis的Master-Slave复制协议，实现低延时、高可用的Redis多数据中心、跨公网数据复制，并且提供一键机房切换，复制监控、异常报警等功能。开源版本和携程内部生产环境版本一致。
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 - [Liberty-yuan/algorithm](https://github.com/Liberty-yuan/algorithm) - 各种算法的学习，排序/查找/树/图
 - [kanwangzjm/funiture](https://github.com/kanwangzjm/funiture) - 慕课网课程推荐 Java并发编程与高并发解决方案：http://coding.imooc.com/class/195.html Java开发企业级权限管理系统：http://coding.imooc.com/class/149.html github: https://github.com/kanwangzjm/funiture, spring项目，权限管理、系统监控、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等
@@ -1753,7 +1753,7 @@
 - [tvrcgo/weixin-pay](https://github.com/tvrcgo/weixin-pay) - 微信支付
 - [annnhan/vue-spa-template](https://github.com/annnhan/vue-spa-template) - The base code of vue.js project.
 - [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [sessionboy/sinn-server](https://github.com/sessionboy/sinn-server) - an node server for sinn,that based on of nodejs,koa2,mongoose,docker,nginx,es6/7,Resful API,阿里云  http://servertest.boyagirl.com/
 - [koajs/examples](https://github.com/koajs/examples) - Example Koa apps
 - [xueqiu/rdr](https://github.com/xueqiu/rdr) - 
@@ -1815,7 +1815,6 @@
 - [parkingwang/vehicle-keyboard-js](https://github.com/parkingwang/vehicle-keyboard-js) - 停车王车牌号码专用键盘  - 基于vue.js
 - [didi/cube-ui](https://github.com/didi/cube-ui) - :large_orange_diamond: A fantastic mobile ui lib implement by Vue
 - [raphamorim/react-tv](https://github.com/raphamorim/react-tv) - [ Unmaintained due to raphamorim/react-ape ] React Renderer for low memory applications
-- [o1lab/xmysql](https://github.com/o1lab/xmysql) - :rocket: One command to generate REST APIs for any MySql Database.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [JetBrains/create-react-kotlin-app](https://github.com/JetBrains/create-react-kotlin-app) - Create React apps using Kotlin with no build configuration
 - [reactjs/react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 
@@ -2192,7 +2191,7 @@
 
 ## Others 
 
-- [huangliangyun/MindManager](https://github.com/huangliangyun/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品
+- [huangliangyun/MindManager](https://github.com/huangliangyun/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品，对我来说，这是一件艺术品。
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [derekguo001/understanding-kubernetes](https://github.com/derekguo001/understanding-kubernetes) - Kubernetes源代码解析
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
@@ -3040,6 +3039,7 @@
 - [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗高仿饿了么App      ---内附教程
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [N3-components/N3-admin](https://github.com/N3-components/N3-admin) - vue / vuex / N3 / vue-router / axios v2
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
 - [bluefox1688/vue-cli-multi-page](https://github.com/bluefox1688/vue-cli-multi-page) - 因时间精力有限，项目已不再维护，请慎重使用，vue2-cli-vux2-multe-page，使用了webpack2+vuejs2+vuxUI2的多页面脚手架
