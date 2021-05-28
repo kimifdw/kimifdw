@@ -2191,7 +2191,7 @@
 
 ## Others 
 
-- [huangliangyun/MindManager](https://github.com/huangliangyun/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品，对我来说，这是一件艺术品。
+- [xingchenpro/MindManager](https://github.com/xingchenpro/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品，也是一件艺术品。
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [derekguo001/understanding-kubernetes](https://github.com/derekguo001/understanding-kubernetes) - Kubernetes源代码解析
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
