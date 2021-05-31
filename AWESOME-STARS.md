@@ -62,6 +62,7 @@
 
 ## C 
 
+- [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - 
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -250,7 +251,7 @@
 - [emqx/emqtt-bench](https://github.com/emqx/emqtt-bench) - Erlang MQTT v5.0 Benchmark Tool
 - [erlang/rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 - [mochi/mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
-- [emqx/emqx](https://github.com/emqx/emqx) - EMQ X Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
+- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, distributed MQTT Message Broker for Large-scale IoT Applications.
 - [sky-big/RabbitMQ](https://github.com/sky-big/RabbitMQ) - RabbitMQ系统3.5.3版本中文完全注释(同时实现了RabbitMQ系统和插件源代码编译，根据配置文件创建RabbitMQ集群，创建连接RabbitMQ系统的客户端节点等相关功能，方便源代码的阅读)
 - [ericliang/ticktick](https://github.com/ericliang/ticktick) - An id generator for message service.
 
@@ -499,7 +500,7 @@
 - [tidwall/tinylru](https://github.com/tidwall/tinylru) - A fast little LRU cache for Go
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
-- [larksuite/botframework-go](https://github.com/larksuite/botframework-go) - 
+- [larksuite/botframework-go](https://github.com/larksuite/botframework-go) - [ Deprecated 已废弃 ] Please use oapi-sdk-go
 - [0xDkd/auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [alibaba/sentinel-golang](https://github.com/alibaba/sentinel-golang) - Sentinel Go version (Reliability & Resilience)
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
