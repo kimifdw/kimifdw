@@ -526,7 +526,7 @@
 - [perkeep/gphotos-cdp](https://github.com/perkeep/gphotos-cdp) - This program uses the Chrome DevTools Protocol to drive a Chrome session that downloads your photos stored in Google Photos.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [goiiot/libmqtt](https://github.com/goiiot/libmqtt) - MQTT v3.1.1/5.0 library in Go
-- [krylovsk/mqtt-benchmark](https://github.com/krylovsk/mqtt-benchmark) - Simple MQTT (broker) benchmarking tool
+- [krylovsk/mqtt-benchmark](https://github.com/krylovsk/mqtt-benchmark) - MQTT broker benchmarking tool
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [dustin/go-coap](https://github.com/dustin/go-coap) - Implementation of CoAP in go.
@@ -1185,7 +1185,7 @@
 - [IBM/reactive-code-workshop](https://github.com/IBM/reactive-code-workshop) - Reactive Code Workshop 2018
 - [qiujiayu/AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
 - [vladimir-bukhtoyarov/bucket4j](https://github.com/vladimir-bukhtoyarov/bucket4j) - Java rate limiting library based on token/leaky-bucket algorithm.
-- [DTStack/flinkx](https://github.com/DTStack/flinkx) - 基于flink的分布式数据同步工具
+- [DTStack/flinkx](https://github.com/DTStack/flinkx) - Flink - Based Batch Stream Integrated Data Synchronization Framework
 - [dromara/myth](https://github.com/dromara/myth) - Reliable messages resolve distributed transactions
 - [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
 - [goldze/MVVMHabit](https://github.com/goldze/MVVMHabit) - 👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。
@@ -1264,7 +1264,7 @@
 - [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 - [Netflix/metacat](https://github.com/Netflix/metacat) - 
 - [takipi/profiling-agent](https://github.com/takipi/profiling-agent) - 
-- [zycgit/hasor](https://github.com/zycgit/hasor) - Hasor是一套基于 Java 语言的开发框架，区别于其它框架的是 Hasor 有着自己一套完整的体系，同时还可以和先有技术体系做到完美融合。它包含：IoC/Aop容器框架、Web框架、Jdbc框架、RSF分布式RPC框架、DataQL引擎，等几块。
+- [ClouGence/hasor](https://github.com/ClouGence/hasor) - Hasor是一套基于 Java 语言的开发框架，区别于其它框架的是 Hasor 有着自己一套完整的体系，同时还可以和先有技术体系做到完美融合。它包含：IoC/Aop容器框架、Web框架、Jdbc框架、RSF分布式RPC框架、DataQL引擎，等几块。
 - [joshlong/multiple-datasource-spring-apps-sample](https://github.com/joshlong/multiple-datasource-spring-apps-sample) - Sample demonstrating the library in [this little library supporting multi-datasource registration](http://github.com/multiple-datasource-spring-apps)
 - [jmnarloch/ribbon-discovery-filter-spring-cloud-starter](https://github.com/jmnarloch/ribbon-discovery-filter-spring-cloud-starter) - Spring Cloud Ribbon discovery server filtering
 - [spring-projects-experimental/spring-fu](https://github.com/spring-projects-experimental/spring-fu) - KoFu and JaFu configuration DSLs for Spring Boot
@@ -1869,7 +1869,7 @@
 - [RubyLouvre/anu](https://github.com/RubyLouvre/anu) - the React16-compat library with hooks
 - [leinue/serveless](https://github.com/leinue/serveless) - 💥Use Node.js/Docker/GraphQL/MongoDB to build micro services.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [brentvatne/react-native-login](https://github.com/brentvatne/react-native-login) - react-native login via native facebook sdk, with a mp4 video background and a linear gradient
 - [gaearon/react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time. (Deprecated: use Fast Refresh instead.)
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -2093,7 +2093,7 @@
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [kousen/kotlin-cookbook](https://github.com/kousen/kotlin-cookbook) - Code from the book _Kotlin Cookbook_, published by O'Reilly Media in 2019, http://shop.oreilly.com/product/0636920224327.do
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [andrewparmet/buf-gradle-plugin](https://github.com/andrewparmet/buf-gradle-plugin) - Gradle plugin for the Buf Protocol Buffer tool
 - [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Code Generator and Runtime for Protocol Buffers
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
