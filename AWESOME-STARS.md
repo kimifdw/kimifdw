@@ -158,6 +158,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [Qihoo360/QConf](https://github.com/Qihoo360/QConf) - Qihoo Distributed Configuration Management System
+- [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 
 ## CSS 
@@ -2516,7 +2517,6 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [Coffcer/Blog](https://github.com/Coffcer/Blog) - 
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
-- [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
@@ -2564,7 +2564,7 @@
 
 ## Python 
 
-- [Granulate/gprofiler](https://github.com/Granulate/gprofiler) - 
+- [Granulate/gprofiler](https://github.com/Granulate/gprofiler) - gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [weibycn/fund](https://github.com/weibycn/fund) - 天天基金数据处理
@@ -2846,7 +2846,7 @@
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [gragrance/CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis
-- [airbnb/Lona](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
+- [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [ole/whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 - [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
