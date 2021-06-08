@@ -2770,7 +2770,6 @@
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [rootsongjc/serverless-handbook](https://github.com/rootsongjc/serverless-handbook) - Serverless Handbook 无服务架构实践手册 - https://jimmysong.io/serverless-handbook
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [cloud-op/monitor](https://github.com/cloud-op/monitor) - 云产品功能监控
 - [spencergibb/spring-cloud-gateway-bench](https://github.com/spencergibb/spring-cloud-gateway-bench) - Simple benchmark comparing zuul and spring cloud gateway
 - [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
