@@ -540,7 +540,7 @@
 - [liangdas/mqant](https://github.com/liangdas/mqant) - mqant是一款基于Golang语言的简洁,高效,高性能的分布式微服务框架
 - [zentures/surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
 - [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
-- [emqx/kuiper](https://github.com/emqx/kuiper) - A lightweight IoT edge analytics software
+- [lf-edge/kuiper](https://github.com/lf-edge/kuiper) - A lightweight IoT edge analytics software
 - [rsocket/rsocket-go](https://github.com/rsocket/rsocket-go) - rsocket-go implementation
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [jfeng45/servicetmpl](https://github.com/jfeng45/servicetmpl) - Microservice template project for Go and gRPC
