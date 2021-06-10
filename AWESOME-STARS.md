@@ -540,7 +540,7 @@
 - [liangdas/mqant](https://github.com/liangdas/mqant) - mqant是一款基于Golang语言的简洁,高效,高性能的分布式微服务框架
 - [zentures/surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
 - [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
-- [lf-edge/kuiper](https://github.com/lf-edge/kuiper) - A lightweight IoT edge analytics software
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
 - [rsocket/rsocket-go](https://github.com/rsocket/rsocket-go) - rsocket-go implementation
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [jfeng45/servicetmpl](https://github.com/jfeng45/servicetmpl) - Microservice template project for Go and gRPC
@@ -1692,7 +1692,7 @@
 - [tion126/RNLive](https://github.com/tion126/RNLive) - RNLive ----&gt; react-native 仿映客直播 支持iOS/Android
 - [dlyt/react-koa-login](https://github.com/dlyt/react-koa-login) - koa2 + react + react-router(4.0) + redux + webpack + antd
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
-- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date-time library alternative to Moment.js with the same modern API
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [TheOne1006/egg-rest-swagger-demo](https://github.com/TheOne1006/egg-rest-swagger-demo) - egg restful demo
 - [fangwei716/30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [alibaba/bindingx](https://github.com/alibaba/bindingx) - :rocket: Bind actions to effects.
@@ -3012,6 +3012,7 @@
 
 ## Vue 
 
+- [wmz1930/Jeebase](https://github.com/wmz1930/Jeebase) - Jeebase是一款前后端分离的开源开发框架，基于springboot+vue（vue-element-admin/Ant Design Pro Vue）开发，一套SpringBoot后台，两套前端页面，可以自由选择基于ElementUI或者AntDesign的前端界面。二期会整合react前端框架（Ant Design React）。在实际应用中已经使用这套框架开发了CMS网站系统，社区论坛系统，微信小程序，微信服务号等，后面会逐步整理开源。 本项目主要目的在于整合主流技术框架，寻找应用最佳项目实践方案，实现可直接使用的快速开发框架。
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3.0 UI Library made by Element team
 - [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
 - [vuejs/docs-next](https://github.com/vuejs/docs-next) - Vue 3 core documentation
