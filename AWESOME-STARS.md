@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop](https://github.com/amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop) - 
 - [nacos-group/nacos-sdk-go](https://github.com/nacos-group/nacos-sdk-go) - Nacos client in Golang
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -883,6 +884,7 @@
 
 ## Java 
 
+- [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [testingisdocumenting/webtau](https://github.com/testingisdocumenting/webtau) - Webtau (short for web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, Graph QL, Browser, Database, CLI and Business Logic with consistent set of matchers and concepts. REPL mode speeds-up tests development. Rich reporting cuts down investigation time.
 - [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
 - [tal-tech/conan](https://github.com/tal-tech/conan) - 柯南平台开源版本，为用户提供流量回放全流程解决方案
