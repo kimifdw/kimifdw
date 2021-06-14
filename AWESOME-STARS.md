@@ -1625,7 +1625,7 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
 - [cnu4/Webpack-Vue-MultiplePage](https://github.com/cnu4/Webpack-Vue-MultiplePage) - 在多页面项目下使用 Webpack + Vue
-- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [kuhami/react-ant-pro](https://github.com/kuhami/react-ant-pro) - （基于pro 1.0）基于Ant Design Pro 后台项目修改的多标签页tabs(多标签tabs、拖拽、富文本、多功能table、多选Select、React Hooks)
 - [kankungyip/taro-dva](https://github.com/kankungyip/taro-dva) - Use 'dva-core' for Taro
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -2518,7 +2518,7 @@
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [Coffcer/Blog](https://github.com/Coffcer/Blog) - 
-- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟Curated design resources
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
