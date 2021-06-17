@@ -911,7 +911,7 @@
 - [netty/netty-incubator-codec-quic](https://github.com/netty/netty-incubator-codec-quic) - 
 - [netty/netty-incubator-codec-http3](https://github.com/netty/netty-incubator-codec-http3) - Experimental HTTP3 codec on top of QUIC
 - [dromara/hmily](https://github.com/dromara/hmily) - Distributed transaction solutions
-- [dromara/shenyu](https://github.com/dromara/shenyu) - High-Performance Java API Gateway
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - High-Performance Java API Gateway
 - [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) - A library and command-line tool to access MySQL InnoDB data file directly in Java
 - [rolandhe/hiriver](https://github.com/rolandhe/hiriver) - hiriver是纯java开发的、高性能的、基于解析mysql row base binlog技术实现的用于监控mysql数据变化并分发这些变化的框架。支持几乎所有的数据类型，包括枚举、集合和bit类型。
 - [didi/tinyid](https://github.com/didi/tinyid) - ID Generator id生成器 分布式id生成系统，简单易用、高性能、高可用的id生成系统
@@ -1433,6 +1433,7 @@
 - [jiangchao123/spring-cloud-security-oauth2-jwt](https://github.com/jiangchao123/spring-cloud-security-oauth2-jwt) - 使用spring-cloud-security-oauth2来实现oauth server和resource server，oauth Server和resource Server分开，oauth Server和resource Server使用了jwt的方式进行了实现。认证服务器生成jwt格式的token，并不对其进行持久化，然后资源服务器使用密钥进行校验token。
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [aatarasoff/spring-thrift-api-gateway](https://github.com/aatarasoff/spring-thrift-api-gateway) - Gateway for Apache Thrift requests processing that is built on Spring Cloud stack
+- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) - :crown: LeetCode of algorithms with java solution(updating).
 - [keets2012/snowflake-id-generator](https://github.com/keets2012/snowflake-id-generator) - snowflake-id-generator
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
@@ -2856,7 +2857,6 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
 - [gragrance/CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
-- [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [ole/whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 - [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 - [NozeIO/Noze.io](https://github.com/NozeIO/Noze.io) - Evented I/O streams for Swift
@@ -3023,7 +3023,7 @@
 
 - [wmz1930/Jeebase](https://github.com/wmz1930/Jeebase) - Jeebase是一款前后端分离的开源开发框架，基于springboot+vue（vue-element-admin/Ant Design Pro Vue）开发，一套SpringBoot后台，两套前端页面，可以自由选择基于ElementUI或者AntDesign的前端界面。二期会整合react前端框架（Ant Design React）。在实际应用中已经使用这套框架开发了CMS网站系统，社区论坛系统，微信小程序，微信服务号等，后面会逐步整理开源。 本项目主要目的在于整合主流技术框架，寻找应用最佳项目实践方案，实现可直接使用的快速开发框架。
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3.0 UI Library made by Element team
-- [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - ✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0,  ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...
+- [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
