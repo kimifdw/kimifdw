@@ -803,6 +803,7 @@
 
 ## HTML 
 
+- [wx-chevalier/MessageQueue-Series](https://github.com/wx-chevalier/MessageQueue-Series) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
 - [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [wx-chevalier/K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
@@ -887,6 +888,7 @@
 
 ## Java 
 
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [xmolecules/jmolecules](https://github.com/xmolecules/jmolecules) - Libraries to help developers express architectural abstractions in Java code
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
@@ -911,7 +913,7 @@
 - [netty/netty-incubator-codec-quic](https://github.com/netty/netty-incubator-codec-quic) - 
 - [netty/netty-incubator-codec-http3](https://github.com/netty/netty-incubator-codec-http3) - Experimental HTTP3 codec on top of QUIC
 - [dromara/hmily](https://github.com/dromara/hmily) - Distributed transaction solutions
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - High-Performance Java API Gateway
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - ShenYu is High-Performance Java API Gateway.
 - [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) - A library and command-line tool to access MySQL InnoDB data file directly in Java
 - [rolandhe/hiriver](https://github.com/rolandhe/hiriver) - hiriver是纯java开发的、高性能的、基于解析mysql row base binlog技术实现的用于监控mysql数据变化并分发这些变化的框架。支持几乎所有的数据类型，包括枚举、集合和bit类型。
 - [didi/tinyid](https://github.com/didi/tinyid) - ID Generator id生成器 分布式id生成系统，简单易用、高性能、高可用的id生成系统
@@ -2100,7 +2102,7 @@
 
 ## Kotlin 
 
-- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project using Jetpack Compose, Compose for Desktop, Compose for Web and SwiftUI
+- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.
 - [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions
 - [nacular/doodle](https://github.com/nacular/doodle) - A pure Kotlin UI framework for the Web.
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
