@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [boratanrikulu/quik.do](https://github.com/boratanrikulu/quik.do) - Talk, easily.
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
 - [harranali/authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence
@@ -2211,7 +2212,7 @@
 
 ## Others 
 
-- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers for learning and day-to-day practice of engineering management & leadership.
+- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [thomasnield/kotlin-data-science-resources](https://github.com/thomasnield/kotlin-data-science-resources) - Curation of libraries, media, links, and other resources to use Kotlin for data science
 - [xingchenpro/MindManager](https://github.com/xingchenpro/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品，也是一件艺术品。
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
