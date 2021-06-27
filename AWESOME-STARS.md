@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [boratanrikulu/quik.do](https://github.com/boratanrikulu/quik.do) - Talk, easily.
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
@@ -859,7 +860,6 @@
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) - :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
-- [dguo/make-a-readme](https://github.com/dguo/make-a-readme) - :page_facing_up: Because nobody can read your mind (yet)
 - [CHYbeta/Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) - Software-Security-Learning
 - [zhuziyi1989/tools](https://github.com/zhuziyi1989/tools) - 自用的一些工具集合 更多笔记请查看
 - [lifesinger/blog](https://github.com/lifesinger/blog) - 岁月如歌
@@ -2213,6 +2213,7 @@
 
 ## Others 
 
+- [Kotlin/KEEP](https://github.com/Kotlin/KEEP) - Kotlin Evolution and Enhancement Process
 - [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [thomasnield/kotlin-data-science-resources](https://github.com/thomasnield/kotlin-data-science-resources) - Curation of libraries, media, links, and other resources to use Kotlin for data science
 - [xingchenpro/MindManager](https://github.com/xingchenpro/MindManager) - 【Java 技术体系思维导图】处于萌芽阶段的史诗级产品，也是一件艺术品。
@@ -2980,6 +2981,7 @@
 - [MMF-FE/weex-http](https://github.com/MMF-FE/weex-http) - weex simple http lib
 - [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
+- [dguo/make-a-readme](https://github.com/dguo/make-a-readme) - :page_facing_up: Because nobody can read your mind (yet)
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [easy-webpack/core](https://github.com/easy-webpack/core) - An easy way to create configuration files for Webpack
 - [rsuite/rsuite-table](https://github.com/rsuite/rsuite-table) - A React table component.
@@ -3017,6 +3019,7 @@
 
 ## Vim script 
 
+- [laixintao/myrc](https://github.com/laixintao/myrc) - ⚙️ My Linux Config files.
 - [oldratlee/vim-practice](https://github.com/oldratlee/vim-practice) - 💘 Vim is awesome! Here is my practice and study log.
 - [gpakosz/.vim](https://github.com/gpakosz/.vim) - Sensible yet opinionated Vim configuration
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
