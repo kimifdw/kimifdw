@@ -63,6 +63,7 @@
 
 ## C 
 
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - 
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
@@ -123,6 +124,7 @@
 
 ## C++ 
 
+- [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6) - 分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，近期持续更新
 - [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker) - 清华大学计算机系课程攻略
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
@@ -893,6 +895,9 @@
 
 ## Java 
 
+- [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+- [SimonAlong/Neo](https://github.com/SimonAlong/Neo) - Orm框架：基于ActiveRecord思想开发的至简化且功能很全的Orm框架
+- [budwk/budwk](https://github.com/budwk/budwk) - WK系列开发框架-V6至V7 Java微服务+网关+Vue Element 前后端分离
 - [gaoxianglong/jedis-distributed-lock](https://github.com/gaoxianglong/jedis-distributed-lock) - jedis-client可重入分布式锁，支持redlock
 - [Tencent/bk-job](https://github.com/Tencent/bk-job) - 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。
 - [graalvm/native-build-tools](https://github.com/graalvm/native-build-tools) - Native-image plugins for various build tools
