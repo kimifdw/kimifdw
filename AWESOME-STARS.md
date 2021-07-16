@@ -895,6 +895,7 @@
 
 ## Java 
 
+- [splunk/lightproto](https://github.com/splunk/lightproto) - Protobuf compatible code generator
 - [dubboclub/dubbo-plus](https://github.com/dubboclub/dubbo-plus) - dubbo的插件集合
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [SimonAlong/Neo](https://github.com/SimonAlong/Neo) - Orm框架：基于ActiveRecord思想开发的至简化且功能很全的Orm框架
