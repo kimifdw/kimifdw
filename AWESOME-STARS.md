@@ -263,6 +263,9 @@
 
 ## Go 
 
+- [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [seccome/Ehoney](https://github.com/seccome/Ehoney) - e签宝安全团队积累十几年的安全经验，都将对外逐步开放，首开的Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统，也是业界唯一开源的对标商业系统的产品，欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发，再结合自研密签及诱饵，将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果，可以很大程度上保护业务的安全。护网必备良药
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
@@ -411,7 +414,7 @@
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 - [guark/guark](https://github.com/guark/guark) - Build awesome Golang desktop apps and beautiful interfaces with Vue.js, React.js, Framework 7, and more...
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
-- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Cost-effective serverless computing
+- [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Containers as a service on AWS
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
 - [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语法树入门——开启自制编程语言和编译器之旅》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
 - [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
@@ -1129,7 +1132,7 @@
 - [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
 - [spccold/sailfish](https://github.com/spccold/sailfish) - A reliable, scalable, fast remoting module for rapid development of high performance network program with netty best practice(not rpc,not soa framework, just the cornerstone of them)
 - [sofastack/sofa-bolt](https://github.com/sofastack/sofa-bolt) - SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty.
-- [classtag/codes-scratch-zookeeper-netty](https://github.com/classtag/codes-scratch-zookeeper-netty) - zk + netty 实现集群节点文件同步服务
+- [duoan/codes-scratch-zookeeper-netty](https://github.com/duoan/codes-scratch-zookeeper-netty) - zk + netty 实现集群节点文件同步服务
 - [discord-java/opus-java](https://github.com/discord-java/opus-java) - Opus java binaries
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [BriData/DBus](https://github.com/BriData/DBus) - DBus
@@ -2231,6 +2234,7 @@
 
 ## Others 
 
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [Kotlin/KEEP](https://github.com/Kotlin/KEEP) - Kotlin Evolution and Enhancement Process
 - [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [thomasnield/kotlin-data-science-resources](https://github.com/thomasnield/kotlin-data-science-resources) - Curation of libraries, media, links, and other resources to use Kotlin for data science
@@ -2269,7 +2273,7 @@
 - [gopcode/gopls](https://github.com/gopcode/gopls) - GoPlus Language Server
 - [gnet-io/gnet-examples](https://github.com/gnet-io/gnet-examples) - Examples of gnet
 - [go-gorm/sqlmock](https://github.com/go-gorm/sqlmock) - GORM SQL Mock driver
-- [OUYANGSIHAI/JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview) - 【Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等
+- [hello-java-maker/JavaInterview](https://github.com/hello-java-maker/JavaInterview) - 【Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等
 - [opentracing-contrib/opentracing-specification-zh](https://github.com/opentracing-contrib/opentracing-specification-zh) - OpenTracing标准（中文版） `zh` (Chinese) translation of the opentracing/specification
 - [llgoer/go-generics](https://github.com/llgoer/go-generics) - Go的泛型文档、代码、讨论
 - [404notf0und/AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - 安全场景、基于AI的安全算法和安全数据分析学习资料整理
