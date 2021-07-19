@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6) - 分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，近期持续更新
 - [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker) - 清华大学计算机系课程攻略
@@ -257,7 +258,7 @@
 - [emqx/emqtt-bench](https://github.com/emqx/emqtt-bench) - Erlang MQTT v5.0 Benchmark Tool
 - [erlang/rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 - [mochi/mochiweb](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
-- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, distributed MQTT Message Broker for Large-scale IoT Applications.
+- [emqx/emqx](https://github.com/emqx/emqx) - An Open-Source, Cloud-Native, Distributed MQTT Message Broker for IoT.
 - [sky-big/RabbitMQ](https://github.com/sky-big/RabbitMQ) - RabbitMQ系统3.5.3版本中文完全注释(同时实现了RabbitMQ系统和插件源代码编译，根据配置文件创建RabbitMQ集群，创建连接RabbitMQ系统的客户端节点等相关功能，方便源代码的阅读)
 - [ericliang/ticktick](https://github.com/ericliang/ticktick) - An id generator for message service.
 
@@ -2105,6 +2106,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all
 - [DataXujing/YOLO-v5](https://github.com/DataXujing/YOLO-v5) - :art: Pytorch YOLO v5 训练自己的数据集超详细教程！！！ :art: (提供PDF训练教程下载）
 - [snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) - 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + LeetCode + Kaggle
