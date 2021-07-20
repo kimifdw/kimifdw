@@ -63,6 +63,7 @@
 
 ## C 
 
+- [phlalx/jos](https://github.com/phlalx/jos) - MIT 6.828: Operating System Engineering lab / JOS
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - 
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -267,7 +268,7 @@
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - 
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
-- [seccome/Ehoney](https://github.com/seccome/Ehoney) - e签宝安全团队积累十几年的安全经验，都将对外逐步开放，首开的Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统，也是业界唯一开源的对标商业系统的产品，欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发，再结合自研密签及诱饵，将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果，可以很大程度上保护业务的安全。护网必备良药
+- [seccome/Ehoney](https://github.com/seccome/Ehoney) - Seccome Teamer积累十几年的安全经验，都将对外逐步开放，首开的Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统，也是业界唯一开源的对标商业系统的产品，欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发，再结合自研密签及诱饵，将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果，可以很大程度上保护业务的安全。护网必备良药
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [boratanrikulu/quik.do](https://github.com/boratanrikulu/quik.do) - Talk, easily.
@@ -899,6 +900,8 @@
 
 ## Java 
 
+- [TarsCloud/TarsJava](https://github.com/TarsCloud/TarsJava) - Java language framework rpc source code implementation
+- [DreamCats/java-notes](https://github.com/DreamCats/java-notes) - 自己的学习笔记。包含：21届秋招经历、🐂客面经问题按照频率总结、Java一系列知识、数据库、分布式、微服务、前端、技术面试、每日文章等(持续更新)
 - [splunk/lightproto](https://github.com/splunk/lightproto) - Protobuf compatible code generator
 - [dubboclub/dubbo-plus](https://github.com/dubboclub/dubbo-plus) - dubbo的插件集合
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
@@ -1108,7 +1111,7 @@
 - [spring-avengers/dts](https://github.com/spring-avengers/dts) - Distributed Transaction Service For Spring Cloud
 - [SpringCloud/spring-cloud-gray](https://github.com/SpringCloud/spring-cloud-gray) - Spring Cloud版本控制和灰度starter
 - [alibaba/easyexcel](https://github.com/alibaba/easyexcel) - 快速、简单避免OOM的java处理Excel工具
-- [alibaba/bulbasaur](https://github.com/alibaba/bulbasaur) - A pluggable , scalable process engine . You can use it to develop business-process , approval-process , retry-process and so on . Hope you enjoy it.  可插拔的精简流程引擎，可快速实现流程，审批，业务失败重试等场景
+- [alibaba/bulbasaur](https://github.com/alibaba/bulbasaur) - 💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流程、审批、业务失败重试等场景。
 - [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
 - [IflytekAIUI/DemoCode](https://github.com/IflytekAIUI/DemoCode) - AIUI demo code
 - [ExampleDriven/grpc-eureka-java](https://github.com/ExampleDriven/grpc-eureka-java) - 
