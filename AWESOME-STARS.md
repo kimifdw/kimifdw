@@ -134,7 +134,7 @@
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer.
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
 - [jdiaz5513/capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript
 - [zshellzhang1993-2025/algorithms](https://github.com/zshellzhang1993-2025/algorithms) - 记录我学过的算法与刷过的题
@@ -2179,6 +2179,7 @@
 - [bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials) - 【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程
 - [Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans) - Kotlin workshop
 - [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ## Less 
 
@@ -2579,7 +2580,6 @@
 - [blighli/Front-end-questions-to-the-interview-stage](https://github.com/blighli/Front-end-questions-to-the-interview-stage) - :snail:史上最全前端开发面试问题及答案整理
 - [kittencup/angular2-ama-cn](https://github.com/kittencup/angular2-ama-cn) - angular2 随便问
 - [reactor/reactor](https://github.com/reactor/reactor) - Reactor Bill Of Materials (tracking reactor-core, reactor-netty and more)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [chenryn/logstash-best-practice-cn](https://github.com/chenryn/logstash-best-practice-cn) - 本书已出版《ELK Stack权威指南》
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
