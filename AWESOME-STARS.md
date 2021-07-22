@@ -134,7 +134,7 @@
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - A cross platform framework designed for Web developer.
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
 - [jdiaz5513/capnp-ts](https://github.com/jdiaz5513/capnp-ts) - Cap'n Proto serialization/RPC system for TypeScript & JavaScript
 - [zshellzhang1993-2025/algorithms](https://github.com/zshellzhang1993-2025/algorithms) - 记录我学过的算法与刷过的题
@@ -265,6 +265,8 @@
 
 ## Go 
 
+- [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+- [openzipkin-contrib/zipkin-go-opentracing](https://github.com/openzipkin-contrib/zipkin-go-opentracing) - OpenTracing Bridge for Zipkin Go
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - 
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
@@ -983,7 +985,6 @@
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类型邮件)、task(基础定时任务)、quartz(动态管理定时任务)、xxl-job(分布式定时任务)、swagger(API接口管理测试)、security(基于RBAC的动态权限认证)、SpringSession(Session共享)、Zookeeper(结合AOP实现分布式锁)、RabbitMQ(消息队列)、Kafka(消息队列)、websocket(服务端推送监控服务器运行信息)、socket.io(聊天室)、ureport2(中国式报表)、打包成war文件、集成 ElasticSearch(基本操作和高级查询)、Async(异步任务)、集成Dubbo(采用官方的starter)、MongoDB(文档数据库)、neo4j(图数据库)、docker(容器化)、JPA多数据源、Mybatis多数据源、代码生成器、GrayLog(日志收集)、JustAuth(第三方登录)、LDAP(增删改查)、动态添加/切换数据源、单机限流(AOP + Guava RateLimiter)、分布式限流(AOP + Redis + Lua)、ElasticSearch 7.x(使用官方 Rest High Level Client)、HTTPS、Flyway(数据库初始化)、UReport2(中国式复杂报表)。
 - [byl0561/HWcode2020-TestData](https://github.com/byl0561/HWcode2020-TestData) - 华为codecraft2020模拟测试数据
 - [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
-- [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [grpc-nebula/grpc-nebula-java](https://github.com/grpc-nebula/grpc-nebula-java) - 微服务治理框架Java实现
 - [xaecbd/KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified  platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
@@ -2140,6 +2141,7 @@
 - [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Code Generator and Runtime for Protocol Buffers
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [marcoferrer/kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Kotlin Coroutines, Protobuf DSL, Scripting for Protoc
+- [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [Creditas/kotlin-ddd-sample](https://github.com/Creditas/kotlin-ddd-sample) - A sample DDD/CQRS project using KOTLIN :beer:
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 - [spring-tips/koroutines](https://github.com/spring-tips/koroutines) - Hi Spring fans! In this week's installment I look at Kotlin's support for coroutines, a new approach to working with asynchronous code using suspendable computations, i.e. the idea that a function can suspend its execution at some point and resume later on.
