@@ -1596,6 +1596,7 @@
 - [cashapp/quickjs-java](https://github.com/cashapp/quickjs-java) - The QuickJS embeddable Javascript engine packaged for Android and the JVM
 - [gtudan/bpmn-js-cmd](https://github.com/gtudan/bpmn-js-cmd) - A command line tool for rendering BPMN-Diagrams with https://bpmn.io/toolkit/bpmn-js/
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [sagiegurari/node-go-require](https://github.com/sagiegurari/node-go-require) - Load Google GO files as any javascript modules under nodeJS runtime.
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
@@ -2255,7 +2256,6 @@
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [bumzy/book](https://github.com/bumzy/book) - 
-- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [gocn/opentalk](https://github.com/gocn/opentalk) - Go 开源说
 - [mcxiaoke/awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) - A curated list of awesome Kotlin frameworks, libraries, documents and other resources
 - [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
@@ -2637,7 +2637,7 @@
 - [zhaoboy9692/me-tools](https://github.com/zhaoboy9692/me-tools) - 一些小工具，淘宝抓包xposed模块、微信运动、秒杀抢票、table2json、抹机王、flyme助手
 - [TencentCloud/serverless](https://github.com/TencentCloud/serverless) - TencentCloud Serverless
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [sql-machine-learning/elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework
