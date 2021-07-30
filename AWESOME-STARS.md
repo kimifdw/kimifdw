@@ -273,7 +273,7 @@
 - [seccome/Ehoney](https://github.com/seccome/Ehoney) - Seccome Teamer积累十几年的安全经验，都将对外逐步开放，首开的Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统，也是业界唯一开源的对标商业系统的产品，欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发，再结合自研密签及诱饵，将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果，可以很大程度上保护业务的安全。护网必备良药
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
-- [boratanrikulu/quik.do](https://github.com/boratanrikulu/quik.do) - Talk, easily.
+- [boratanrikulu/quik.do](https://github.com/boratanrikulu/quik.do) - We want to be able to talk in the simplest way. That's why we created Quik.do. Talk, easily.
 - [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
 - [harranali/authority](https://github.com/harranali/authority) - Role Based Access Control (RBAC) with database persistence
 - [amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop](https://github.com/amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop) - 
@@ -2619,6 +2619,7 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Granulate/gprofiler](https://github.com/Granulate/gprofiler) - gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
@@ -2707,7 +2708,7 @@
 - [pcdack/SDMUSIC](https://github.com/pcdack/SDMUSIC) - Search && Download Music from multi-platform
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation and energy management that puts local control and privacy first.
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) - Scan, index, and archive all of your paper documents (acquired by Mayan EDMS)
