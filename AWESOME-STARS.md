@@ -905,6 +905,7 @@
 
 ## Java 
 
+- [lexburner/dubbo-mesh](https://github.com/lexburner/dubbo-mesh) - alibaba 2018 天池中间件大赛初赛 dubboMesh Rank 15.
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
 - [TarsCloud/TarsJava](https://github.com/TarsCloud/TarsJava) - Java language framework rpc source code implementation
@@ -1458,7 +1459,7 @@
 - [google/guava-beta-checker](https://github.com/google/guava-beta-checker) - 
 - [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
 - [yale8848/CacheWebView](https://github.com/yale8848/CacheWebView) - Custom implement Android WebView cache, offline website, let cahe config more simple and  flexible
-- [google/ijaas](https://github.com/google/ijaas) - Make IntelliJ as a Java server that does autocompletion for Vim.
+- [draftcode/ijaas](https://github.com/draftcode/ijaas) - Make IntelliJ as a Java server that does autocompletion for Vim.
 - [dfqin/PermissionGrantor](https://github.com/dfqin/PermissionGrantor) - 一行代码搞定Android6.0动态权限授权、权限管理 || Android permission grantor util
 - [HQIT/tech-talk-spring-oauth2-jwt-zuul-ui-example](https://github.com/HQIT/tech-talk-spring-oauth2-jwt-zuul-ui-example) - a simple example, use Spring boot, Spting cloud oauth2, Spring security, Netflex zuul, demo how to config OAuth2 Server, UI Server and Resource Server. use JWT as token, not user-info uri to get the authorized user's info.
 - [jiangchao123/spring-cloud-security-oauth2-jwt](https://github.com/jiangchao123/spring-cloud-security-oauth2-jwt) - 使用spring-cloud-security-oauth2来实现oauth server和resource server，oauth Server和resource Server分开，oauth Server和resource Server使用了jwt的方式进行了实现。认证服务器生成jwt格式的token，并不对其进行持久化，然后资源服务器使用密钥进行校验token。
@@ -3113,7 +3114,7 @@
 - [halfrost/vue-objccn](https://github.com/halfrost/vue-objccn) - 🔥 Use Vue.js to develop a cross-platform full stack application / 用 Vue.js 开发的跨三端应用
 - [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
 - [lincenying/vue2-multiple-entry](https://github.com/lincenying/vue2-multiple-entry) - vue2, vue2+vue-router, vue2+vue-router+vuex 混合多页配置实例
-- [javaSwing/NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
+- [javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [ElemeFE/element-dashboard](https://github.com/ElemeFE/element-dashboard) - element dashboard
 - [ElemeFE/vue-desktop](https://github.com/ElemeFE/vue-desktop) - A UI library for building admin panel website.
