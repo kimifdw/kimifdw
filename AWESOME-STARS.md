@@ -474,7 +474,7 @@
 - [leosabbir/consul_fabio_demo](https://github.com/leosabbir/consul_fabio_demo) - Demonstration of service registration with consul
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于gin+vue搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，VUE3版本正在重构，欢迎issue和pr~
-- [pion/ion](https://github.com/pion/ion) - Real-Distributed(non-cluster) RTC System by pure Go and Flutter
+- [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
@@ -2722,7 +2722,7 @@
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [aiff22/DPED](https://github.com/aiff22/DPED) - Software and pre-trained models for automatic photo quality enhancement using Deep Convolutional Networks
 - [alibaba/alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) - 
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 语义依存分析 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [FranLucky/taobaospider](https://github.com/FranLucky/taobaospider) - 淘宝商品信息爬取：selenium + phantomJS + pyqurey + mongo
 - [FastSchnell/googlebridge](https://github.com/FastSchnell/googlebridge) - Demo Websize
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -2772,7 +2772,7 @@
 
 ## Rust 
 
-- [higker/learn-rust](https://github.com/higker/learn-rust) - https://getrust.tech
+- [auula/learn-rust](https://github.com/auula/learn-rust) - https://getrust.tech
 - [rcore-os/rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
