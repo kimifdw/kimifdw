@@ -908,6 +908,7 @@
 
 ## Java 
 
+- [fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring) - 🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。
 - [lexburner/dubbo-mesh](https://github.com/lexburner/dubbo-mesh) - alibaba 2018 天池中间件大赛初赛 dubboMesh Rank 15.
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
@@ -1676,7 +1677,7 @@
 - [kankungyip/taro-dva](https://github.com/kankungyip/taro-dva) - Use 'dva-core' for Taro
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
 - [ant-tool/atool-build](https://github.com/ant-tool/atool-build) - :hammer: Build tool based on webpack.
-- [qit-team/taro-yanxuan](https://github.com/qit-team/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
+- [js-newbee/taro-yanxuan](https://github.com/js-newbee/taro-yanxuan) - 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED
 - [LANIF-UI/dva-boot-admin](https://github.com/LANIF-UI/dva-boot-admin) - :cake: react admin dashboard ui LANIF-ADMIN --- react 16 + react-router 4 + dva 2 + antd 4 后台管理 脚手架
 - [sxfad/react-admin](https://github.com/sxfad/react-admin) - 基于 Ant Design React 的管理系统架构
 - [zkboys/react-admin](https://github.com/zkboys/react-admin) - 基于 Ant Design React 的管理系统架构
@@ -1919,7 +1920,7 @@
 - [answershuto/learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [RubyLouvre/anu](https://github.com/RubyLouvre/anu) - the React16-compat library with hooks
 - [leinue/serveless](https://github.com/leinue/serveless) - 💥Use Node.js/Docker/GraphQL/MongoDB to build micro services.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [brentvatne/react-native-login](https://github.com/brentvatne/react-native-login) - react-native login via native facebook sdk, with a mp4 video background and a linear gradient
 - [gaearon/react-hot-loader](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time. (Deprecated: use Fast Refresh instead.)
@@ -2138,6 +2139,7 @@
 
 ## Kotlin 
 
+- [rcapraro/kalidation](https://github.com/rcapraro/kalidation) - Kalidation = A Kotlin validation DSL
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
 - [ButterCam/sisyphus](https://github.com/ButterCam/sisyphus) - Sisyphus is the way how we provide backend services.
 - [sourceplusplus/moonray-ui](https://github.com/sourceplusplus/moonray-ui) - 
@@ -2257,6 +2259,7 @@
 
 ## Others 
 
+- [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity 中文版）
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5900+ Material Design Icons from the Community
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
