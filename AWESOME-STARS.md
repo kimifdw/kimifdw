@@ -313,7 +313,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [zhangyunhao116/skipset](https://github.com/zhangyunhao116/skipset) - skipset is a high-performance, scalable concurrent sorted set based on skip-list. Up to 15x faster than sync.Map in the typical pattern.
-- [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example application written in Go.
+- [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [hexops/autogold](https://github.com/hexops/autogold) - Automatically update your Go tests
@@ -793,7 +793,7 @@
 - [Terry-Mao/gosnowflake](https://github.com/Terry-Mao/gosnowflake) - Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees (golang).
 - [Terry-Mao/gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - Golang push server cluster
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [astaxie/go-best-practice](https://github.com/astaxie/go-best-practice) - Trying to complete over 100 projects in various categories in golang.
 - [six-ddc/v2ex-go](https://github.com/six-ddc/v2ex-go) - A simple V2EX client on terminal written in Go.
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
@@ -2432,7 +2432,7 @@
 - [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
 - [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base) - Knowledge Base 慢雾安全团队知识库
 - [chenshenhai/eggjs-note](https://github.com/chenshenhai/eggjs-note) - 《Egg.js 深入浅出学习笔记》(暂时停更)
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [CL0610/Java-concurrency](https://github.com/CL0610/Java-concurrency) - Java并发知识点总结
 - [anjia0532/gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) - all of the gcr.io docker image mirror
