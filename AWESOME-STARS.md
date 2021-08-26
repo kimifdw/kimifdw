@@ -83,7 +83,7 @@
 - [Tencent/TBase](https://github.com/Tencent/TBase) - TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed.
 - [gozfree/gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 - [netty/netty-tcnative](https://github.com/netty/netty-tcnative) - A fork of Apache Tomcat Native, based on finagle-native
-- [Tencent/TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
+- [OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny) - 腾讯物联网终端操作系统
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [IflytekAIUI/DemoCode](https://github.com/IflytekAIUI/DemoCode) - AIUI demo code
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
