@@ -825,6 +825,7 @@
 
 ## HTML 
 
+- [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [wx-chevalier/MessageQueue-Series](https://github.com/wx-chevalier/MessageQueue-Series) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
 - [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
@@ -911,7 +912,6 @@
 - [fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring) - 🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。
 - [lexburner/dubbo-mesh](https://github.com/lexburner/dubbo-mesh) - alibaba 2018 天池中间件大赛初赛 dubboMesh Rank 15.
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-- [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) - Spring integration for GraphQL
 - [TarsCloud/TarsJava](https://github.com/TarsCloud/TarsJava) - Java language framework rpc source code implementation
 - [DreamCats/java-notes](https://github.com/DreamCats/java-notes) - 自己的学习笔记。包含：21届秋招经历、🐂客面经问题按照频率总结、Java一系列知识、数据库、分布式、微服务、前端、技术面试、每日文章等(持续更新)
 - [splunk/lightproto](https://github.com/splunk/lightproto) - Protobuf compatible code generator
@@ -1836,7 +1836,7 @@
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [heimi-block/egg-RESTfulAPI](https://github.com/heimi-block/egg-RESTfulAPI) - 🏅 基于Egg.js 2.0 & {mongoose,jwt}RESTful API 模板，用于快速集成开发RESTful前后端分离的服务端。
 - [salt-ui/saltui](https://github.com/salt-ui/saltui) - 
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [newnil/oauth2-family-barrel](https://github.com/newnil/oauth2-family-barrel) - OAuth2全家桶项目。本项目演示了如何使用spring-boot、spring-security以及spring-security-oauth快速构建OAuth2服务框架体系。
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [kaola-fed/blog](https://github.com/kaola-fed/blog) - kaola blog
