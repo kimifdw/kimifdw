@@ -67,7 +67,7 @@
 - [Tencent/xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 - [phlalx/jos](https://github.com/phlalx/jos) - MIT 6.828: Operating System Engineering lab / JOS
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
-- [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - 
+- [alibaba/PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) - 
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
@@ -915,7 +915,7 @@
 - [lexburner/dubbo-mesh](https://github.com/lexburner/dubbo-mesh) - alibaba 2018 天池中间件大赛初赛 dubboMesh Rank 15.
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 - [TarsCloud/TarsJava](https://github.com/TarsCloud/TarsJava) - Java language framework rpc source code implementation
-- [DreamCats/java-notes](https://github.com/DreamCats/java-notes) - 自己的学习笔记。包含：21届秋招经历、🐂客面经问题按照频率总结、Java一系列知识、数据库、分布式、微服务、前端、技术面试、每日文章等(持续更新)
+- [DreamCats/java-notes](https://github.com/DreamCats/java-notes) - 自己的学习笔记。包含：个人秋招经历、🐂客面经问题按照频率总结、Java一系列知识、数据库、分布式、微服务、前端、技术面试、每日文章等(持续更新)
 - [splunk/lightproto](https://github.com/splunk/lightproto) - Protobuf compatible code generator
 - [dubboclub/dubbo-plus](https://github.com/dubboclub/dubbo-plus) - dubbo的插件集合
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
@@ -2489,7 +2489,7 @@
 - [tipoqueno/UI-Design](https://github.com/tipoqueno/UI-Design) - :fire: A curated list of useful resources related to User Interface Design
 - [LeuisKen/algorithm](https://github.com/LeuisKen/algorithm) - Practice algorithm everyday
 - [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
-- [ferrari014/EasyJob](https://github.com/ferrari014/EasyJob) - :fire:2021互联网求职面试知识复习
+- [chucheng92/EasyJob](https://github.com/chucheng92/EasyJob) - :fire:2021互联网求职面试知识复习
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [XueSeason/fuck-css](https://github.com/XueSeason/fuck-css) - 
