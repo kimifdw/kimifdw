@@ -181,7 +181,6 @@
 - [chengjiansheng/cjs-oauth2-example](https://github.com/chengjiansheng/cjs-oauth2-example) - Spring Security OAuth2.0
 - [deis/workflow](https://github.com/deis/workflow) - The open source PaaS for Kubernetes.
 - [choerodon/go-register-server](https://github.com/choerodon/go-register-server) - The microservice registration is implemented by monitoring the state changes of the k8s pod, and pull the interface in the spring cloud eureka client service list.
-- [ant-mini-program/mini-antui](https://github.com/ant-mini-program/mini-antui) - mini-antui 停止维护，可使用 mini-ali-ui ，品牌升级，功能加强，欢迎使用！
 - [Ookami86/event-sourcing-in-practice](https://github.com/Ookami86/event-sourcing-in-practice) - Slides for my talk "Event Sourcing in practice"
 - [asciidoctor/asciidoctor-browser-extension](https://github.com/asciidoctor/asciidoctor-browser-extension) - :white_circle: An extension for web browsers that converts AsciiDoc files to HTML using Asciidoctor.js.
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
@@ -276,7 +275,7 @@
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [openzipkin-contrib/zipkin-go-opentracing](https://github.com/openzipkin-contrib/zipkin-go-opentracing) - OpenTracing Bridge for Zipkin Go
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - 
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [seccome/Ehoney](https://github.com/seccome/Ehoney) - Seccome Teamer积累十几年的安全经验，都将对外逐步开放，首开的Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统，也是业界唯一开源的对标商业系统的产品，欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发，再结合自研密签及诱饵，将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果，可以很大程度上保护业务的安全。护网必备良药
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -1135,7 +1134,7 @@
 - [facebookarchive/nifty](https://github.com/facebookarchive/nifty) - Thrift on Netty
 - [CleverCloud/rabbitmq-autoreconnect-java](https://github.com/CleverCloud/rabbitmq-autoreconnect-java) - Helper to automatically handle reconnections automatically in a pool of rabbitmq servers.
 - [normanmaurer/netty-in-action](https://github.com/normanmaurer/netty-in-action) - 
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
 - [AxonIQ/giftcard-demo](https://github.com/AxonIQ/giftcard-demo) - Axon Framework demo application focused around a simple giftcard domain.
 - [Arronlong/httpclientutil](https://github.com/Arronlong/httpclientutil) - 该项目基于HttpClient-4.4.1封装的一个工具类。提供了更为简单的GET、POST及上传下载等功能。同时支持插件式配置Http-Header（包含自定义header）、配置SSL和Proxy等。
 - [daoshenzzg/socket-mqtt](https://github.com/daoshenzzg/socket-mqtt) - 基于Netty+MQTT的高性能推送服务框架。支持普通Socket、MQTT、MQTT web socket协议。非常方便接入上层业务实现推送业务。
@@ -1185,7 +1184,6 @@
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 - [chriniko13/spring-boot-akka-example](https://github.com/chriniko13/spring-boot-akka-example) - 
 - [keets2012/Spring-Boot-Samples](https://github.com/keets2012/Spring-Boot-Samples) - Spring-Boot-Samples(Spring Cloud)
-- [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
 - [gaoxianglong/service-tracing](https://github.com/gaoxianglong/service-tracing) - 基于Dubbo埋点的分布式调用跟踪系统
 - [SpringCloud/Moss](https://github.com/SpringCloud/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
 - [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
@@ -1714,7 +1712,6 @@
 - [jukylin/istio-ui](https://github.com/jukylin/istio-ui) - istio配置管理后台，停止维护。https://github.com/XiaoMi/naftis
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
-- [NodeRedis/node-redis](https://github.com/NodeRedis/node-redis) - A high performance Node.js Redis client.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [txd-team/docsite](https://github.com/txd-team/docsite) - An opensource static website generator
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
@@ -1839,7 +1836,7 @@
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [heimi-block/egg-RESTfulAPI](https://github.com/heimi-block/egg-RESTfulAPI) - 🏅 基于Egg.js 2.0 & {mongoose,jwt}RESTful API 模板，用于快速集成开发RESTful前后端分离的服务端。
 - [salt-ui/saltui](https://github.com/salt-ui/saltui) - 
-- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [newnil/oauth2-family-barrel](https://github.com/newnil/oauth2-family-barrel) - OAuth2全家桶项目。本项目演示了如何使用spring-boot、spring-security以及spring-security-oauth快速构建OAuth2服务框架体系。
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [kaola-fed/blog](https://github.com/kaola-fed/blog) - kaola blog
@@ -2203,6 +2200,7 @@
 ## Less 
 
 - [weizhanzhan/antd-vue-admin](https://github.com/weizhanzhan/antd-vue-admin) - 🌀ant design vue + vue.js + sass 等实现的后台管理系统(下面有浏览地址)
+- [ant-mini-program/mini-antui](https://github.com/ant-mini-program/mini-antui) - mini-antui 停止维护，可使用 mini-ali-ui ，品牌升级，功能加强，欢迎使用！
 - [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
@@ -2596,6 +2594,7 @@
 - [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 - [react-guide/react-basic](https://github.com/react-guide/react-basic) - React 设计思想
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
@@ -2900,7 +2899,6 @@
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn) - Elasticsearch权威指南中文版
 - [aqingsao/nana](https://github.com/aqingsao/nana) - A lightweight Nginx log analyzer written in shell(statistics of traffic/rate/response time/upstream servers/spiders/response codes)
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [dsyer/dependency-hell](https://github.com/dsyer/dependency-hell) - Short article on a dependency management issue with Maven 3.3
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [llitfkitfk/docker-tutorial-cn](https://github.com/llitfkitfk/docker-tutorial-cn) - docker 教程
@@ -2987,6 +2985,7 @@
 - [snyk/snyk](https://github.com/snyk/snyk) - Scans and monitors your projects for security vulnerabilities.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
+- [NodeRedis/node-redis](https://github.com/NodeRedis/node-redis) - A high performance Node.js Redis client.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
@@ -3103,6 +3102,7 @@
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [febsteam/FEBS-Vue](https://github.com/febsteam/FEBS-Vue) - SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统（精力有限，停止维护）
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
+- [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [ecomfe/veui](https://github.com/ecomfe/veui) - Enterprise UI for Vue.js.
 - [Jackyzm/ant-design-vue-pro](https://github.com/Jackyzm/ant-design-vue-pro) - ant-design-vue-pro Demo: https://jackyzm.com/vue/
