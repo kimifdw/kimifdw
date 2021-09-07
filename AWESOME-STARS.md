@@ -919,7 +919,7 @@
 - [splunk/lightproto](https://github.com/splunk/lightproto) - Protobuf compatible code generator
 - [dubboclub/dubbo-plus](https://github.com/dubboclub/dubbo-plus) - dubbo的插件集合
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-- [SimonAlong/Neo](https://github.com/SimonAlong/Neo) - Orm框架：基于ActiveRecord思想开发的至简化且功能很全的Orm框架
+- [SimonAlong/Neo](https://github.com/SimonAlong/Neo) - Orm框架：基于ActiveRecord思想开发的至简化Orm框架
 - [budwk/budwk](https://github.com/budwk/budwk) - WK系列开发框架-V6至V7 Java微服务+网关+Vue Element 前后端分离
 - [gaoxianglong/jedis-distributed-lock](https://github.com/gaoxianglong/jedis-distributed-lock) - jedis-client可重入分布式锁，支持redlock
 - [Tencent/bk-job](https://github.com/Tencent/bk-job) - 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。
@@ -1606,7 +1606,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [scottwolfcm/homebridge-tesla-gen3-wc](https://github.com/scottwolfcm/homebridge-tesla-gen3-wc) - Tesla Gen 3 Wall Connector Homebridge
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.20 安装手册，(k8s install) 在线答疑，持续更新。
-- [cashapp/quickjs-java](https://github.com/cashapp/quickjs-java) - The QuickJS embeddable Javascript engine packaged for Android and the JVM
+- [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
 - [gtudan/bpmn-js-cmd](https://github.com/gtudan/bpmn-js-cmd) - A command line tool for rendering BPMN-Diagrams with https://bpmn.io/toolkit/bpmn-js/
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
