@@ -474,7 +474,7 @@
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [leosabbir/consul_fabio_demo](https://github.com/leosabbir/consul_fabio_demo) - Demonstration of service registration with consul
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，VUE3已开放测试，欢迎issue和pr~
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，欢迎issue和pr~
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -2141,6 +2141,7 @@
 
 ## Kotlin 
 
+- [AAkira/Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform
 - [rcapraro/kalidation](https://github.com/rcapraro/kalidation) - Kalidation = A Kotlin validation DSL
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
 - [ButterCam/sisyphus](https://github.com/ButterCam/sisyphus) - Sisyphus is the way how we provide backend services.
@@ -2737,7 +2738,7 @@
 - [aiff22/DPED](https://github.com/aiff22/DPED) - Software and pre-trained models for automatic photo quality enhancement using Deep Convolutional Networks
 - [alibaba/alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) - 
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
-- [FranLucky/taobaospider](https://github.com/FranLucky/taobaospider) - 淘宝商品信息爬取：selenium + phantomJS + pyqurey + mongo
+- [Luo-Kuang/taobaospider](https://github.com/Luo-Kuang/taobaospider) - 淘宝商品信息爬取：selenium + phantomJS + pyqurey + mongo
 - [FastSchnell/googlebridge](https://github.com/FastSchnell/googlebridge) - Demo Websize
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [pubref/rules_maven](https://github.com/pubref/rules_maven) - Transitive maven dependencies with Bazel.
