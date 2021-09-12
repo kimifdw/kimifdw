@@ -1301,7 +1301,7 @@
 - [danielwegener/logback-kafka-appender](https://github.com/danielwegener/logback-kafka-appender) - Logback appender for Apache Kafka
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [niewj/ebook-share](https://github.com/niewj/ebook-share) - 程序员图书馆
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed Database Ecosphere
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Build criterion and ecosystem above multi-model databases
 - [jfaster/mango](https://github.com/jfaster/mango) - Distributed ORM Framework for Java
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [JakeWharton/gradle-like-bazel](https://github.com/JakeWharton/gradle-like-bazel) - A demo showing that you can (probably) structure Gradle projects like you would Bazel
@@ -1331,7 +1331,7 @@
 - [jmnarloch/zuul-trie-matcher-spring-cloud-starter](https://github.com/jmnarloch/zuul-trie-matcher-spring-cloud-starter) - Spring Cloud Zuul Trie tree route matcher
 - [jmnarloch/feign-okhttp-spring-cloud-starter](https://github.com/jmnarloch/feign-okhttp-spring-cloud-starter) - Spring Cloud Feign OkHttp client
 - [jmnarloch/feign-oauth2-spring-cloud-starter](https://github.com/jmnarloch/feign-oauth2-spring-cloud-starter) - Spring Cloud Feign OAuth2 authentication
-- [smartloli/kafka-eagle](https://github.com/smartloli/kafka-eagle) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
+- [smartloli/EFAK](https://github.com/smartloli/EFAK) - A easy and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.
 - [takari/maven-wrapper](https://github.com/takari/maven-wrapper) - The easiest way to integrate Maven into your project!
 - [PacktPublishing/Mastering-Spring-Cloud](https://github.com/PacktPublishing/Mastering-Spring-Cloud) - Mastering Spring Cloud, published by Packt
 - [jenkinsci/gitlab-plugin](https://github.com/jenkinsci/gitlab-plugin) - A Jenkins plugin for interfacing with GitLab
