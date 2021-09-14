@@ -269,6 +269,7 @@
 
 ## Go 
 
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 极客时间《Go 语言项目开发实战》教学项目
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
@@ -277,7 +278,7 @@
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - 
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
-- [seccome/Ehoney](https://github.com/seccome/Ehoney) - Seccome Teamer积累十几年的安全经验，都将对外逐步开放，首开的Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统，也是业界唯一开源的对标商业系统的产品，欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发，再结合自研密签及诱饵，将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果，可以很大程度上保护业务的安全。护网必备良药
+- [seccome/Ehoney](https://github.com/seccome/Ehoney) - Seccome Teamer积累十几年的安全经验，都将对外逐步开放，首开的Ehoney欺骗防御系统，该系统是基于云原生的欺骗防御系统，也是业界唯一开源的对标商业系统的产品，欺骗防御系统通过部署高交互高仿真蜜罐及流量代理转发，再结合自研密签及诱饵，将攻击者攻击引导到蜜罐中达到扰乱引导以及延迟攻击的效果，可以很大程度上保护业务的安全。护网必备良药。  安全、快捷、高交互、企业级的蜜罐管理系统，支持多种协议蜜罐、蜜签、诱饵等功能
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
 - [boratanrikulu/quik.do](https://github.com/boratanrikulu/quik.do) - We want to be able to talk in the simplest way. That's why we created Quik.do. Talk, easily.
@@ -1703,7 +1704,7 @@
 - [wechat-miniprogram/miniprogram-demo](https://github.com/wechat-miniprogram/miniprogram-demo) - 微信小程序组件 / API / 云开发示例
 - [atian25/node-cookbook](https://github.com/atian25/node-cookbook) - 《Node.js 从小工坊走向企业级开发》相关示例源码（尚未完成）
 - [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
-- [Tencent/westore](https://github.com/Tencent/westore) - 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
+- [Tencent/westore](https://github.com/Tencent/westore) - 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯和插件开发
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -2562,7 +2563,6 @@
 - [shengxinjing/be-a-professional-programmer](https://github.com/shengxinjing/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [DDFE/DDFE-blog](https://github.com/DDFE/DDFE-blog) - :clap: welcome to DDFE's blog
-- [jsfront/src](https://github.com/jsfront/src) - 常用代码收集资源分享
 - [youngwind/blog](https://github.com/youngwind/blog) - 梁少峰的个人博客
 - [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
