@@ -175,6 +175,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [PyConChina/2019-Slides](https://github.com/PyConChina/2019-Slides) - PyCon China 2019 幻灯片
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [AxonIQ/reference-guide](https://github.com/AxonIQ/reference-guide) - The Axon Reference Guide
@@ -370,7 +371,7 @@
 - [owenliang/go-raft](https://github.com/owenliang/go-raft) - A reliable raft algorithm implementation in go
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go with rich eco-system
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
-- [tal-tech/go-zero](https://github.com/tal-tech/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [uber-archive/go-torch](https://github.com/uber-archive/go-torch) - Stochastic flame graph profiler for Go programs
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
@@ -1008,6 +1009,7 @@
 - [bsideup/liiklus](https://github.com/bsideup/liiklus) - Reactive (RSocket/gRPC) Gateway for the event-based systems
 - [wenweihu86/raft-java](https://github.com/wenweihu86/raft-java) - Raft Java implementation which is simple and easy to understand.
 - [dianbaer/grain](https://github.com/dianbaer/grain) - grain是一个极简的、组件式的RPC框架，灵活且适合渐进学习，可与任何框架整合。同时包含（系统通用多线程模型与消息通讯 || 多对多关系的分布式锁 || 基于Servlet的HTTP框架 || 基于系统通用多线程模型的Websocket框架 || 支持行级锁的多线程锁 ）等组件，按需选择组件，不绑架开发者。
+- [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [rickfast/consul-client](https://github.com/rickfast/consul-client) - Java Client for Consul HTTP API
 - [mykidong/grpc-java-load-balancer-using-consul](https://github.com/mykidong/grpc-java-load-balancer-using-consul) - 
 - [wfh45678/radar](https://github.com/wfh45678/radar) - 实时风控引擎(Risk Engine)，自定义规则引擎（Rule Script），完美支持中文，适用于反欺诈(Anti-fraud)应用场景，开箱即用！！！移动互联网时代的风险管理利器，你 Get 到了吗？
@@ -2051,7 +2053,7 @@
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [stoneWeb/elm-react-native](https://github.com/stoneWeb/elm-react-native) - A react native app simulating eleme app，run ios and android.
-- [alibaba/rax](https://github.com/alibaba/rax) - 🐰 Rax is a progressive React framework for building universal application. https://rax.js.org
+- [alibaba/rax](https://github.com/alibaba/rax) - 🐰 Rax is a progressive framework for building universal application. https://rax.js.org
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [ireaderlab/zkdash](https://github.com/ireaderlab/zkdash) - A dashboard for zookeeper and Qconf
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -2317,7 +2319,6 @@
 - [SkyAPM/skywalking-data-collect-protocol-for-go](https://github.com/SkyAPM/skywalking-data-collect-protocol-for-go) - Apache skywalking
 - [LingCoder/OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版
 - [dair-ai/nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
-- [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [rootsongjc/cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - Cloud Native slides and materials share
 - [pgspider/pgspider](https://github.com/pgspider/pgspider) - High-Performance SQL Cluster Engine for Scalable Data Virtualization
