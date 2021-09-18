@@ -1787,7 +1787,6 @@
 - [thinkgem/jeesite4](https://github.com/thinkgem/jeesite4) - Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源
 - [i5ting/nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) - 高可用架构专用《全栈工程师之路-Node.js》
 - [xuqiang1227/DvaInitial](https://github.com/xuqiang1227/DvaInitial) - 基于Dva，Antd的一个初始化工程。包含国际化、多页入口、移动设备的高清处理、兼容性等问题。
-- [meili/minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
 - [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [vicwang163/react-to-vue](https://github.com/vicwang163/react-to-vue) - transform React component into Vue component
@@ -1805,7 +1804,7 @@
 - [airtap/airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
 - [redacademy/vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs) - Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend
 - [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [cuipengcx/good](https://github.com/cuipengcx/good) - Good权限管理系统是作者学习springBoot时基于springBoot开发的一套轻量级的权限系统，其目的是形成一套属于自己的通用的开发框架 以后来项目的时候就可以直接基于此平台进行开发，减少重复工作量；使用Spring Boot、Shiro、MyBatis、H-UI等框架，包含：管理员管理、角色管理、权限管理、调度管理等
 - [yi-ge/Koa2-API-Scaffold](https://github.com/yi-ge/Koa2-API-Scaffold) - 一个基于Koa2的轻量级RESTful API Server脚手架。
 - [tvrcgo/weixin-pay](https://github.com/tvrcgo/weixin-pay) - 微信支付
