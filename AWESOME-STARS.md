@@ -856,7 +856,6 @@
 - [glepnir/GoDoc-CN](https://github.com/glepnir/GoDoc-CN) - Go标准库的中文版Dash文档
 - [wx-chevalier/Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) - :books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
-- [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [atian25/blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
 - [monkeyk/MyOIDC](https://github.com/monkeyk/MyOIDC) - 基于OIDC协议的参考实现,根据各类库提供实现参考
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
@@ -1205,6 +1204,7 @@
 - [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) - Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
 - [thubbo/jmeter-plugins-for-apache-dubbo](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - Dubbo Plugin for Apache JMeter, It is a plug-in developed for testing Dubbo in Jmeter.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
+- [marchof/java-almanac](https://github.com/marchof/java-almanac) - The history and future of Java.
 - [apache/rocketmq-spring](https://github.com/apache/rocketmq-spring) - Apache RocketMQ Spring Integration
 - [didi/DDMQ](https://github.com/didi/DDMQ) - DDMQ is a distributed messaging product with low latency, high throughput and high availability.
 - [ZZMarquis/gmhelper](https://github.com/ZZMarquis/gmhelper) - 基于BC库：国密SM2/SM3/SM4算法简单封装；实现SM2 X509v3证书的签发；实现SM2 pfx证书的签发
@@ -2564,6 +2564,7 @@
 - [shengxinjing/be-a-professional-programmer](https://github.com/shengxinjing/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [DDFE/DDFE-blog](https://github.com/DDFE/DDFE-blog) - :clap: welcome to DDFE's blog
+- [jsfront/src](https://github.com/jsfront/src) - 常用代码收集资源分享
 - [youngwind/blog](https://github.com/youngwind/blog) - 梁少峰的个人博客
 - [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
