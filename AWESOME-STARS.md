@@ -3071,7 +3071,7 @@
 - [tianyong90/we-vue](https://github.com/tianyong90/we-vue) - we-vue， 不只是 vue.js + weui!
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-- [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI
+- [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Mobile component library based on React.
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
