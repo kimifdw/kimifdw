@@ -2970,7 +2970,7 @@
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [axuebin/mobile-vue-typescript-template](https://github.com/axuebin/mobile-vue-typescript-template) - :paperclip: Webpack4 + Babel7 + Typescript + JSX
 - [ng-tech-edu/typescript-quick-start](https://github.com/ng-tech-edu/typescript-quick-start) - 腾讯 NEXT 学院 TypeScript 入门实践课程配套代码与讲义
-- [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案）
+- [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [ykfe/egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
 - [wivwiv/mqtt-iot-platform](https://github.com/wivwiv/mqtt-iot-platform) - IoT Platform 基于 Nest.js & Egg.js 与 EMQ X 开发
@@ -3015,7 +3015,7 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）https://ice.work
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架），站点国内镜像：https://iceteam.gitee.io
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
