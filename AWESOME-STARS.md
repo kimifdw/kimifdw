@@ -244,7 +244,7 @@
 - [iampawan/Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) - Flutter app for collection of UI in a UIKit
 - [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
 - [heruijun/flutter_boss](https://github.com/heruijun/flutter_boss) - flutter仿BOSS直聘（二），大前端技术实现
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [bailicangdu/native-xdm](https://github.com/bailicangdu/native-xdm) - 基于 Flutter 构建一个跨平台的原生APP
 - [bingoogolapple/bga_issue_blog](https://github.com/bingoogolapple/bga_issue_blog) - Flutter 或 Vue 全家桶（Vue + VueRouter + Vuex + Axios）抓取 GitHub 上的 Issues，结合 GitHub Pages 搭建个人博客站点，支持 GitHub 登录和评论
 
@@ -2043,7 +2043,7 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [taofed/react-web](https://github.com/taofed/react-web) - A framework for building web apps with React Native compatible API.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -2491,7 +2491,6 @@
 - [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 - [chucheng92/EasyJob](https://github.com/chucheng92/EasyJob) - :fire:2021互联网求职面试知识复习
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [XueSeason/fuck-css](https://github.com/XueSeason/fuck-css) - 
 - [cursedcoder/awesome-pixijs](https://github.com/cursedcoder/awesome-pixijs) - My list of awesome pixi.js related parties
 - [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记
@@ -2883,6 +2882,7 @@
 - [trisberg/s1p2017-boot-k8s](https://github.com/trisberg/s1p2017-boot-k8s) - SpringOne Platform 2017 - Spring Boot Kubernetes sample
 - [rainglow/vscode](https://github.com/rainglow/vscode) - 320+ color themes for Visual Studio Code.
 - [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [chengbinbbs/spring-cloud](https://github.com/chengbinbbs/spring-cloud) - SpringCloud微服务架构，提供快速上手脚手架，快速构建高可用注册中心，高可用配置中心，加入Hystrix断路器，gateway服务官网，权限认证、服务降级、限流，加入应用监控
 - [linuxkit/kubernetes](https://github.com/linuxkit/kubernetes) - minimal and immutable Kubernetes images built with LinuxKit
@@ -3086,7 +3086,7 @@
 - [laixintao/myrc](https://github.com/laixintao/myrc) - ⚙️ My Linux Config files.
 - [oldratlee/vim-practice](https://github.com/oldratlee/vim-practice) - 💘 Vim is awesome! Here is my practice and study log.
 - [gpakosz/.vim](https://github.com/gpakosz/.vim) - Sensible yet opinionated Vim configuration
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
