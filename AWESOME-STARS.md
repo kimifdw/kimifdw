@@ -226,7 +226,6 @@
 
 - [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
-- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 
 ## Dart 
 
@@ -2513,6 +2512,7 @@
 - [LJ147/Awesome-WeChat](https://github.com/LJ147/Awesome-WeChat) - 技术型干货分享公众号集合，点击公众号链接即可扫描快速二维码。
 - [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 - [eggjs/awesome-egg](https://github.com/eggjs/awesome-egg) - Awesome Egg.js Web Framework and Plugin.
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
 - [joggerplus/awesome-weex](https://github.com/joggerplus/awesome-weex) - A curated list of awesome Weex guides, articles, sites, tools, projects and resources.
 - [shovanch/fullstack-web-developer-path](https://github.com/shovanch/fullstack-web-developer-path) - 📚 A learning path for Full-stack web development
