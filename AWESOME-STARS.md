@@ -1238,7 +1238,7 @@
 - [dromara/myth](https://github.com/dromara/myth) - Reliable messages resolve distributed transactions
 - [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
 - [goldze/MVVMHabit](https://github.com/goldze/MVVMHabit) - 👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。
-- [ChristophKnabe/spring-ddd-bank](https://github.com/ChristophKnabe/spring-ddd-bank) - A sample project following Domain Driven Design with Spring Data JPA
+- [christophknabe/spring-ddd-bank](https://github.com/christophknabe/spring-ddd-bank) - A sample project following Domain Driven Design with Spring Data JPA
 - [AutoGraphQL/AutoGraphQL](https://github.com/AutoGraphQL/AutoGraphQL) - Automatically provide CRUD functions for GraphQL and code free.
 - [xuyaohui/Spring-Cloud-Cli](https://github.com/xuyaohui/Spring-Cloud-Cli) - 基于Spring Cloud实现微服务前后端系统
 - [spring-cloud/spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) - Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...
@@ -2146,7 +2146,7 @@
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
 - [ButterCam/sisyphus](https://github.com/ButterCam/sisyphus) - Sisyphus is the way how we provide backend services.
 - [sourceplusplus/moonray-ui](https://github.com/sourceplusplus/moonray-ui) - 
-- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.
+- [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Wear Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.
 - [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions
 - [nacular/doodle](https://github.com/nacular/doodle) - A pure Kotlin UI framework for the Web.
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
@@ -2903,7 +2903,7 @@
 - [looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn) - Elasticsearch权威指南中文版
 - [aqingsao/nana](https://github.com/aqingsao/nana) - A lightweight Nginx log analyzer written in shell(statistics of traffic/rate/response time/upstream servers/spiders/response codes)
 - [dsyer/dependency-hell](https://github.com/dsyer/dependency-hell) - Short article on a dependency management issue with Maven 3.3
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [llitfkitfk/docker-tutorial-cn](https://github.com/llitfkitfk/docker-tutorial-cn) - docker 教程
 - [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
 
