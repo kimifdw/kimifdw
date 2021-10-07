@@ -458,7 +458,7 @@
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
-- [plgd-dev/cloud](https://github.com/plgd-dev/cloud) - Secure and Interoperable Internet of Things
+- [plgd-dev/hub](https://github.com/plgd-dev/hub) - Secure and Interoperable Internet of Things
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 - [ExperienceOne/apikit](https://github.com/ExperienceOne/apikit) - Generates Golang client and server based on OpenAPI2 (swagger) definitions
 - [adamluzsi/testcase](https://github.com/adamluzsi/testcase) - testcase is an opinionated testing framework based on BDD principles.
@@ -1849,7 +1849,7 @@
 - [alibaba/beidou](https://github.com/alibaba/beidou) - :milky_way: Isomorphic framework for server-rendered React apps
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [spring-projects/atom-boot-java](https://github.com/spring-projects/atom-boot-java) - 
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [alvarotrigo/pagePiling.js](https://github.com/alvarotrigo/pagePiling.js) - pagePiling plugin by Alvaro Trigo. Create a scrolling pile of sections. http://alvarotrigo.com/pagePiling/
 - [lmenezes/cerebro](https://github.com/lmenezes/cerebro) - 
