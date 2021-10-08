@@ -271,7 +271,7 @@
 ## Go 
 
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
-- [marmotedu/iam](https://github.com/marmotedu/iam) - 极客时间《Go 语言项目开发实战》教学项目
+- [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目（可作为Go项目开发脚手架）
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
@@ -2113,7 +2113,7 @@
 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Tools for ML/Tensorflow on Kubernetes.
+- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Training operators on Kubernetes.
 
 ## Julia 
 
@@ -2140,6 +2140,7 @@
 
 ## Kotlin 
 
+- [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler
 - [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection
 - [AAkira/Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform
 - [rcapraro/kalidation](https://github.com/rcapraro/kalidation) - Kalidation = A Kotlin validation DSL
@@ -3127,7 +3128,7 @@
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [vuejs/vue-template-explorer](https://github.com/vuejs/vue-template-explorer) - Vue template compilation explorer
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
-- [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗    vue教程 --- 高仿饿了么App
+- [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗     vue教程 --- 从0-1高仿饿了么App
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [N3-components/N3-admin](https://github.com/N3-components/N3-admin) - vue / vuex / N3 / vue-router / axios v2
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire:  :fire: The Open Source Airtable Alternative - Powered by Vue.js :heart:
