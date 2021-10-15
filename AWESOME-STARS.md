@@ -270,6 +270,10 @@
 
 ## Go 
 
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
+- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
+- [micro/micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
@@ -912,6 +916,7 @@
 
 ## Java 
 
+- [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [zxbu/webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver) - 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
@@ -924,7 +929,7 @@
 - [splunk/lightproto](https://github.com/splunk/lightproto) - Protobuf compatible code generator
 - [dubboclub/dubbo-plus](https://github.com/dubboclub/dubbo-plus) - dubbo的插件集合
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-- [simonalong/Neo](https://github.com/simonalong/Neo) - Orm框架：基于ActiveRecord思想开发的至简化Orm框架
+- [simonalong/Neo](https://github.com/simonalong/Neo) - Orm框架：基于ActiveRecord思想开发的至简化的java的Orm框架
 - [budwk/budwk](https://github.com/budwk/budwk) - WK系列开发框架-V6至V7 Java微服务+网关+Vue Element 前后端分离
 - [gaoxianglong/jedis-distributed-lock](https://github.com/gaoxianglong/jedis-distributed-lock) - jedis-client可重入分布式锁，支持redlock
 - [Tencent/bk-job](https://github.com/Tencent/bk-job) - 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。
@@ -2051,7 +2056,6 @@
 - [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [stoneWeb/elm-react-native](https://github.com/stoneWeb/elm-react-native) - A react native app simulating eleme app，run ios and android.
@@ -2270,6 +2274,7 @@
 
 ## Others 
 
+- [keets2012/k8s-scripts](https://github.com/keets2012/k8s-scripts) - 99jjhgffl
 - [zhfeng/quarkus-shardingsphere-jdbc](https://github.com/zhfeng/quarkus-shardingsphere-jdbc) - Quarkus Sharding Sphere Extension
 - [hijiangtao/javascript-articles-monthly](https://github.com/hijiangtao/javascript-articles-monthly) - JavaScript 文章精选月刊
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
@@ -2946,6 +2951,7 @@
 
 ## TypeScript 
 
+- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 - [yuanguandong/react-dashboard-pro](https://github.com/yuanguandong/react-dashboard-pro) - One-stop dashboard solution out of the box 开箱即用的一站式仪表板解决方案
 - [sorrycc/weekly](https://github.com/sorrycc/weekly) - 前端周刊，每周一发布。
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
@@ -3076,6 +3082,7 @@
 - [dabbott/react-native-express](https://github.com/dabbott/react-native-express) - The all-in-one guide to React Native
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [tianyong90/we-vue](https://github.com/tianyong90/we-vue) - we-vue， 不只是 vue.js + weui!
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
