@@ -469,7 +469,7 @@
 - [ExperienceOne/apikit](https://github.com/ExperienceOne/apikit) - Generates Golang client and server based on OpenAPI2 (swagger) definitions
 - [adamluzsi/testcase](https://github.com/adamluzsi/testcase) - testcase is an opinionated testing framework based on BDD principles.
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
-- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev
+- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd beta版本：https://preview.go-admin.dev
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
