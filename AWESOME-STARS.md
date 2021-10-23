@@ -897,7 +897,6 @@
 - [wx-chevalier/ProgrammingLanguage-Series](https://github.com/wx-chevalier/ProgrammingLanguage-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [handuyishe/dubbo-monitor](https://github.com/handuyishe/dubbo-monitor) - 基于Dubbox最新版本重新开发的简单监控
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
-- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -1664,7 +1663,7 @@
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
-- [wuhao000/antd-mobile-vue](https://github.com/wuhao000/antd-mobile-vue) - antd-mobile的vue实现
+- [wuhao000/antd-mobile-vue](https://github.com/wuhao000/antd-mobile-vue) - ant design mobile/antd mobile的vue实现
 - [Wizzercn/NutzWk](https://github.com/Wizzercn/NutzWk) - WK系列开发框架-V1至V5 Java开源企业级开发框架(单应用/微服务/分布式)
 - [JerryMissTom/ant-design-lite](https://github.com/JerryMissTom/ant-design-lite) - react-router, react-redux, redux-saga实现的多Tab页面瘦身版Ant Design Pro
 - [caiya/vuejs-admin-server](https://github.com/caiya/vuejs-admin-server) - vuejs-admin项目服务端部分
@@ -2248,6 +2247,7 @@
 
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（第二版 & 2018 edition）
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Mustache 
 
