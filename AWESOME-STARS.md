@@ -352,7 +352,6 @@
 - [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [lee820/design-pattern-go](https://github.com/lee820/design-pattern-go) - go语言实现设计模式
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [chaozh/MIT-6.824](https://github.com/chaozh/MIT-6.824) - Basic Sources for MIT 6.824 Distributed Systems Class
@@ -658,7 +657,7 @@
 - [wernerd/GoRTP](https://github.com/wernerd/GoRTP) - A RTP stack for Go
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [AlexStocks/getty](https://github.com/AlexStocks/getty) - a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
 - [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo
 - [seata/seata-go-server](https://github.com/seata/seata-go-server) - Seata compatible high availability server
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
@@ -915,6 +914,7 @@
 
 ## Java 
 
+- [acmenlt/dynamic-threadpool](https://github.com/acmenlt/dynamic-threadpool) - 🔥 强大的动态线程池，并附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function.
 - [Discord4J/Discord4J](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.
 - [DiUS/java-faker](https://github.com/DiUS/java-faker) - Brings the popular ruby faker gem to Java
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
@@ -2061,7 +2061,6 @@
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [stoneWeb/elm-react-native](https://github.com/stoneWeb/elm-react-native) - A react native app simulating eleme app，run ios and android.
 - [alibaba/rax](https://github.com/alibaba/rax) - 🐰 Rax is a progressive framework for building universal application. https://rax.js.org
-- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [ireaderlab/zkdash](https://github.com/ireaderlab/zkdash) - A dashboard for zookeeper and Qconf
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [vuejs/vue-rx](https://github.com/vuejs/vue-rx) - 👁️ RxJS integration for Vue.js.
@@ -2816,6 +2815,7 @@
 
 ## SCSS 
 
+- [phodal/dx](https://github.com/phodal/dx) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - website
@@ -2954,13 +2954,15 @@
 
 ## TypeScript 
 
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
+- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 - [yuanguandong/react-dashboard-pro](https://github.com/yuanguandong/react-dashboard-pro) - One-stop dashboard solution out of the box 开箱即用的一站式仪表板解决方案
 - [sorrycc/weekly](https://github.com/sorrycc/weekly) - 前端周刊，每周一发布。
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [vthinkxie/ng-pull-refresh](https://github.com/vthinkxie/ng-pull-refresh) - click refresh / auto refresh / pull refresh demo
-- [cloudhut/kowl](https://github.com/cloudhut/kowl) - Apache Kafka Web UI for exploring messages, consumers, configurations and more with a focus on a good UI & UX.
+- [cloudhut/kowl](https://github.com/cloudhut/kowl) - Kowl is a Web UI for Apache Kafka that allows exploring messages, consumers, configurations and more with a focus on a good UI & UX.
 - [robtaussig/react-use-websocket](https://github.com/robtaussig/react-use-websocket) - React Hook for WebSocket communication
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
