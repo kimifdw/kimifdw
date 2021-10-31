@@ -1891,7 +1891,6 @@
 - [didilinkin/react-admin-antd](https://github.com/didilinkin/react-admin-antd) - (原始版本在 - Router 分支)基于React-Antd的后台管理系统; 将使用webpack3+Redux+React-router4+styled-components+ESlint4（目前为测试数据, 非正式）
 - [zhennann/egg-born](https://github.com/zhennann/egg-born) - The Ultimate NodeJS Full Stack Framework
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [antvis/g2-react](https://github.com/antvis/g2-react) - This repo is being deprecated, check Ant Design Charts https://github.com/ant-design/ant-design-charts
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
@@ -3050,6 +3049,7 @@
 - [caohuilin/GraduationDesign](https://github.com/caohuilin/GraduationDesign) - 毕业设计 基于WEB的图书阅读器的实现
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
 - [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
+- [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
@@ -3135,7 +3135,7 @@
 - [Exrick/xboot-front](https://github.com/Exrick/xboot-front) - 基于Vue+iView Admin开发的XBoot前后端分离开放平台前端 权限可控制至按钮显示 动态路由权限菜单/多语言/简洁美观 前后端分离
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!
 - [EasyTuan/nuxt-elm](https://github.com/EasyTuan/nuxt-elm) - 基于nuxt2+vue构建的全栈开源项目
-- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - CoreUI Vue is free Vue admin template based on Bootstrap 4
+- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
 - [jiangshanmeta/vue-admin](https://github.com/jiangshanmeta/vue-admin) - 基于vue的针对admin应用的low code解决方案
 - [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
