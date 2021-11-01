@@ -864,6 +864,7 @@
 - [monkeyk/MyOIDC](https://github.com/monkeyk/MyOIDC) - 基于OIDC协议的参考实现,根据各类库提供实现参考
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [udap/udap.github.io](https://github.com/udap/udap.github.io) - UDAP Foundation website
+- [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [ant-design/antd-mobile-samples](https://github.com/ant-design/antd-mobile-samples) - antd-mobile samples
@@ -1261,7 +1262,6 @@
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
 - [pivotalsoftware/ESarch](https://github.com/pivotalsoftware/ESarch) - ESarch - CQRS & Event Sourcing with Spring Boot, Axon and Pivotal Cloud Foundry PAS
 - [spring-cloud-samples/spring-cloud-contract-samples](https://github.com/spring-cloud-samples/spring-cloud-contract-samples) - Samples for Spring Cloud Contract project
-- [flapdoodle-oss/de.flapdoodle.embed.mongo](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) - ...will provide a platform neutral way for running mongodb in unittests.
 - [febsteam/FEBS-Security](https://github.com/febsteam/FEBS-Security) - Spring Boot 2.0.4 & Spring Security 5.0.7 权限管理系统。（精力有限，停止维护）
 - [liuzuorui/dubbo-registry-consul](https://github.com/liuzuorui/dubbo-registry-consul) - dubbo registry use consul
 - [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) - :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
