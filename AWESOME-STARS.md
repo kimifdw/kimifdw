@@ -139,7 +139,7 @@
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
@@ -270,6 +270,7 @@
 
 ## Go 
 
+- [go-gorm/gen](https://github.com/go-gorm/gen) - A safer ORM base on GORM
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。
 - [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
@@ -484,7 +485,7 @@
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [leosabbir/consul_fabio_demo](https://github.com/leosabbir/consul_fabio_demo) - Demonstration of service registration with consul
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -1859,7 +1860,7 @@
 - [bingo-oss/bui-weex-sample](https://github.com/bingo-oss/bui-weex-sample) - bui-weex示例工程，包含了丰富的组件展示案例
 - [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [eggjs/doctools](https://github.com/eggjs/doctools) - doctools for eggjs
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [alibaba/beidou](https://github.com/alibaba/beidou) - :milky_way: Isomorphic framework for server-rendered React apps
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
@@ -3037,7 +3038,7 @@
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架），站点国内镜像：https://iceteam.gitee.io
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
