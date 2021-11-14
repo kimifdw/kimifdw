@@ -1537,7 +1537,7 @@
 - [jiangchao123/spring-cloud-security-oauth2-jdbc](https://github.com/jiangchao123/spring-cloud-security-oauth2-jdbc) - 使用spring-cloud-security-oauth2来实现oauth server和resource server，oauth Server和resource Server分开，resource Server实现了两种方式，一种是当用token调用受保护资源时，使用RemoteTokenServices来去oauth server去校验。另一种是共享数据库，然后资源服务器自己通过数据库进行校验。
 - [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
 - [scizeron/batch-poc](https://github.com/scizeron/batch-poc) - spring-boot spring-batch, quartz scheduling and docker swarm
-- [logstash/logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder) - Logback JSON encoder and appenders
+- [logfellow/logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder) - Logback JSON encoder and appenders
 - [eacdy/spring-cloud-docker-study](https://github.com/eacdy/spring-cloud-docker-study) - Spring Cloud 与 Docker 整合使用示例，为《使用Spring Cloud与Docker实战微服务》的配套代码。书籍地址：https://github.com/eacdy/spring-cloud-book 。讨论QQ群：157525002（已满）、564840207，欢迎加入。
 - [orlandovald/webflux-twitter-demo](https://github.com/orlandovald/webflux-twitter-demo) - A demo Spring Webflux application that connects to Twitter's streaming API
 - [SonarSource/sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) - SonarLint for IntelliJ
@@ -3125,7 +3125,7 @@
 ## Vue 
 
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
+- [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [wmz1930/Jeebase](https://github.com/wmz1930/Jeebase) - Jeebase是一款前后端分离的开源开发框架，基于springboot+vue（vue-element-admin/Ant Design Pro Vue）开发，一套SpringBoot后台，两套前端页面，可以自由选择基于ElementUI或者AntDesign的前端界面。二期会整合react前端框架（Ant Design React）。在实际应用中已经使用这套框架开发了CMS网站系统，社区论坛系统，微信小程序，微信服务号等，后面会逐步整理开源。 本项目主要目的在于整合主流技术框架，寻找应用最佳项目实践方案，实现可直接使用的快速开发框架。
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
