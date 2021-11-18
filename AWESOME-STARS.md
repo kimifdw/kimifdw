@@ -999,7 +999,7 @@
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [making/yavi](https://github.com/making/yavi) - Yet Another Validation for Java (A lambda based type safe validation framework)
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
-- [rsocket-routing/rsocket-routing-broker](https://github.com/rsocket-routing/rsocket-routing-broker) - 
+- [rsocket-broker/rsocket-broker](https://github.com/rsocket-broker/rsocket-broker) - 
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [apache/bahir-flink](https://github.com/apache/bahir-flink) - Mirror of Apache Bahir Flink
 - [DTStack/flinkStreamSQL](https://github.com/DTStack/flinkStreamSQL) - 基于开源的flink，对其实时sql进行扩展；主要实现了流与维表的join，支持原生flink SQL所有的语法
@@ -1017,7 +1017,7 @@
 - [grpc-nebula/grpc-nebula-java](https://github.com/grpc-nebula/grpc-nebula-java) - 微服务治理框架Java实现
 - [xaecbd/KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified  platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
-- [redis/jedis](https://github.com/redis/jedis) - Jedis is a Java client for Redis designed for performance and ease of use.
+- [redis/jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 - [1ssqq1lxr/iot-harbor](https://github.com/1ssqq1lxr/iot-harbor) - reactor3实现的mqtt库
@@ -1122,7 +1122,7 @@
 - [rsocket/rsocket-transport-akka](https://github.com/rsocket/rsocket-transport-akka) - Akka TCP and WebSocket transports for RSocket
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
-- [spencergibb/rsocket-routing-sample](https://github.com/spencergibb/rsocket-routing-sample) - 
+- [spencergibb/rsocket-broker-sample](https://github.com/spencergibb/rsocket-broker-sample) - 
 - [b3rnoulli/rsocket-examples](https://github.com/b3rnoulli/rsocket-examples) - RSocket examples from article series
 - [seaswalker/spring-analysis](https://github.com/seaswalker/spring-analysis) - Spring源码阅读
 - [graphql-java/java-dataloader](https://github.com/graphql-java/java-dataloader) - A Java 8 port of Facebook DataLoader
@@ -2678,7 +2678,7 @@
 - [zhaoboy9692/me-tools](https://github.com/zhaoboy9692/me-tools) - 一些小工具，淘宝抓包xposed模块、微信运动、秒杀抢票、table2json、抹机王、flyme助手
 - [TencentCloud/serverless](https://github.com/TencentCloud/serverless) - TencentCloud Serverless
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球300所大学用于教学。
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [sql-machine-learning/elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework
