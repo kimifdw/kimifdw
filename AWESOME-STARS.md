@@ -1050,7 +1050,7 @@
 - [apple/servicetalk](https://github.com/apple/servicetalk) - A networking framework that evolves with your application
 - [vert-x3/vertx-mqtt](https://github.com/vert-x3/vertx-mqtt) - Vert.x MQTT
 - [Cicizz/jmqtt](https://github.com/Cicizz/jmqtt) - A MQTT broker,implemented by java and netty,support persistence and cluster
-- [spring-cloud-incubator/spring-cloud-rsocket](https://github.com/spring-cloud-incubator/spring-cloud-rsocket) - This repository is now inactive. Please see https://github.com/rsocket-routing/
+- [spring-attic/spring-cloud-rsocket](https://github.com/spring-attic/spring-cloud-rsocket) - This repository is now inactive. Please see https://github.com/rsocket-routing/
 - [vlingo/xoom-lattice](https://github.com/vlingo/xoom-lattice) - The VLINGO XOOM platform SDK Reactive Domain-Driven Design models that are highly scalable and concurrent. Includes compute grid, actor caching, spaces, cross-node grid cluster messaging, message exchanges, CQRS, and Event Sourcing support.
 - [mercyblitz/thinking-in-spring-boot-samples](https://github.com/mercyblitz/thinking-in-spring-boot-samples) - 小马哥书籍《Spring Boot 编程思想》示例工程
 - [TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) - A barebones WebSocket client and server implementation written in 100% Java.
@@ -1641,7 +1641,7 @@
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [areslabs/alita](https://github.com/areslabs/alita) - 一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 - [zhongshaofa/layuimini](https://github.com/zhongshaofa/layuimini) - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
 - [andifalk/reactive-spring-security-5-workshop](https://github.com/andifalk/reactive-spring-security-5-workshop) - Hands-On workshop for securing a reactive spring boot 2 application in multiple steps
 - [serputko/performance-testing-framework](https://github.com/serputko/performance-testing-framework) - Framework allows to perform load testing with Apache Jmeter, view application/server metrics in real-time with Grafana, analyze errors cause with detailed traces for failed requests, compare different test runs in scripted dashboard and perform frontend performance testing with sitespeed.io+webpagetest
@@ -2678,7 +2678,7 @@
 - [zhaoboy9692/me-tools](https://github.com/zhaoboy9692/me-tools) - 一些小工具，淘宝抓包xposed模块、微信运动、秒杀抢票、table2json、抹机王、flyme助手
 - [TencentCloud/serverless](https://github.com/TencentCloud/serverless) - TencentCloud Serverless
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
 - [sql-machine-learning/elasticdl](https://github.com/sql-machine-learning/elasticdl) - Kubernetes-native Deep Learning Framework
@@ -3125,7 +3125,7 @@
 ## Vue 
 
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [chuzhixin/vue-admin-beautiful-pro](https://github.com/chuzhixin/vue-admin-beautiful-pro) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
+- [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)
 - [wmz1930/Jeebase](https://github.com/wmz1930/Jeebase) - Jeebase是一款前后端分离的开源开发框架，基于springboot+vue（vue-element-admin/Ant Design Pro Vue）开发，一套SpringBoot后台，两套前端页面，可以自由选择基于ElementUI或者AntDesign的前端界面。二期会整合react前端框架（Ant Design React）。在实际应用中已经使用这套框架开发了CMS网站系统，社区论坛系统，微信小程序，微信服务号等，后面会逐步整理开源。 本项目主要目的在于整合主流技术框架，寻找应用最佳项目实践方案，实现可直接使用的快速开发框架。
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
