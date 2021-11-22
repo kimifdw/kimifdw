@@ -1045,7 +1045,7 @@
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
 - [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) - 《史上最简单的Spring Cloud教程源码》
 - [howiehu/ddd-architecture-samples](https://github.com/howiehu/ddd-architecture-samples) - 
-- [360jinrong/chronus](https://github.com/360jinrong/chronus) - Chronus是360数科技术团队基于阿里开源项目TBSchedule重写的分布式调度。
+- [360digitech/chronus](https://github.com/360digitech/chronus) - Chronus是360数科技术团队基于阿里开源项目TBSchedule重写的分布式调度。
 - [nmyphp/tbschedule](https://github.com/nmyphp/tbschedule) - tbschedule是一个由Alibaba开源的支持分布式的调度框架。
 - [apple/servicetalk](https://github.com/apple/servicetalk) - A networking framework that evolves with your application
 - [vert-x3/vertx-mqtt](https://github.com/vert-x3/vertx-mqtt) - Vert.x MQTT
@@ -3099,7 +3099,7 @@
 - [tianyong90/we-vue](https://github.com/tianyong90/we-vue) - we-vue， 不只是 vue.js + weui!
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-- [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Mobile component library based on React.
+- [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Fluent and powerful mobile component library based on React.
 - [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
