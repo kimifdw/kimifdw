@@ -1565,7 +1565,7 @@
 - [gaoxianglong/shark](https://github.com/gaoxianglong/shark) - :shark:分布式mysql分库分表中间件，sharding领域的一站式解决方案
 - [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) - Java诊断工具
 - [weexteam/hackernews-App-powered-by-Apache-Weex](https://github.com/weexteam/hackernews-App-powered-by-Apache-Weex) - 
-- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
+- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
 - [json-iterator/java](https://github.com/json-iterator/java) - jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [apache/activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
@@ -2995,7 +2995,7 @@
 - [ng-tech-edu/typescript-quick-start](https://github.com/ng-tech-edu/typescript-quick-start) - 腾讯 NEXT 学院 TypeScript 入门实践课程配套代码与讲义
 - [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [ykfe/egg-react-ssr](https://github.com/ykfe/egg-react-ssr) - 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
+- [zhangyuang/egg-react-ssr](https://github.com/zhangyuang/egg-react-ssr) - 最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS
 - [wivwiv/mqtt-iot-platform](https://github.com/wivwiv/mqtt-iot-platform) - IoT Platform 基于 Nest.js & Egg.js 与 EMQ X 开发
 - [wooline/react-coat-ssr-demo](https://github.com/wooline/react-coat-ssr-demo) - Demo with Typescript + React + Redux  for  server-side-rendering  (SSR)
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
