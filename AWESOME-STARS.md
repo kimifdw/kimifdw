@@ -100,6 +100,7 @@
 - [mackyle/sqlite](https://github.com/mackyle/sqlite) - Unofficial git mirror of SQLite sources (see link for build instructions)
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
+- [sergiomsilva/alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained) - License Plate Detection and Recognition in Unconstrained Scenarios
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
 - [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -193,6 +194,7 @@
 - [zhangtr/teedao](https://github.com/zhangtr/teedao) - 权限管理平台
 - [aliceui/aliceui.github.io](https://github.com/aliceui/aliceui.github.io) - 写样式的一种方式
 - [wizardforcel/gainlo-interview-guide-zh](https://github.com/wizardforcel/gainlo-interview-guide-zh) - :book: [译] Gainlo 面试指南
+- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
 - [ahangchen/How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - [译]如何做好一枚程序员
 - [caohuilin/Resume](https://github.com/caohuilin/Resume) - 2017-曹慧琳-前端工程师-简历
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -1468,7 +1470,6 @@
 - [dunwu/spring-tutorial](https://github.com/dunwu/spring-tutorial) - :book: Spring Framework 教程
 - [Qihoo360/XLearning](https://github.com/Qihoo360/XLearning) - AI on Hadoop
 - [leftso/demo-spring-boot-security-oauth2](https://github.com/leftso/demo-spring-boot-security-oauth2) - demo-spring-boot-security-oauth2
-- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
 - [alibaba/jstorm](https://github.com/alibaba/jstorm) - Enterprise Stream Process Engine
 - [wosyingjun/HRPC](https://github.com/wosyingjun/HRPC) - A light-weight high performance RPC framework base on Netty and Zookeeper
 - [chenssy89/JavaCore](https://github.com/chenssy89/JavaCore) - JavaCore，Java核心技术学习的最佳实践。
@@ -1635,8 +1636,7 @@
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
-- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [areslabs/alita](https://github.com/areslabs/alita) - 一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。
@@ -2710,7 +2710,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [wangshub/Alfred-Github-Trending](https://github.com/wangshub/Alfred-Github-Trending) - Alfred github trending workflow in Python.
 - [HuberTRoy/leetCode](https://github.com/HuberTRoy/leetCode) - :pencil2: 算法相关知识储备 LeetCode with Python and JavaScript :books:
-- [sergiomsilva/alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained) - License Plate Detection and Recognition in Unconstrained Scenarios
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [myquant/strategy](https://github.com/myquant/strategy) - 掘金策略集锦
@@ -3062,7 +3061,7 @@
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby
+- [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [microsoft/TypeScript-WeChat-Starter](https://github.com/microsoft/TypeScript-WeChat-Starter) - A starter template for TypeScript and WeChat with a detailed README describing how to use the two together.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
@@ -3130,6 +3129,7 @@
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
+- [doocs/md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [febsteam/FEBS-Vue](https://github.com/febsteam/FEBS-Vue) - SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统（精力有限，停止维护）
