@@ -921,6 +921,7 @@
 
 ## Java 
 
+- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 - [acmenlt/dynamic-threadpool](https://github.com/acmenlt/dynamic-threadpool) - 🔥 强大的动态线程池，附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function.
@@ -994,7 +995,7 @@
 - [j-easy/easy-flows](https://github.com/j-easy/easy-flows) - The simple, stupid workflow engine for Java
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM
-- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere is an End-to-End open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) - 一站式开源持续测试平台
 - [bjmashibing/JUC](https://github.com/bjmashibing/JUC) - 多线程与高并发
 - [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
@@ -1069,7 +1070,7 @@
 - [doublechaintech/scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite) - 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
 - [real-logic/agrona](https://github.com/real-logic/agrona) - High Performance data structures and utility methods for Java
 - [spring-guides/gs-spring-boot-kubernetes](https://github.com/spring-guides/gs-spring-boot-kubernetes) - Spring Boot Kubernetes :: Deploy a Spring Boot application to Kubernetes :: spring-boot,spring-framework
-- [biezhi/redis-dqueue](https://github.com/biezhi/redis-dqueue) - redis base delay queue
+- [hellokaton/redis-dqueue](https://github.com/hellokaton/redis-dqueue) - redis base delay queue
 - [linhuaichuan/ecp-uid](https://github.com/linhuaichuan/ecp-uid) - 居于美团leaf、百度UidGenerator、原生snowflake 进行整合的 唯一ID生成器
 - [jgrandja/spring-security-oauth-5-2-migrate](https://github.com/jgrandja/spring-security-oauth-5-2-migrate) - 
 - [kubernetes-client/java](https://github.com/kubernetes-client/java) - Official Java client library for kubernetes
@@ -1427,7 +1428,7 @@
 - [longfeizheng/security-oauth2](https://github.com/longfeizheng/security-oauth2) - ✨Spring security OAuth2
 - [envoyproxy/java-control-plane](https://github.com/envoyproxy/java-control-plane) - Java implementation of an Envoy gRPC control plane
 - [salesforce/reactive-grpc](https://github.com/salesforce/reactive-grpc) - Reactive stubs for gRPC
-- [biezhi/learn-java8](https://github.com/biezhi/learn-java8) - 💖《跟上 Java 8》视频课程源码
+- [hellokaton/learn-java8](https://github.com/hellokaton/learn-java8) - 💖《跟上 Java 8》视频课程源码
 - [zth390872451/oauth2-redis-mysql](https://github.com/zth390872451/oauth2-redis-mysql) - 1、使用Redis 存储AccessToken 2、使用MySQL 存储ClientDetails和UserDetails信息
 - [longfeizheng/sso-merryyou](https://github.com/longfeizheng/sso-merryyou) - 🍻使用spring security和Oauht2 实现单点登录
 - [ShawnyXiao/SpringBoot-MyBatis](https://github.com/ShawnyXiao/SpringBoot-MyBatis) - A REST back-end framework, integrated by Spring Boot, MyBatis and Spring Security OAuth
@@ -1622,12 +1623,12 @@
 
 ## JavaScript 
 
+- [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [scottwolfcm/homebridge-tesla-gen3-wc](https://github.com/scottwolfcm/homebridge-tesla-gen3-wc) - Tesla Gen 3 Wall Connector Homebridge
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.20 安装手册，(k8s install) 在线答疑，持续更新。
 - [gtudan/bpmn-js-cmd](https://github.com/gtudan/bpmn-js-cmd) - A command line tool for rendering BPMN-Diagrams with https://bpmn.io/toolkit/bpmn-js/
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [sagiegurari/node-go-require](https://github.com/sagiegurari/node-go-require) - Load Google GO files as any javascript modules under nodeJS runtime.
@@ -2278,6 +2279,7 @@
 
 ## Others 
 
+- [sijie/awesome-pulsar](https://github.com/sijie/awesome-pulsar) - A curated list of Pulsar tools, integrations and resources.
 - [keets2012/k8s-scripts](https://github.com/keets2012/k8s-scripts) - 99jjhgffl
 - [zhfeng/quarkus-shardingsphere-jdbc](https://github.com/zhfeng/quarkus-shardingsphere-jdbc) - Quarkus Sharding Sphere Extension
 - [hijiangtao/javascript-articles-monthly](https://github.com/hijiangtao/javascript-articles-monthly) - JavaScript 文章精选月刊
@@ -2846,6 +2848,7 @@
 
 ## Shell 
 
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [calee0219/awesome-5g](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -&gt; FTL -&gt; WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming
@@ -3157,7 +3160,7 @@
 - [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗     vue教程 --- 从0-1高仿饿了么App
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [N3-components/N3-admin](https://github.com/N3-components/N3-admin) - vue / vuex / N3 / vue-router / axios v2
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js ❤️
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
 - [bluefox1688/vue-cli-multi-page](https://github.com/bluefox1688/vue-cli-multi-page) - 因时间精力有限，项目已不再维护，请慎重使用，vue2-cli-vux2-multe-page，使用了webpack2+vuejs2+vuxUI2的多页面脚手架
