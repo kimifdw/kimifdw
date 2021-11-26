@@ -273,7 +273,7 @@
 ## Go 
 
 - [go-gorm/gen](https://github.com/go-gorm/gen) - A safer ORM base on GORM
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
@@ -995,7 +995,7 @@
 - [j-easy/easy-flows](https://github.com/j-easy/easy-flows) - The simple, stupid workflow engine for Java
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM
-- [metersphere/metersphere](https://github.com/metersphere/metersphere) - 一站式开源持续测试平台
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！
 - [bjmashibing/JUC](https://github.com/bjmashibing/JUC) - 多线程与高并发
 - [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
@@ -1891,7 +1891,6 @@
 - [JetBrains/create-react-kotlin-app](https://github.com/JetBrains/create-react-kotlin-app) - Create React apps using Kotlin with no build configuration
 - [reactjs/react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 
 - [seasonstar/egg-24time](https://github.com/seasonstar/egg-24time) - A Twitter-like news and social server for Egg. 微信小程序社区全栈解决方案
-- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
 - [didilinkin/react-admin-antd](https://github.com/didilinkin/react-admin-antd) - (原始版本在 - Router 分支)基于React-Antd的后台管理系统; 将使用webpack3+Redux+React-router4+styled-components+ESlint4（目前为测试数据, 非正式）
 - [zhennann/egg-born](https://github.com/zhennann/egg-born) - The Ultimate NodeJS Full Stack Framework
@@ -3056,6 +3055,7 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [caohuilin/GraduationDesign](https://github.com/caohuilin/GraduationDesign) - 毕业设计 基于WEB的图书阅读器的实现
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
+- [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
@@ -3160,7 +3160,7 @@
 - [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗     vue教程 --- 从0-1高仿饿了么App
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [N3-components/N3-admin](https://github.com/N3-components/N3-admin) - vue / vuex / N3 / vue-router / axios v2
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative - powered by Vue.js ❤️
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
 - [bluefox1688/vue-cli-multi-page](https://github.com/bluefox1688/vue-cli-multi-page) - 因时间精力有限，项目已不再维护，请慎重使用，vue2-cli-vux2-multe-page，使用了webpack2+vuejs2+vuxUI2的多页面脚手架
