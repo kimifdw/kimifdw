@@ -271,7 +271,7 @@
 
 ## Go 
 
-- [go-gorm/gen](https://github.com/go-gorm/gen) - A safer ORM base on GORM
+- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
@@ -279,7 +279,7 @@
 - [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
 - [micro/micro](https://github.com/micro/micro) - Micro is a distributed cloud operating system
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.
+- [yedf/dtm](https://github.com/yedf/dtm) - 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目（可作为Go项目开发脚手架）
@@ -960,7 +960,7 @@
 - [bluedavy/McQueenRPC](https://github.com/bluedavy/McQueenRPC) - An lighting McQueenRPC based on netty/mina/grizzly,it includes connection management & rpc abstract,especially how to get high performance.
 - [mattia-battiston/clean-architecture-example](https://github.com/mattia-battiston/clean-architecture-example) - Clean Architecture Example (Java): Example of what clean architecture would look like (in Java)
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目，无语言障碍地、更高效地吸收国人优秀经验成果；榜单周更，敬请关注！
 - [didi/LogiKM](https://github.com/didi/LogiKM) - 一站式Apache Kafka集群指标监控与运维管控平台
 - [making/rsc](https://github.com/making/rsc) - RSocket Client CLI (RSC) that aims to be a curl for RSocket
 - [odrotbohm/spring-playground](https://github.com/odrotbohm/spring-playground) - A collection of tiny helpers for building Spring applications
@@ -1624,7 +1624,7 @@
 ## JavaScript 
 
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [scottwolfcm/homebridge-tesla-gen3-wc](https://github.com/scottwolfcm/homebridge-tesla-gen3-wc) - Tesla Gen 3 Wall Connector Homebridge
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.20 安装手册，(k8s install) 在线答疑，持续更新。
@@ -2826,7 +2826,7 @@
 - [phodal/dx](https://github.com/phodal/dx) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
-- [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - website
+- [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
