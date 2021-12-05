@@ -875,6 +875,7 @@
 - [ant-design/antd-mobile-samples](https://github.com/ant-design/antd-mobile-samples) - antd-mobile samples
 - [tower1229/frontend-face-detection](https://github.com/tower1229/frontend-face-detection) - a demo of frontend-face-detection
 - [mercyblitz/mercyblitz.github.io](https://github.com/mercyblitz/mercyblitz.github.io) - 小马哥的技术博客 :D
+- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
 - [sofastack/sofastack.github.io](https://github.com/sofastack/sofastack.github.io) - Website content of sofastack.io.
 - [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh) - :books: Go语言圣经中文版
@@ -1338,7 +1339,7 @@
 - [joshlong/multiple-datasource-spring-apps-sample](https://github.com/joshlong/multiple-datasource-spring-apps-sample) - Sample demonstrating the library in [this little library supporting multi-datasource registration](http://github.com/multiple-datasource-spring-apps)
 - [jmnarloch/ribbon-discovery-filter-spring-cloud-starter](https://github.com/jmnarloch/ribbon-discovery-filter-spring-cloud-starter) - Spring Cloud Ribbon discovery server filtering
 - [spring-projects-experimental/spring-fu](https://github.com/spring-projects-experimental/spring-fu) - KoFu and JaFu configuration DSLs for Spring Boot
-- [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。另外写博客，用 OpenWrite。
+- [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 - [joshlong/multiple-datasource-spring-apps](https://github.com/joshlong/multiple-datasource-spring-apps) - a POC demonstrating multiple-datasources in a JDBC/JPA context
 - [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
 - [codingmiao/ngineureka](https://github.com/codingmiao/ngineureka) - ngineureka，一个监控spring boot注册中心(eureka),并将服务映射到nginx负载均衡的工具
@@ -2466,7 +2467,6 @@
 - [hackstoic/kubernetes_practice](https://github.com/hackstoic/kubernetes_practice) - kubernetes实践指南(内容不定期更新中。。。), 欢迎提PR。
 - [poorevil/alimama-webapi](https://github.com/poorevil/alimama-webapi) - 无需阿里开放平台淘客权限，实现服务端全自动淘客抓取、佣金计划申请、优惠券生成、淘客链接创建等功能
 - [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
-- [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [gejun123456/MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) - 
 - [vuejs/vue-docs-zh-cn](https://github.com/vuejs/vue-docs-zh-cn) - 
