@@ -310,7 +310,7 @@
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 - [labulaka521/ibm_bak](https://github.com/labulaka521/ibm_bak) - IBM Developer 中文网站文章备份
-- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) - Detect, track and alert on infrastructure drift
+- [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go
 - [inherd/coca](https://github.com/inherd/coca) - Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的工具箱。它可以分析代码中的测试坏味道、模块化分析、行数统计、分析调用与依赖、Git 分析以及自动化重构等。
@@ -339,7 +339,7 @@
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin tracer library for go
+- [openzipkin/zipkin-go](https://github.com/openzipkin/zipkin-go) - Zipkin distributed tracing library for go.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [streadway/amqp](https://github.com/streadway/amqp) - Go client for AMQP 0.9.1
 - [eliben/raft](https://github.com/eliben/raft) - :rowboat: Raft implementation in Go
@@ -2700,7 +2700,7 @@
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [duanhongyi/gmssl](https://github.com/duanhongyi/gmssl) - a python crypto for sm2/sm3/sm4
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing.
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [wx-chevalier/Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) - :books: Ultimate CheatSheets(Tutorials&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
