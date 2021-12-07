@@ -74,7 +74,6 @@
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [alibaba/erlang_multi_pollset](https://github.com/alibaba/erlang_multi_pollset) - 
 - [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
 - [RedisLabs/redis-cluster-proxy](https://github.com/RedisLabs/redis-cluster-proxy) - A proxy for Redis clusters.
@@ -533,6 +532,7 @@
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [gorilla/sessions](https://github.com/gorilla/sessions) - Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends.
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [tidwall/tinylru](https://github.com/tidwall/tinylru) - A fast little LRU cache for Go
@@ -1177,7 +1177,7 @@
 - [BriData/DBus](https://github.com/BriData/DBus) - DBus
 - [yizzuide/Milkomeda](https://github.com/yizzuide/Milkomeda) - Spring extend componets which build from experience of bussiness, let developers to develop with Spring Boot as fast as possible.（基于Spring生态打造的一系列来自业务上的快速开发模块集合。）
 - [fyhertz/libstreaming](https://github.com/fyhertz/libstreaming) - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
-- [tywo45/t-io](https://github.com/tywo45/t-io) - 解决其它网络框架没有解决的用户痛点，让天下没有难开发的网络程序
+- [tywo45/t-io](https://github.com/tywo45/t-io) - 如果网络编程很痛苦，那一定是没用 t-io
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [NetCrusherOrg/netcrusher-java](https://github.com/NetCrusherOrg/netcrusher-java) - NetCrusher is a TCP/UDP proxy that allows to test services for failover
 - [Meituan-Dianping/Leaf](https://github.com/Meituan-Dianping/Leaf) - Distributed ID Generate Service
