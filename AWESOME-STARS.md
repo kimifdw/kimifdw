@@ -447,7 +447,7 @@
 - [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [ZZMarquis/gm](https://github.com/ZZMarquis/gm) - Go语言：实现国密SM2/SM3/SM4算法；实现SM2 X509v3证书签发和解析
 - [victorsteven/food-app-server](https://github.com/victorsteven/food-app-server) - Exploring Domain-Driven Design in Golang
-- [facebookincubator/ntp](https://github.com/facebookincubator/ntp) - Facebook's NTP libraries
+- [facebookincubator/time](https://github.com/facebookincubator/time) - Facebook's NTP libraries
 - [hantmac/Mastering_Go_Second_Edition_Zh_CN](https://github.com/hantmac/Mastering_Go_Second_Edition_Zh_CN) - Mastering Go 第二版中文版来袭！
 - [TarsCloud/TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
@@ -1627,6 +1627,7 @@
 
 ## JavaScript 
 
+- [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
