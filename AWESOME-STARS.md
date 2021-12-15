@@ -355,7 +355,6 @@
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
-- [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [lee820/design-pattern-go](https://github.com/lee820/design-pattern-go) - go语言实现设计模式
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -765,7 +764,7 @@
 - [henrylee2cn/pholcus](https://github.com/henrylee2cn/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [kubeless/kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
+- [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - Cloud-native and easy-to-use application management platform | 云原生且易用的应用管理平台
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [zxh0/jvmgo-book](https://github.com/zxh0/jvmgo-book) - 《自己动手写Java虚拟机》随书源代码
@@ -844,6 +843,7 @@
 - [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [wx-chevalier/K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
+- [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -1763,7 +1763,6 @@
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [kitze/JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [Corey600/zoodubbo](https://github.com/Corey600/zoodubbo) - A Javascript module for Node.js to connect Dubbo service.
 - [sofastack/sofa-bolt-node](https://github.com/sofastack/sofa-bolt-node) - The Node.js implementation of the SOFABolt protocol
 - [tion126/RNLive](https://github.com/tion126/RNLive) - RNLive ----&gt; react-native 仿映客直播 支持iOS/Android
@@ -1794,7 +1793,7 @@
 - [Justineo/vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
 - [softonic/axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [sosout/react-antd](https://github.com/sosout/react-antd) - 基于react + redux + immutable + less + ES6/7 + webpack2.0 + fetch + react-router + antd实现的SPA后台管理系统模板
+- [xiubug/react-antd](https://github.com/xiubug/react-antd) - 基于react + redux + immutable + less + ES6/7 + webpack2.0 + fetch + react-router + antd实现的SPA后台管理系统模板
 - [funkyLover/vue-permission-control-demo](https://github.com/funkyLover/vue-permission-control-demo) - Front-end permission control demo of vuejs
 - [recurrying/refast](https://github.com/recurrying/refast) - 5分钟就能学会的 React 组件状态管理工具。文档:
 - [tumobi/nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program) - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
@@ -2663,6 +2662,7 @@
 
 ## Python 
 
+- [jbfavre/python-zabbix](https://github.com/jbfavre/python-zabbix) - Implementation of Zabbix Sender protocol in Python
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [liuhuanyong/ChainKnowledgeGraph](https://github.com/liuhuanyong/ChainKnowledgeGraph) - ChainKnowledgeGraph, 产业链知识图谱包括A股上市公司、行业和产品共3类实体，包括上市公司所属行业关系、行业上级关系、产品上游原材料关系、产品下游产品关系、公司主营产品、产品小类共6大类。 上市公司4,654家，行业511个，产品95,559条、上游材料56,824条，上级行业480条，下游产品390条，产品小类52,937条，所属行业3,946条。
 - [PegasusWang/python_data_structures_and_algorithms](https://github.com/PegasusWang/python_data_structures_and_algorithms) - Python 中文数据结构和算法教程
@@ -3035,6 +3035,7 @@
 - [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
