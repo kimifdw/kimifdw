@@ -115,6 +115,7 @@
 
 ## C# # 
 
+- [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
 - [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
@@ -926,6 +927,7 @@
 
 ## Java 
 
+- [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A simple 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration test portable; and a tool for setting/viewing dns of running JVM process.
 - [sagframe/sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy) - Java真正最强大的ORM框架，支持mysql、oracle、postgresql、sqlserver、db2、dm、mongodb、elasticsearch、clickhouse、StarRocks、kudu、tidb、guassdb、kingbase、oceanbase、greenplum
 - [vavr-io/vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
@@ -2663,6 +2665,8 @@
 
 ## Python 
 
+- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
+- [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
 - [Neeky/mysqltools](https://github.com/Neeky/mysqltools) - 一个用于快速构建大规模，高质量，全自动化的 mysql分布式集群环境的工具；包含mysql 安装、备份、监控、高可用、读写分离、优化、巡检、自行化运维
 - [jbfavre/python-protobix](https://github.com/jbfavre/python-protobix) - Very simple python module implementing Zabbix Sender protocol.
 - [jbfavre/python-zabbix](https://github.com/jbfavre/python-zabbix) - Implementation of Zabbix Sender protocol in Python
