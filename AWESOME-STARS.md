@@ -923,7 +923,6 @@
 ## Haskell 
 
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 
 ## Java 
 
@@ -969,7 +968,7 @@
 - [bluedavy/McQueenRPC](https://github.com/bluedavy/McQueenRPC) - An lighting McQueenRPC based on netty/mina/grizzly,it includes connection management & rpc abstract,especially how to get high performance.
 - [mattia-battiston/clean-architecture-example](https://github.com/mattia-battiston/clean-architecture-example) - Clean Architecture Example (Java): Example of what clean architecture would look like (in Java)
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，分离中文/英文、软件/资料项目，精准挖掘优秀中文项目，高效吸收优秀经验。               Brother project: 「GitHub English Top Charts」https://github.com/kon9chunkit/GitHub-English-Top-Charts
+- [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。
 - [didi/LogiKM](https://github.com/didi/LogiKM) - 一站式Apache Kafka集群指标监控与运维管控平台
 - [making/rsc](https://github.com/making/rsc) - RSocket Client CLI (RSC) that aims to be a curl for RSocket
 - [odrotbohm/spring-playground](https://github.com/odrotbohm/spring-playground) - A collection of tiny helpers for building Spring applications
@@ -2790,6 +2789,7 @@
 - [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod) - 
 - [anishathalye/neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! 🎨
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [DaoCloud/python-mysql-sample](https://github.com/DaoCloud/python-mysql-sample) - Sample application in python and mysql
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
