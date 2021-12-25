@@ -273,6 +273,7 @@
 
 ## Go 
 
+- [mehdihadeli/awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) - A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
 - [dnsjia/luban](https://github.com/dnsjia/luban) - CMDB，K8S容器管理，运维平台，自动化运维发布平台
 - [shaj13/raft](https://github.com/shaj13/raft) - raft is a golang library that provides a simple, clean, and idiomatic implementation of the Raft consensus protocol
 - [tkestack/kstone](https://github.com/tkestack/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
@@ -1094,7 +1095,7 @@
 - [chengdedeng/waf](https://github.com/chengdedeng/waf) - :vertical_traffic_light:Web Application Firewall or API Gateway(应用防火墙/API网关)
 - [EliMirren/VX-API-Gateway](https://github.com/EliMirren/VX-API-Gateway) - VX-API-Gateway是基于Vert.x(java)开发的API网关,是一个分布式,全异步,高性能,可扩展,轻量级的API网关
 - [geektime-geekbang/geektime-spring-family](https://github.com/geektime-geekbang/geektime-spring-family) - 极客时间视频课程《玩转Spring全家桶》
-- [ChinaSilence/gatling-test](https://github.com/ChinaSilence/gatling-test) - 性能测试工具 Gatling 实践
+- [AnoyiX/gatling-test](https://github.com/AnoyiX/gatling-test) - 性能测试工具 Gatling 实践
 - [wangqifox/api-gateway-core](https://github.com/wangqifox/api-gateway-core) - a lightweight api gateway
 - [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for exposing JMX Beans via HTTP for Prometheus consumption
 - [jhunters/jprotobuf](https://github.com/jhunters/jprotobuf) - A useful utility library for java programmer using google protobuf
@@ -2950,6 +2951,7 @@
 
 ## Swift 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [Cosmo/Clippy](https://github.com/Cosmo/Clippy) - 📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
