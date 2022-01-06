@@ -67,7 +67,6 @@
 - [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 - [Tencent/xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 - [phlalx/jos](https://github.com/phlalx/jos) - MIT 6.828: Operating System Engineering lab / JOS
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - The default branch of PolarDB switched to “main” on 20210901, which supports compute-storage separation architecture. The “POLARDB_11_STABLE” is the stable branch which is based on PostgreSQL 11.9. The “master” branch in the past switched to “distributed” branch, which supports distributed architecture.
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -775,6 +774,7 @@
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [alibaba/pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
+- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Training operators on Kubernetes.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol
 - [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
@@ -2676,6 +2676,7 @@
 - [PegasusWang/python_data_structures_and_algorithms](https://github.com/PegasusWang/python_data_structures_and_algorithms) - Python 中文数据结构和算法教程
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [Granulate/gprofiler](https://github.com/Granulate/gprofiler) - gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 - [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
@@ -2769,7 +2770,6 @@
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Training operators on Kubernetes.
 - [aiff22/DPED](https://github.com/aiff22/DPED) - Software and pre-trained models for automatic photo quality enhancement using Deep Convolutional Networks
 - [alibaba/alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) - 
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
@@ -3181,7 +3181,7 @@
 - [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗     vue教程 --- 从0-1高仿饿了么App
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [x-cold/N3-admin](https://github.com/x-cold/N3-admin) - vue / vuex / N3 / vue-router / axios v2
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
 - [bluefox1688/vue-cli-multi-page](https://github.com/bluefox1688/vue-cli-multi-page) - 因时间精力有限，项目已不再维护，请慎重使用，vue2-cli-vux2-multe-page，使用了webpack2+vuejs2+vuxUI2的多页面脚手架
