@@ -424,7 +424,7 @@
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [luanjunyi/gossipd](https://github.com/luanjunyi/gossipd) - MQTT broker in golang
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8, and up.
+- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
 - [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [mailru/easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
@@ -868,6 +868,7 @@
 - [skyao/learning-servicemesh](https://github.com/skyao/learning-servicemesh) - ServiceMesh学习笔记
 - [glepnir/GoDoc-CN](https://github.com/glepnir/GoDoc-CN) - Go标准库的中文版Dash文档
 - [wx-chevalier/Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) - :books: Guide to Galaxy, curated, worthy and up-to-date links/reading list for ITCS-Coding/Algorithm/SoftwareArchitecture/AI.  :dizzy: ITCS-编程/算法/软件架构/人工智能等领域的文章/书籍/资料/项目链接精选，岁月沉淀的美好
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [atian25/blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
 - [monkeyk/MyOIDC](https://github.com/monkeyk/MyOIDC) - 基于OIDC协议的参考实现,根据各类库提供实现参考
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
@@ -1805,7 +1806,6 @@
 - [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
 - [heruijun/react-native-lagou](https://github.com/heruijun/react-native-lagou) - 用react native写的仿拉勾ios版本demo
 - [timarney/react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
-- [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
 - [thinkgem/jeesite4](https://github.com/thinkgem/jeesite4) - Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Spring MVC、Apache Shiro、MyBatis、Beetl、Bootstrap、AdminLTE），在线代码生成功能，包括核心模块如：组织机构、角色用户、菜单及按钮授权、数据权限、系统参数、内容管理、工作流等。采用松耦合设计；界面无刷新，一键换肤；众多账号安全设置，密码策略；在线定时任务配置；支持集群，支持SAAS；支持多数据源
 - [i5ting/nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) - 高可用架构专用《全栈工程师之路-Node.js》
 - [xuqiang1227/DvaInitial](https://github.com/xuqiang1227/DvaInitial) - 基于Dva，Antd的一个初始化工程。包含国际化、多页入口、移动设备的高清处理、兼容性等问题。
@@ -2398,7 +2398,6 @@
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [kirintang/go-read-recommend](https://github.com/kirintang/go-read-recommend) - :fire: 让阅读变成一件有意义的事。Golang好文推荐；收录平时阅读到的一些Go相关写的比较好、质量较高的干货文章.
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [formulahendry/awesome-vscode-cn](https://github.com/formulahendry/awesome-vscode-cn) - 中文版 Awesome VS Code
 - [llitfkitfk/go-best-practice](https://github.com/llitfkitfk/go-best-practice) - Go语言实战:  编写可维护Go语言代码建议
 - [skyao/servicemesh2018](https://github.com/skyao/servicemesh2018) - Service Mesh2018年度总结
@@ -2659,6 +2658,7 @@
 
 ## Python 
 
+- [pofey/movie_robot](https://github.com/pofey/movie_robot) - 电影机器人，自动从豆瓣电影的想看、在看、看过中获取影音信息，然后去PT站智能选种，找到最匹配的资源加入自己的影音库。
 - [QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
 - [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 - [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
@@ -3170,6 +3170,7 @@
 - [vuejs/ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
 - [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
+- [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
 - [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue2.0 http://www.heyui.top
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [vuejs/vue-template-explorer](https://github.com/vuejs/vue-template-explorer) - Vue template compilation explorer
