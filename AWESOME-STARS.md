@@ -64,7 +64,6 @@
 ## C 
 
 - [happyfish100/fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
-- [Tencent/xLua](https://github.com/Tencent/xLua) - xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
 - [phlalx/jos](https://github.com/phlalx/jos) - MIT 6.828: Operating System Engineering lab / JOS
 - [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - "POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.
@@ -2159,11 +2158,11 @@
 
 ## Kotlin 
 
+- [Tencent/bk-ci](https://github.com/Tencent/bk-ci) - 蓝鲸CI平台(BlueKing CI)
 - [analysis-dev/diktat](https://github.com/analysis-dev/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler
 - [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection
 - [AAkira/Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform
-- [rcapraro/kalidation](https://github.com/rcapraro/kalidation) - Kalidation = A Kotlin validation DSL
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
 - [ButterCam/sisyphus](https://github.com/ButterCam/sisyphus) - Sisyphus is the way how we provide backend services.
 - [sourceplusplus/moonray-ui](https://github.com/sourceplusplus/moonray-ui) - 
@@ -2284,13 +2283,10 @@
 ## Others 
 
 - [huangfox/dpkb](https://github.com/huangfox/dpkb) - 大数据相关内容汇总，包括分布式存储引擎、分布式计算引擎、数仓建设等。关键词：Hadoop、HBase、ES、Kudu、Hive、Presto、Spark、Flink、Kylin、ClickHouse
-- [sijie/awesome-pulsar](https://github.com/sijie/awesome-pulsar) - A curated list of Pulsar tools, integrations and resources.
-- [keets2012/k8s-scripts](https://github.com/keets2012/k8s-scripts) - 99jjhgffl
 - [zhfeng/quarkus-shardingsphere-jdbc](https://github.com/zhfeng/quarkus-shardingsphere-jdbc) - Quarkus Sharding Sphere Extension
 - [hijiangtao/javascript-articles-monthly](https://github.com/hijiangtao/javascript-articles-monthly) - JavaScript 文章精选月刊
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity 中文版）
-- [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒6200+ Material Design Icons from the Community
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [0voice/computer_expert_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
@@ -2662,7 +2658,6 @@
 
 - [pofey/movie_robot](https://github.com/pofey/movie_robot) - 电影机器人，自动从豆瓣电影的想看、在看、看过中获取影音信息，然后去PT站智能选种，找到最匹配的资源加入自己的影音库。
 - [QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
-- [fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan) - A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228
 - [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
 - [Neeky/mysqltools](https://github.com/Neeky/mysqltools) - 一个用于快速构建大规模，高质量，全自动化的 mysql分布式集群环境的工具；包含mysql 安装、备份、监控、高可用、读写分离、优化、巡检、自行化运维
 - [jbfavre/python-protobix](https://github.com/jbfavre/python-protobix) - Very simple python module implementing Zabbix Sender protocol.
@@ -2976,12 +2971,8 @@
 
 ## TypeScript 
 
-- [yunsii/vite-react](https://github.com/yunsii/vite-react) - 🚀 Use Vite + React like a Pro!
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
-- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
-- [yuanguandong/react-dashboard-pro](https://github.com/yuanguandong/react-dashboard-pro) - One-stop dashboard solution out of the box 开箱即用的一站式仪表板解决方案
 - [sorrycc/weekly](https://github.com/sorrycc/weekly) - 前端周刊，每周一发布。
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
