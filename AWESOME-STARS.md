@@ -1949,7 +1949,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [gaearon/react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate) - A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
 - [shaozj/react-webpack-multipage-template](https://github.com/shaozj/react-webpack-multipage-template) - template of react webpack multiple pages application
-- [wtzeng1/create-multipage-react-app](https://github.com/wtzeng1/create-multipage-react-app) - Create multiple page React app.
+- [jtsang4/create-multipage-react-app](https://github.com/jtsang4/create-multipage-react-app) - Create multiple page React app.
 - [zhengybo/react-webpack2](https://github.com/zhengybo/react-webpack2) - react webpack2 多页面
 - [aemoe/webpack-react-framework](https://github.com/aemoe/webpack-react-framework) - 一个完善的Webpack+React集成环境,支持模块热加载和Css热加载效果,并支持多页面入口的Webpack打包,并附加完整的config配置文件注释,可以方便的修改环境及配置
 - [HelTi/webpack-m-pages](https://github.com/HelTi/webpack-m-pages) - :clap: webpack多页配置
