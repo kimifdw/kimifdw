@@ -1520,7 +1520,7 @@
 - [JackyAndroid/AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher) - This is a leanback style tv launcher(minSdkVersion 17)
 - [brunocleite/spring-boot-exception-handling](https://github.com/brunocleite/spring-boot-exception-handling) - Final source code accompanying the article on the Toptal Blog.
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
-- [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - A Gateway built on Spring Framework 5.x and Spring Boot 2.x providing routing and more.
+- [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - A Gateway built on Spring Framework and Spring Boot providing routing and more.
 - [dsyer/frontend-microservices](https://github.com/dsyer/frontend-microservices) - 
 - [chenlei2/spring-boot-dubbox](https://github.com/chenlei2/spring-boot-dubbox) - spring-boot 集成dubbox
 - [forezp/SpringBootLearning](https://github.com/forezp/SpringBootLearning) - 《Spring Boot教程》源码
