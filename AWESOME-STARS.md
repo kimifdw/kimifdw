@@ -2062,7 +2062,7 @@
 - [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
 - [taofed/react-web](https://github.com/taofed/react-web) - A framework for building web apps with React Native compatible API.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -3168,7 +3168,7 @@
 - [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
 - [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
-- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue2.0 http://www.heyui.top
+- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [vuejs/vue-template-explorer](https://github.com/vuejs/vue-template-explorer) - Vue template compilation explorer
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
