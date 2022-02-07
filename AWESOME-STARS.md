@@ -1629,6 +1629,7 @@
 
 ## JavaScript 
 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
@@ -1780,7 +1781,7 @@
 - [omnip620/node-zookeeper-dubbo](https://github.com/omnip620/node-zookeeper-dubbo) - A middleware helps node to communicate dubbo by using its default protocol, which is registered in zookeeper
 - [SangKa/react-in-patterns-cn](https://github.com/SangKa/react-in-patterns-cn) - React in patterns 中文版
 - [heimi-block/egg-AntDesignPro](https://github.com/heimi-block/egg-AntDesignPro) - 🏆 开箱即用的中台前端/设计解决方案(搭配egg-RESTfulAPI)
-- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - 🔬 Utilities for testing Vue components
+- [vuejs/vue-test-utils](https://github.com/vuejs/vue-test-utils) - Component Test Utils for Vue 2
 - [PacktPublishing/Learning-JavaScript-Data-Structures-and-Algorithms-Third-Edition](https://github.com/PacktPublishing/Learning-JavaScript-Data-Structures-and-Algorithms-Third-Edition) - Learning JavaScript Data Structures and Algorithms (Third Edition), published by Packt
 - [cnpm/koa-limit](https://github.com/cnpm/koa-limit) - koa middleware for limiting requests by ip
 - [J2ephyr/LUVWMS_React](https://github.com/J2ephyr/LUVWMS_React) - LUVWMS的前端代码，使用iceworks构建。
@@ -2658,6 +2659,7 @@
 
 ## Python 
 
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
