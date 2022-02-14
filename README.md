@@ -37,8 +37,8 @@ SQL          46 mins         █░░░░░░░░░░░░░░░░
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimifdw&layout=compact&hide=html,css,javascript)
 
-- 🔭 I’m currently working on aux group
-- 🌱 I’m currently learning golang
+- 🔭 I’m currently working on yongxingsec group
+- 🌱 I’m currently learning k8s
 
 <!--
 **kimifdw/kimifdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
