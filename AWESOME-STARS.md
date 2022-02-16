@@ -285,7 +285,7 @@
 - [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction manager. Support saga, tcc, xa, 2 phases messages.  跨语言分布式事务管理器
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages.  跨语言分布式事务管理器
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
@@ -933,6 +933,7 @@
 
 ## Java 
 
+- [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) - Distributed Scheduled Job Framework
 - [lyh200/dynamic-tp](https://github.com/lyh200/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，支持线程池上下文传递，基于主流配置中心（默认支持Nacos、Apollo，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (default support Nacos、Apollo, can be customized through SPI).
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
@@ -1015,7 +1016,6 @@
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) - Real - time non-invasive AOP framework container based on JVM
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、性能测试等。搞测试，就选 MeterSphere！
 - [bjmashibing/JUC](https://github.com/bjmashibing/JUC) - 多线程与高并发
-- [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
 - [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
 - [making/yavi](https://github.com/making/yavi) - Yet Another Validation for Java (A lambda based type safe validation framework)
@@ -1352,7 +1352,7 @@
 - [ClouGence/hasor](https://github.com/ClouGence/hasor) - Hasor是一套基于 Java 语言的开发框架，区别于其它框架的是 Hasor 有着自己一套完整的体系，同时还可以和先有技术体系做到完美融合。它包含：IoC/Aop容器框架、Web框架、Jdbc框架、RSF分布式RPC框架、DataQL引擎，等几块。
 - [joshlong/multiple-datasource-spring-apps-sample](https://github.com/joshlong/multiple-datasource-spring-apps-sample) - Sample demonstrating the library in [this little library supporting multi-datasource registration](http://github.com/multiple-datasource-spring-apps)
 - [jmnarloch/ribbon-discovery-filter-spring-cloud-starter](https://github.com/jmnarloch/ribbon-discovery-filter-spring-cloud-starter) - Spring Cloud Ribbon discovery server filtering
-- [spring-projects-experimental/spring-fu](https://github.com/spring-projects-experimental/spring-fu) - KoFu and JaFu configuration DSLs for Spring Boot
+- [spring-projects-experimental/spring-fu](https://github.com/spring-projects-experimental/spring-fu) - Configuration DSLs for Spring Boot
 - [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example) - spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 - [joshlong/multiple-datasource-spring-apps](https://github.com/joshlong/multiple-datasource-spring-apps) - a POC demonstrating multiple-datasources in a JDBC/JPA context
 - [vipshop/vjtools](https://github.com/vipshop/vjtools) - The vip.com's java coding standard, libraries and tools
@@ -2154,6 +2154,7 @@
 - [snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) - 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [wx-chevalier/TensorFlow-Series](https://github.com/wx-chevalier/TensorFlow-Series) - 人工智能与深度学习实战 - TensorFlow 篇（MD & Notebooks）
+- [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [d2l-ai/berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
 - [huaweicloud/ModelArts-Lab](https://github.com/huaweicloud/ModelArts-Lab) - ModelArts-Lab是示例代码库。更多AI开发学习交流信息，请访问华为云AI开发者社区：huaweicloud.ai
 - [tensorflow/examples](https://github.com/tensorflow/examples) - TensorFlow examples
