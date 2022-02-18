@@ -285,7 +285,7 @@
 - [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages.  跨语言分布式事务管理器
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages.
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
