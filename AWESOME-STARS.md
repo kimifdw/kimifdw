@@ -292,7 +292,7 @@
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-- [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目（可作为Go项目开发脚手架）
+- [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
@@ -496,7 +496,7 @@
 - [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [leosabbir/consul_fabio_demo](https://github.com/leosabbir/consul_fabio_demo) - Demonstration of service registration with consul
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。
+- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（已完成setup语法糖版本），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码。
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
@@ -1127,7 +1127,7 @@
 - [piomin/spring-boot-logging](https://github.com/piomin/spring-boot-logging) - A library for logging HTTP request/response for Spring Boot application and integration with Elastic Stack
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [simonbasle-demos/rsocket-demo](https://github.com/simonbasle-demos/rsocket-demo) - Demonstration of basics of RSocket
-- [febsteam/FEBS-Cloud](https://github.com/febsteam/FEBS-Cloud) - 基于Spring Cloud Hoxton.RELEASE、Spring Cloud OAuth2 & Spring Cloud Alibaba & Element 微服务权限系统，开箱即用。预览地址：https://cloud.mrbird.cn
+- [febsteam/FEBS-Cloud](https://github.com/febsteam/FEBS-Cloud) - 基于Spring Cloud Hoxton.RELEASE、Spring Cloud OAuth2 & Spring Cloud Alibaba & Element 微服务权限系统，开箱即用。
 - [FasterXML/jackson-dataformats-binary](https://github.com/FasterXML/jackson-dataformats-binary) - Uber-project for standard Jackson binary format backends: avro, cbor, ion, protobuf, smile
 - [piomin/sample-testing-microservices](https://github.com/piomin/sample-testing-microservices) - sample applications with implementation of unit, component, contract and integrarion tests using pact, gatling, spring boot test and hoverfly
 - [14251104246/spring-boot-ci-demo](https://github.com/14251104246/spring-boot-ci-demo) - 持续构建ci全流程（jenkins+git+maven+docker+sonar+gatling）
@@ -1273,7 +1273,7 @@
 - [IBM/reactive-code-workshop](https://github.com/IBM/reactive-code-workshop) - Reactive Code Workshop 2018
 - [qiujiayu/AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) - AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
 - [vladimir-bukhtoyarov/bucket4j](https://github.com/vladimir-bukhtoyarov/bucket4j) - Java rate limiting library based on token/leaky-bucket algorithm.
-- [DTStack/flinkx](https://github.com/DTStack/flinkx) - Based on Apache Flink. Support data synchronization/integration.
+- [DTStack/chunjun](https://github.com/DTStack/chunjun) - Based on Apache Flink. Support data synchronization/integration.
 - [dromara/myth](https://github.com/dromara/myth) - Reliable messages resolve distributed transactions
 - [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
 - [goldze/MVVMHabit](https://github.com/goldze/MVVMHabit) - 👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。
@@ -1424,7 +1424,7 @@
 - [spring-cloud-samples/authserver](https://github.com/spring-cloud-samples/authserver) - 
 - [spring-cloud-samples/springbox-cloud](https://github.com/spring-cloud-samples/springbox-cloud) - Spring Cloud Reference Application
 - [zhangtr/canal-mongo](https://github.com/zhangtr/canal-mongo) - replication data from mysql to mongoDB by canal
-- [febsteam/FEBS-Shiro](https://github.com/febsteam/FEBS-Shiro) - Spring Boot 2.4.2，Shiro1.6.0 & Layui 2.5.6 权限管理系统。预览地址：http://47.104.70.138:8080/login
+- [febsteam/FEBS-Shiro](https://github.com/febsteam/FEBS-Shiro) - Spring Boot 2.4.2，Shiro1.6.0 & Layui 2.5.6 权限管理系统。
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 - [davenkin/java_transaction_workshop](https://github.com/davenkin/java_transaction_workshop) - 
 - [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) - Spring Cloud基础教程，持续连载更新中
@@ -2294,7 +2294,7 @@
 
 ## Others 
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
@@ -2701,7 +2701,7 @@
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
-- [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [NorakGithub/django-docker-alpine](https://github.com/NorakGithub/django-docker-alpine) - Example building Django docker image with Alpine
 - [zhaoboy9692/me-tools](https://github.com/zhaoboy9692/me-tools) - 一些小工具，淘宝抓包xposed模块、微信运动、秒杀抢票、table2json、抹机王、flyme助手
