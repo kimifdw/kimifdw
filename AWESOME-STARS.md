@@ -850,7 +850,6 @@
 
 ## HTML 
 
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [wx-chevalier/MessageQueue-Series](https://github.com/wx-chevalier/MessageQueue-Series) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
 - [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
@@ -2678,6 +2677,7 @@
 
 ## Python 
 
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS) - QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
