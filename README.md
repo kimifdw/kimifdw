@@ -23,13 +23,15 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Java         8 hrs 20 mins   ███████████████▓░░░░░░░░░   62.64 % 
-JavaScript   2 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 % 
-XML          1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Jade         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Java           8 hrs 20 mins   ███████████████▓░░░░░░░░░   62.03 %
+JavaScript     2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+XML            1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Jade           51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Other          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 
