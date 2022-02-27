@@ -983,7 +983,7 @@
 - [bluedavy/McQueenRPC](https://github.com/bluedavy/McQueenRPC) - An lighting McQueenRPC based on netty/mina/grizzly,it includes connection management & rpc abstract,especially how to get high performance.
 - [mattia-battiston/clean-architecture-example](https://github.com/mattia-battiston/clean-architecture-example) - Clean Architecture Example (Java): Example of what clean architecture would look like (in Java)
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [didi/LogiKM](https://github.com/didi/LogiKM) - 一站式Apache Kafka集群指标监控与运维管控平台
 - [making/rsc](https://github.com/making/rsc) - RSocket Client CLI (RSC) that aims to be a curl for RSocket
 - [odrotbohm/spring-playground](https://github.com/odrotbohm/spring-playground) - A collection of tiny helpers for building Spring applications
@@ -1170,6 +1170,7 @@
 - [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
 - [ExampleDriven/grpc-eureka-java](https://github.com/ExampleDriven/grpc-eureka-java) - 
 - [cjunflying/jt808](https://github.com/cjunflying/jt808) - 部标协议jt808 ，采用技术包括 netty、spring、spring boot。实现部标2011版全部协议
+- [lightningMan/flash-netty](https://github.com/lightningMan/flash-netty) - 掘金小册及实体书源码
 - [mrniko/netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 - [jwpttcg66/NettyGameServer](https://github.com/jwpttcg66/NettyGameServer) - 使用netty4.X实现的手机游戏分布式服务器,支持tcp,udp,http,websocket链接，采用protobuf自定义协议栈进行网络通信,支持rpc远程调用,使用mybatis3支持db存储分库分表，支持异步mysql存储，db保存时同步更新reids缓存。 使用ExcelToCode工程，将excel数据生成java类和json数据字典，DictService直接读取json，减少数据字典部分代码。使用game-executor工程，增加游戏内的异步事件全局服务, 支持事件sharding,均衡的异步执行事件逻辑
 - [Dwolla/rsocket-consul-java](https://github.com/Dwolla/rsocket-consul-java) - A library for streaming healthy service instances in Consul to the RSocket load balancer
@@ -1643,6 +1644,7 @@
 
 ## JavaScript 
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [Snailclimb/JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview) - JavaGuide面试突击版
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -2298,7 +2300,6 @@
 ## Others 
 
 - [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
@@ -2395,7 +2396,6 @@
 - [b3log/30-seconds-zh_CN](https://github.com/b3log/30-seconds-zh_CN) - 📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。
 - [mercyblitz/tech-daily-questions](https://github.com/mercyblitz/tech-daily-questions) - 「小马哥每日一问」
 - [servicemesher/infoq-service-mesh-emag-zh](https://github.com/servicemesher/infoq-service-mesh-emag-zh) - InfoQ eMag #75 Service Mesh Past, Present, and Future 中文版
-- [lightningMan/flash-netty](https://github.com/lightningMan/flash-netty) - 掘金小册对应源代码 https://juejin.im/book/5b4bc28bf265da0f60130116
 - [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) - It is a book about the Essentials of Norman Maurer's Netty in Action.《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》的一个精简
 - [zhangjiongdev/k8s](https://github.com/zhangjiongdev/k8s) - 
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
