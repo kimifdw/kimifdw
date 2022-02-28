@@ -378,7 +378,7 @@
 - [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
 - [bigwhite/publication](https://github.com/bigwhite/publication) - 个人出版物相关资料，比如配套源码等。
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
-- [mdlayher/netlink](https://github.com/mdlayher/netlink) - Package netlink provides low-level access to Linux netlink sockets. MIT Licensed.
+- [mdlayher/netlink](https://github.com/mdlayher/netlink) - Package netlink provides low-level access to Linux netlink sockets (AF_NETLINK). MIT Licensed.
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 - [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
@@ -1040,7 +1040,7 @@
 - [byl0561/HWcode2020-TestData](https://github.com/byl0561/HWcode2020-TestData) - 华为codecraft2020模拟测试数据
 - [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
 - [grpc-nebula/grpc-nebula-java](https://github.com/grpc-nebula/grpc-nebula-java) - 微服务治理框架Java实现
-- [xaecbd/KafkaCenter](https://github.com/xaecbd/KafkaCenter) - KafkaCenter is a unified  platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
+- [xaecbd/KCenter](https://github.com/xaecbd/KCenter) - KCenter(KafkaCenter) is a unified  platform for Kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
 - [redis/jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
