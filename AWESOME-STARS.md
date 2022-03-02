@@ -298,7 +298,7 @@
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [openzipkin-contrib/zipkin-go-opentracing](https://github.com/openzipkin-contrib/zipkin-go-opentracing) - OpenTracing Bridge for Zipkin Go
-- [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - 
+- [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - Examples for Kitex.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
 - [seccome/Ehoney](https://github.com/seccome/Ehoney) - 安全、快捷、高交互、企业级的蜜罐管理系统，支持多种协议蜜罐、蜜签、诱饵等功能。A safe, fast, highly interactive and enterprise level honeypot management system, supports multiple protocol honeypots, honeytokens, baits and other functions.
@@ -392,7 +392,7 @@
 - [owenliang/go-raft](https://github.com/owenliang/go-raft) - A reliable raft algorithm implementation in go
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a microservice framework for rapid development of micro services in Go with rich eco-system
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 - [uber-archive/go-torch](https://github.com/uber-archive/go-torch) - Stochastic flame graph profiler for Go programs
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
@@ -1652,7 +1652,7 @@
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript
 - [scottwolfcm/homebridge-tesla-gen3-wc](https://github.com/scottwolfcm/homebridge-tesla-gen3-wc) - Tesla Gen 3 Wall Connector Homebridge
-- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.20 安装手册，(k8s install) 在线答疑，持续更新。
+- [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
 - [gtudan/bpmn-js-cmd](https://github.com/gtudan/bpmn-js-cmd) - A command line tool for rendering BPMN-Diagrams with https://bpmn.io/toolkit/bpmn-js/
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -2246,7 +2246,7 @@
 
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [fanqingxuan/jframe](https://github.com/fanqingxuan/jframe) - 
-- [raoxiaoyan/kong-plugins-canary](https://github.com/raoxiaoyan/kong-plugins-canary) - 基于网关kong灰度插件，称之为金丝雀，满足A/B测试、动态切换上游代理
+- [raoxiaoyan/kong-plugins-canary](https://github.com/raoxiaoyan/kong-plugins-canary) - The grayscale plug-in based on gateway Kong, called Canary, meets A/B testing and dynamically switches upstream agents
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [menudoproblema/Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissetor for Wireshark
 - [doujiang24/lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) - Lua kafka client driver for the Openresty based on the cosocket API
@@ -2946,7 +2946,7 @@
 - [kakawait/uaa-behind-zuul-sample](https://github.com/kakawait/uaa-behind-zuul-sample) - Spring AuthorizationServer load balanced behind Zuul
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [marshalYuan/spring-cloud-example](https://github.com/marshalYuan/spring-cloud-example) - some demos of spring-cloud
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
 - [jasonGeng88/blog](https://github.com/jasonGeng88/blog) - 随写工作中遇到的问题、学习的心得，于己总结回顾，与他分享讨论。。。
 - [kubeup/okdc](https://github.com/kubeup/okdc) - One-liner Kubernetes Deployment in China 一键部署K8S
 - [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
@@ -2995,6 +2995,7 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
