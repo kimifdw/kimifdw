@@ -272,6 +272,7 @@
 
 ## Go 
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit
 - [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
 - [ariga/atlas](https://github.com/ariga/atlas) - A database toolkit
@@ -383,7 +384,7 @@
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [lanyulei/ferry](https://github.com/lanyulei/ferry) - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 - [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
-- [x1unix/go-playground](https://github.com/x1unix/go-playground) - Better Go Playground powered by React and Monaco editor
+- [x1unix/go-playground](https://github.com/x1unix/go-playground) - 🇺🇦 Better Go Playground powered by React and Monaco editor
 - [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go
 - [careermonk/data-structures-and-algorithmic-thinking-with-go](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go) - Data Structures and Algorithmic Thinking With Go
 - [rencalo770/gengine](https://github.com/rencalo770/gengine) - Rule Engine for Golang
@@ -939,7 +940,7 @@
 
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) - Distributed Scheduled Job Framework
-- [lyh200/dynamic-tp](https://github.com/lyh200/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，支持线程池上下文传递，基于主流配置中心（默认支持Nacos、Apollo，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (default support Nacos、Apollo, can be customized through SPI).
+- [lyh200/dynamic-tp](https://github.com/lyh200/dynamic-tp) - 🔥🔥🔥轻量级动态线程池，内置监控告警功能，支持线程池上下文传递，基于主流配置中心（已支持Nacos、Apollo，Zookeeper，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper, can be customized through SPI).
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) - 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process.
@@ -2996,6 +2997,7 @@
 
 ## TypeScript 
 
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
