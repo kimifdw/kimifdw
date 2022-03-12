@@ -1266,7 +1266,7 @@
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [along101/log-client](https://github.com/along101/log-client) - logback  log4j2 kafkaAppender
-- [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2021，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+- [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [hengyunabc/xdiamond](https://github.com/hengyunabc/xdiamond) - 全局配置中心
 - [spring2go/prom_lab](https://github.com/spring2go/prom_lab) - 微服务监控告警Prometheus实验，极客时间微服务架构实践课程
 - [DSLZC/distributelock-spring-boot-starter](https://github.com/DSLZC/distributelock-spring-boot-starter) - spring boot 分布式锁starter
