@@ -563,7 +563,7 @@
 - [klauspost/compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLSX) files.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [plgd-dev/go-coap](https://github.com/plgd-dev/go-coap) - Implementation of CoAP Server & Client in Go
