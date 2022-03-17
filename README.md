@@ -25,9 +25,9 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 <!--START_SECTION:waka-->
 
 ```text
-Java         6 hrs 4 mins    ████████████████░░░░░░░░░   64.62 %
-XML          1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
-Other        1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Java         6 hrs 15 mins   ███████████████▒░░░░░░░░░   61.57 %
+XML          1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Other        1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
 ```
 
 <!--END_SECTION:waka-->
