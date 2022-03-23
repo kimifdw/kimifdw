@@ -699,7 +699,7 @@
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [cni-genie/CNI-Genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, covering API testing, load testing and digital experience monitoring (DEM).
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
@@ -1239,6 +1239,7 @@
 - [SpringCloud/Moss](https://github.com/SpringCloud/Moss) - Moss(莫斯)-Spring Cloud体系的服务治理平台，让Spring Cloud应用不再流浪！欢迎Star！
 - [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) - An powerful enhanced toolkit of MyBatis for simplify development
 - [sofastack/sofa-registry](https://github.com/sofastack/sofa-registry) - SOFARegistry is a production-level, low-latency, high-availability service registry powered by Ant Financial.
+- [alibaba/dragonwell8](https://github.com/alibaba/dragonwell8) - Alibaba Dragonwell8 JDK
 - [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [andreschaffer/event-sourcing-cqrs-examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - Event Sourcing and CQRS in practice.
@@ -1668,7 +1669,6 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 - [areslabs/alita](https://github.com/areslabs/alita) - 一套把React Native代码转换成微信小程序代码的转换引擎工具。我们不造轮子，不发明新框架，只是提供工具把RN扩展到微信小程序端。
@@ -2907,7 +2907,6 @@
 - [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 - [stefanprodan/swarmprom](https://github.com/stefanprodan/swarmprom) - Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager
 - [square/java-code-styles](https://github.com/square/java-code-styles) - IntelliJ IDEA code style settings for Square's Java and Android projects.
-- [alibaba/dragonwell8](https://github.com/alibaba/dragonwell8) - Alibaba Dragonwell8 JDK
 - [GerritCodeReview/docker-gerrit](https://github.com/GerritCodeReview/docker-gerrit) - Official Docker image of Gerrit Code Review - (mirror of http://gerrit.googlesource.com/docker-gerrit)
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [bitnami/bitnami-docker-redis](https://github.com/bitnami/bitnami-docker-redis) - Bitnami Redis Docker Image
@@ -3179,6 +3178,7 @@
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [febsteam/FEBS-Vue](https://github.com/febsteam/FEBS-Vue) - SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统（精力有限，停止维护）
@@ -3207,7 +3207,7 @@
 - [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗     vue教程 --- 从0-1高仿饿了么App
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 - [x-cold/N3-admin](https://github.com/x-cold/N3-admin) - vue / vuex / N3 / vue-router / axios v2
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [Plortinus/vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
 - [bluefox1688/vue-cli-multi-page](https://github.com/bluefox1688/vue-cli-multi-page) - 因时间精力有限，项目已不再维护，请慎重使用，vue2-cli-vux2-multe-page，使用了webpack2+vuejs2+vuxUI2的多页面脚手架
