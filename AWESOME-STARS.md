@@ -122,7 +122,7 @@
 
 ## C# # 
 
-- [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
+- [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [proxysu/ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
@@ -273,6 +273,7 @@
 
 ## Go 
 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [bytedance/godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit
 - [HyNetwork/hysteria](https://github.com/HyNetwork/hysteria) - Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
@@ -699,7 +700,7 @@
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [cni-genie/CNI-Genie](https://github.com/cni-genie/CNI-Genie) - CNI-Genie for choosing pod network of your choice during deployment time. Supported pod networks - Calico, Flannel, Romana, Weave
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, covering API testing, load testing and digital experience monitoring (DEM).
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - HttpRunner 是简单易用、功能强大、数据精准的一站式 API 测试解决方案，覆盖接口测试、性能测试、数字体验监测等。
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
@@ -720,7 +721,6 @@
 - [marcusolsson/goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [ZTE/Knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution
-- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [bilibili/discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [chrislusf/seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
@@ -3000,6 +3000,7 @@
 
 ## TypeScript 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
@@ -3059,6 +3060,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
+- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [Jigsaw-Code/outline-client](https://github.com/Jigsaw-Code/outline-client) - Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS.
