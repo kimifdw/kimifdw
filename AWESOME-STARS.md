@@ -1448,7 +1448,7 @@
 - [Exrick/xmall](https://github.com/Exrick/xmall) - 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
 - [MusicXi/demo-aop-log](https://github.com/MusicXi/demo-aop-log) - 基于Spring AOP 使用元注解 实现系统操作日志记录
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🚀 零代码、全自动、强安全 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
 - [graphql-java-kickstart/graphql-spring-boot](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.
 - [poetix/protonpack](https://github.com/poetix/protonpack) - Stream utilities for Java 8
 - [NitorCreations/java8-utils](https://github.com/NitorCreations/java8-utils) - Utilities for Java 8 streams etc.
