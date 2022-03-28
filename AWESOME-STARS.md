@@ -960,7 +960,6 @@
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [zxbu/webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver) - 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现
 - [didi/LogiCommon](https://github.com/didi/LogiCommon) - Java版 认证、鉴权、管理、任务调度通用功能组件
 - [fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring) - 🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。
 - [lexburner/dubbo-mesh](https://github.com/lexburner/dubbo-mesh) - alibaba 2018 天池中间件大赛初赛 dubboMesh Rank 15.
@@ -1151,7 +1150,7 @@
 - [snowdrop/vertx-spring-boot](https://github.com/snowdrop/vertx-spring-boot) - Vert.x Spring Boot integration brings different Vert.x components to Spring Boot ecosystem
 - [krudolph/akkaflow](https://github.com/krudolph/akkaflow) - Playground for Spring and Akka Integration
 - [rsocket/rsocket-transport-akka](https://github.com/rsocket/rsocket-transport-akka) - Akka TCP and WebSocket transports for RSocket
-- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes
+- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
 - [spencergibb/rsocket-broker-sample](https://github.com/spencergibb/rsocket-broker-sample) - 
 - [b3rnoulli/rsocket-examples](https://github.com/b3rnoulli/rsocket-examples) - RSocket examples from article series
