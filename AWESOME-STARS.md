@@ -293,7 +293,7 @@
 - [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [micro/micro](https://github.com/micro/micro) - API first cloud platform
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 此仓库应常青藤爸爸要求，已停止维护，请移步 https://github.com/dtm-labs/dtf
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message strategies.
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
@@ -941,6 +941,7 @@
 
 ## Java 
 
+- [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [tuguangquan/mybatis](https://github.com/tuguangquan/mybatis) - mybatis源码中文注释
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Kanban and CI/CD
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
@@ -1150,7 +1151,7 @@
 - [snowdrop/vertx-spring-boot](https://github.com/snowdrop/vertx-spring-boot) - Vert.x Spring Boot integration brings different Vert.x components to Spring Boot ecosystem
 - [krudolph/akkaflow](https://github.com/krudolph/akkaflow) - Playground for Spring and Akka Integration
 - [rsocket/rsocket-transport-akka](https://github.com/rsocket/rsocket-transport-akka) - Akka TCP and WebSocket transports for RSocket
-- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
+- [strimzi/operators](https://github.com/strimzi/operators) - Apache Kafka® running on Kubernetes
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
 - [spencergibb/rsocket-broker-sample](https://github.com/spencergibb/rsocket-broker-sample) - 
 - [b3rnoulli/rsocket-examples](https://github.com/b3rnoulli/rsocket-examples) - RSocket examples from article series
@@ -2158,6 +2159,7 @@
 
 ## Jupyter Notebook 
 
+- [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 - [PacktPublishing/Learn-Python-Programming-Third-Edition](https://github.com/PacktPublishing/Learn-Python-Programming-Third-Edition) - Learn Python Programming 3E. Published by Packt
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
@@ -2671,7 +2673,7 @@
 
 ## PLpgSQL 
 
-- [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.4 、Spring Cloud 2020 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
+- [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.6 、Spring Cloud 2021 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
 
 ## Perl 
