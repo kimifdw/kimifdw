@@ -1151,7 +1151,7 @@
 - [snowdrop/vertx-spring-boot](https://github.com/snowdrop/vertx-spring-boot) - Vert.x Spring Boot integration brings different Vert.x components to Spring Boot ecosystem
 - [krudolph/akkaflow](https://github.com/krudolph/akkaflow) - Playground for Spring and Akka Integration
 - [rsocket/rsocket-transport-akka](https://github.com/rsocket/rsocket-transport-akka) - Akka TCP and WebSocket transports for RSocket
-- [strimzi/operators](https://github.com/strimzi/operators) - Apache Kafka® running on Kubernetes
+- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
 - [spencergibb/rsocket-broker-sample](https://github.com/spencergibb/rsocket-broker-sample) - 
 - [b3rnoulli/rsocket-examples](https://github.com/b3rnoulli/rsocket-examples) - RSocket examples from article series
@@ -2083,7 +2083,7 @@
 - [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
 - [taofed/react-web](https://github.com/taofed/react-web) - A framework for building web apps with React Native compatible API.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
