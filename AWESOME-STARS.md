@@ -1103,7 +1103,7 @@
 - [linhuaichuan/ecp-uid](https://github.com/linhuaichuan/ecp-uid) - 居于美团leaf、百度UidGenerator、原生snowflake 进行整合的 唯一ID生成器
 - [jgrandja/spring-security-oauth-5-2-migrate](https://github.com/jgrandja/spring-security-oauth-5-2-migrate) - 
 - [kubernetes-client/java](https://github.com/kubernetes-client/java) - Official Java client library for kubernetes
-- [xmeter-net/mqtt-jmeter](https://github.com/xmeter-net/mqtt-jmeter) - MQTT JMeter Plugin
+- [emqx/mqtt-jmeter](https://github.com/emqx/mqtt-jmeter) - MQTT JMeter Plugin
 - [fshutdown/JMeter-WebSocketSampler](https://github.com/fshutdown/JMeter-WebSocketSampler) - JMeter - WebSocket Sampler
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
 - [snowdrop/istio-java-api](https://github.com/snowdrop/istio-java-api) - A Java API to generate Istio descriptors, inspired by Fabric8's kubernetes-model.
@@ -1651,6 +1651,7 @@
 
 ## JavaScript 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [Snailclimb/JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview) - JavaGuide面试突击版
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
