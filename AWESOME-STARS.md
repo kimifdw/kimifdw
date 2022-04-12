@@ -1850,7 +1850,7 @@
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 - [cuipengcx/good](https://github.com/cuipengcx/good) - Good权限管理系统是作者学习springBoot时基于springBoot开发的一套轻量级的权限系统，其目的是形成一套属于自己的通用的开发框架 以后来项目的时候就可以直接基于此平台进行开发，减少重复工作量；使用Spring Boot、Shiro、MyBatis、H-UI等框架，包含：管理员管理、角色管理、权限管理、调度管理等
 - [yi-ge/Koa2-API-Scaffold](https://github.com/yi-ge/Koa2-API-Scaffold) - 一个基于Koa2的轻量级RESTful API Server脚手架。
-- [tvrcgo/weixin-pay](https://github.com/tvrcgo/weixin-pay) - 微信支付
+- [tvrcgo/weixin-pay](https://github.com/tvrcgo/weixin-pay) - 微信支付 Nodejs SDK
 - [annnhan/vue-spa-template](https://github.com/annnhan/vue-spa-template) - The base code of vue.js project.
 - [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
