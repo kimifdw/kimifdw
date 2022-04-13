@@ -3016,7 +3016,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [vthinkxie/ng-pull-refresh](https://github.com/vthinkxie/ng-pull-refresh) - click refresh / auto refresh / pull refresh demo
-- [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a Web UI for Apache Kafka that allows exploring messages, consumers, configurations and more with a focus on a good UI & UX.
+- [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 - [robtaussig/react-use-websocket](https://github.com/robtaussig/react-use-websocket) - React Hook for WebSocket communication
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
