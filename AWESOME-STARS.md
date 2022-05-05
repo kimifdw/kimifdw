@@ -2271,6 +2271,7 @@
 
 ## Makefile 
 
+- [kubernetes/design-proposals-archive](https://github.com/kubernetes/design-proposals-archive) - Archive of Kubernetes Design Proposals
 - [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [servicemesher/getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) - Knative入门——构建基于 Kubernetes 的现代化Serverless应用 - https://www.servicemesher.com/getting-started-with-knative/
