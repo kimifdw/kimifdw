@@ -432,7 +432,7 @@
 - [xiang90/paxos](https://github.com/xiang90/paxos) - A go implementation of the Paxos algorithm
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A wonderful alternative to expressjs. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true succes
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank yo
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [bnkamalesh/goapp](https://github.com/bnkamalesh/goapp) - An opinionated guideline to structure & develop a Go web application/service
@@ -2033,7 +2033,7 @@
 - [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [chrisvfritz/prerender-spa-plugin](https://github.com/chrisvfritz/prerender-spa-plugin) - Prerenders static HTML in a single-page application.
-- [ecitlm/Node-SpliderApi](https://github.com/ecitlm/Node-SpliderApi) - nodejs爬虫 API接口项目,包括前端开发日报、前端top框架排行、知乎日报、音乐数据接口、图片壁纸、搞笑视频、热点新闻资讯 详情接口数据
+- [ecitlm/Node-SpliderApi](https://github.com/ecitlm/Node-SpliderApi) - 基于node+express爬虫 API接口项目,包括全国高校信息、成语诗歌、星座运势、历史的今天、音乐数据接口、图片壁纸、搞笑视频、热点新闻资讯 详情接口数据
 - [matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components
 - [skyFi/dva-starter](https://github.com/skyFi/dva-starter) - 完美使用 dva react react-router,最好用的ssr脚手架，服务器渲染最佳实践
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
@@ -2189,7 +2189,7 @@
 - [BFergerson/moonray-ui](https://github.com/BFergerson/moonray-ui) - 
 - [joreilly/PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Wear Compose, Compose for Desktop, Compose for Web and Kotlin/JS + React clients along with Ktor backend.
 - [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Life is too short to google for dependencies and versions
-- [nacular/doodle](https://github.com/nacular/doodle) - A pure Kotlin UI framework for the Web.
+- [nacular/doodle](https://github.com/nacular/doodle) - A pure Kotlin UI framework for the Web (and Desktop).
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [kousen/kotlin-cookbook](https://github.com/kousen/kotlin-cookbook) - Code from the book _Kotlin Cookbook_, published by O'Reilly Media in 2019, http://shop.oreilly.com/product/0636920224327.do
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
@@ -2529,7 +2529,7 @@
 - [tipoqueno/UI-Design](https://github.com/tipoqueno/UI-Design) - :fire: A curated list of useful resources related to User Interface Design
 - [LeuisKen/algorithm](https://github.com/LeuisKen/algorithm) - Practice algorithm everyday
 - [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
-- [chucheng92/EasyJob](https://github.com/chucheng92/EasyJob) - :fire:2021互联网求职面试知识复习
+- [chucheng92/EasyJob](https://github.com/chucheng92/EasyJob) - :fire:interview handbook
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [XueSeason/fuck-css](https://github.com/XueSeason/fuck-css) - 
 - [cursedcoder/awesome-pixijs](https://github.com/cursedcoder/awesome-pixijs) - My list of awesome pixi.js related parties
