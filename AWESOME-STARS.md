@@ -2176,7 +2176,7 @@
 ## Kotlin 
 
 - [Tencent/bk-ci](https://github.com/Tencent/bk-ci) - 蓝鲸CI平台(BlueKing CI)
-- [analysis-dev/diktat](https://github.com/analysis-dev/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
+- [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler
 - [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt) - A plugin for Kotlin compiler for compile-time reflection
 - [AAkira/Napier](https://github.com/AAkira/Napier) - Logging library for Kotlin Multiplatform
