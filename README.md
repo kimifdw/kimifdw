@@ -25,12 +25,12 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 <!--START_SECTION:waka-->
 
 ```text
-Go               10 hrs 37 mins  █████████████████████▓░░░   86.45 %
-Jce File         1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-textmate         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-go.mod           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Go               9 hrs 40 mins   █████████████████████▒░░░   85.19 %
+Jce File         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Java             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+textmate         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
