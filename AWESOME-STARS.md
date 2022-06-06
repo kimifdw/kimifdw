@@ -429,7 +429,7 @@
 - [xiang90/paxos](https://github.com/xiang90/paxos) - A go implementation of the Paxos algorithm
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank yo
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more | 谢谢 http
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [bnkamalesh/goapp](https://github.com/bnkamalesh/goapp) - An opinionated guideline to structure & develop a Go web application/service
@@ -1112,7 +1112,6 @@
 - [chengdedeng/waf](https://github.com/chengdedeng/waf) - :vertical_traffic_light:Web Application Firewall or API Gateway(应用防火墙/API网关)
 - [EliMirren/VX-API-Gateway](https://github.com/EliMirren/VX-API-Gateway) - VX-API-Gateway是基于Vert.x(java)开发的API网关,是一个分布式,全异步,高性能,可扩展,轻量级的API网关
 - [geektime-geekbang/geektime-spring-family](https://github.com/geektime-geekbang/geektime-spring-family) - 极客时间视频课程《玩转Spring全家桶》
-- [AnoyiX/gatling-test](https://github.com/AnoyiX/gatling-test) - 性能测试工具 Gatling 实践
 - [wangqifox/api-gateway-core](https://github.com/wangqifox/api-gateway-core) - a lightweight api gateway
 - [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for exposing JMX Beans via HTTP for Prometheus consumption
 - [jhunters/jprotobuf](https://github.com/jhunters/jprotobuf) - A useful utility library for java programmer using google protobuf
@@ -2854,7 +2853,7 @@
 
 ## SCSS 
 
-- [phodal/dx](https://github.com/phodal/dx) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
+- [dx-angel/dx-book](https://github.com/dx-angel/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
