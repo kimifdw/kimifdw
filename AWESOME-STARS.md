@@ -1650,7 +1650,6 @@
 - [luksa/kubernetes-in-action](https://github.com/luksa/kubernetes-in-action) - Code from the Kubernetes in Action book
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [Snailclimb/JavaGuide-Interview](https://github.com/Snailclimb/JavaGuide-Interview) - JavaGuide面试突击版
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -2880,6 +2879,7 @@
 
 ## Shell 
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [hango-io/hango-gateway](https://github.com/hango-io/hango-gateway) - Hango API Gateway, build on Envoy & Istio.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [calee0219/awesome-5g](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects.
