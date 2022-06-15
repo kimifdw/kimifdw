@@ -688,7 +688,7 @@
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [jenkins-zh/wechat-backend](https://github.com/jenkins-zh/wechat-backend) - A auto reply robot for WeChat Account 微信公众号自动应答机器人
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
-- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x and 6.x
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [cloudfoundry/java-buildpack-memory-calculator](https://github.com/cloudfoundry/java-buildpack-memory-calculator) - Cloud Foundry JVM Memory Calculator
 - [Kevin-fqh/learning-k8s-source-code](https://github.com/Kevin-fqh/learning-k8s-source-code) - k8s、docker源码分析、读书笔记
@@ -1695,7 +1695,7 @@
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度70%]记录JavaScript、Node.js、Vue/React等
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [juliomrqz/nuxt-optimized-images](https://github.com/juliomrqz/nuxt-optimized-images) - 🌅🚀 Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
 - [wuhao000/antd-mobile-vue](https://github.com/wuhao000/antd-mobile-vue) - ant design mobile/antd mobile的vue实现
 - [Wizzercn/NutzWk](https://github.com/Wizzercn/NutzWk) - WK系列开发框架-V1至V5 Java开源企业级开发框架(单应用/微服务/分布式)
