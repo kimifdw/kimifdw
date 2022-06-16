@@ -146,7 +146,7 @@
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
 - [zshellzhang1993-2025/algorithms](https://github.com/zshellzhang1993-2025/algorithms) - 记录我学过的算法与刷过的题
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -454,7 +454,7 @@
 - [golang/pkgsite](https://github.com/golang/pkgsite) - [mirror] Home of the pkg.go.dev website
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [yuin/gopher-lua](https://github.com/yuin/gopher-lua) - GopherLua: VM and compiler for Lua in Go
-- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/凹语言)
+- [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 - [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
 - [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
 - [in4it/gomap](https://github.com/in4it/gomap) - Run your MapReduce workloads as a single binary on a single machine with multiple CPUs and high memory. Pricing of a lot of small machines vs heavy machines is the same on most cloud providers.
@@ -999,7 +999,7 @@
 - [netty/netty-incubator-codec-quic](https://github.com/netty/netty-incubator-codec-quic) - 
 - [netty/netty-incubator-codec-http3](https://github.com/netty/netty-incubator-codec-http3) - Experimental HTTP3 codec on top of QUIC
 - [dromara/hmily](https://github.com/dromara/hmily) - Distributed transaction solutions
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - ShenYu is High-Performance Java API Gateway.
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is dynamic full lifecycle JAVA API gateway with easy scalability and hot-pluggble features.
 - [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) - A library and command-line tool to access MySQL InnoDB data file directly in Java
 - [rolandhe/hiriver](https://github.com/rolandhe/hiriver) - hiriver是纯java开发的、高性能的、基于解析mysql row base binlog技术实现的用于监控mysql数据变化并分发这些变化的框架。支持几乎所有的数据类型，包括枚举、集合和bit类型。
 - [didi/tinyid](https://github.com/didi/tinyid) - ID Generator id生成器 分布式id生成系统，简单易用、高性能、高可用的id生成系统
@@ -2218,7 +2218,7 @@
 - [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) - Kotlin/Native infrastructure
 - [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
 - [imuhao/KedditBySteps](https://github.com/imuhao/KedditBySteps) - The Kotlin blog series demo
-- [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
+- [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [JetBrains/kotlinconf-app](https://github.com/JetBrains/kotlinconf-app) - KotlinConf Schedule Application
 - [antoniolg/Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book
@@ -3004,7 +3004,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - A modern, comprehensive, flexible design system and React UI library
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ethereum/remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
