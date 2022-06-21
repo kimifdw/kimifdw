@@ -1000,7 +1000,7 @@
 - [netty/netty-incubator-codec-quic](https://github.com/netty/netty-incubator-codec-quic) - 
 - [netty/netty-incubator-codec-http3](https://github.com/netty/netty-incubator-codec-http3) - Experimental HTTP3 codec on top of QUIC
 - [dromara/hmily](https://github.com/dromara/hmily) - Distributed transaction solutions
-- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is dynamic full lifecycle JAVA API gateway with easy scalability and hot-pluggble features.
+- [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 - [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) - A library and command-line tool to access MySQL InnoDB data file directly in Java
 - [rolandhe/hiriver](https://github.com/rolandhe/hiriver) - hiriver是纯java开发的、高性能的、基于解析mysql row base binlog技术实现的用于监控mysql数据变化并分发这些变化的框架。支持几乎所有的数据类型，包括枚举、集合和bit类型。
 - [didi/tinyid](https://github.com/didi/tinyid) - ID Generator id生成器 分布式id生成系统，简单易用、高性能、高可用的id生成系统
