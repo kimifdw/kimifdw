@@ -31,7 +31,6 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [NSIS](#nsis)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -127,7 +126,6 @@
 - [RayTale/Ray](https://github.com/RayTale/Ray) - 项目停止更新，新项目：https://github.com/RayTale/Vertex
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
 - [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [jelastic-jps/git-push-deploy](https://github.com/jelastic-jps/git-push-deploy) - Simple Automated CI/CD Pipeline for GitHub and GitLab Projects
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
@@ -1139,7 +1137,6 @@
 - [piomin/sample-testing-microservices](https://github.com/piomin/sample-testing-microservices) - sample applications with implementation of unit, component, contract and integrarion tests using pact, gatling, spring boot test and hoverfly
 - [14251104246/spring-boot-ci-demo](https://github.com/14251104246/spring-boot-ci-demo) - 持续构建ci全流程（jenkins+git+maven+docker+sonar+gatling）
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- [sohutv/mqcloud](https://github.com/sohutv/mqcloud) - RocketMQ企业级一站式服务平台
 - [leehoawki/Redlock](https://github.com/leehoawki/Redlock) - Distributed Java Lock Library based on Redis.
 - [xuanbg/gateway](https://github.com/xuanbg/gateway) - 基于Spring Cloud Gateway的微服务网关
 - [spring-tips/spring-cloud-load-balancer](https://github.com/spring-tips/spring-cloud-load-balancer) - Hi Spring fans! In this installment we look at the new Spring Cloud Load Balancer abstraction.
@@ -1355,6 +1352,7 @@
 - [JakeWharton/gradle-like-bazel](https://github.com/JakeWharton/gradle-like-bazel) - A demo showing that you can (probably) structure Gradle projects like you would Bazel
 - [eclipse/eclipse-collections](https://github.com/eclipse/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [whataa/pandora](https://github.com/whataa/pandora) - an android library for debugging what we care about directly in app.
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [rahmanusta/practicing-java9-module-system](https://github.com/rahmanusta/practicing-java9-module-system) - Practicing the Java 9 Module System - Devoxx PL
 - [IBM/etcd-java](https://github.com/IBM/etcd-java) - Alternative etcd3 java client
 - [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
@@ -2281,10 +2279,6 @@
 - [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
-## NSIS 
-
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -3101,6 +3095,7 @@
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [DanielRosenwasser/React-TypeScript-Tutorial](https://github.com/DanielRosenwasser/React-TypeScript-Tutorial) - 
 - [gpmer/gpm.js](https://github.com/gpmer/gpm.js) - :gem:Git Package Manager, make you manage the repository easier, Power by Typescript & Nodejs
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [uiwjs/uiw](https://github.com/uiwjs/uiw) - ⚛️ @uiwjs A high quality UI Toolkit, A Component Library for React 16+.
