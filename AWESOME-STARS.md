@@ -144,6 +144,7 @@
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Stan
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
@@ -978,7 +979,7 @@
 - [xmolecules/jmolecules](https://github.com/xmolecules/jmolecules) - Libraries to help developers express architectural abstractions in Java code
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
-- [testingisdocumenting/webtau](https://github.com/testingisdocumenting/webtau) - Webtau (short for web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, Graph QL, Browser, Database, CLI and B
+- [testingisdocumenting/webtau](https://github.com/testingisdocumenting/webtau) - WebTau (short for web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, Graph QL, Browser, Database, CLI and B
 - [fuzhengwei/interview](https://github.com/fuzhengwei/interview) - Java 面经手册，全书共计 5 章 29 节，417页11.5万字，耗时 4 个月完成。涵盖数据结构、算法逻辑、并发编程、JVM以及简历和互联网大厂面试等内容。
 - [tal-tech/conan](https://github.com/tal-tech/conan) - 柯南平台开源版本，为用户提供流量回放全流程解决方案
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
@@ -1352,7 +1353,7 @@
 - [JakeWharton/gradle-like-bazel](https://github.com/JakeWharton/gradle-like-bazel) - A demo showing that you can (probably) structure Gradle projects like you would Bazel
 - [eclipse/eclipse-collections](https://github.com/eclipse/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [whataa/pandora](https://github.com/whataa/pandora) - an android library for debugging what we care about directly in app.
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [rahmanusta/practicing-java9-module-system](https://github.com/rahmanusta/practicing-java9-module-system) - Practicing the Java 9 Module System - Devoxx PL
 - [IBM/etcd-java](https://github.com/IBM/etcd-java) - Alternative etcd3 java client
 - [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
@@ -2705,7 +2706,6 @@
 - [debops/debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [ansible/awx](https://github.com/ansible/awx) - AWX Project
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperp
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
