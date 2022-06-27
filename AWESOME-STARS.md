@@ -1138,6 +1138,7 @@
 - [piomin/sample-testing-microservices](https://github.com/piomin/sample-testing-microservices) - sample applications with implementation of unit, component, contract and integrarion tests using pact, gatling, spring boot test and hoverfly
 - [14251104246/spring-boot-ci-demo](https://github.com/14251104246/spring-boot-ci-demo) - 持续构建ci全流程（jenkins+git+maven+docker+sonar+gatling）
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
+- [sohutv/mqcloud](https://github.com/sohutv/mqcloud) - RocketMQ企业级一站式服务平台
 - [leehoawki/Redlock](https://github.com/leehoawki/Redlock) - Distributed Java Lock Library based on Redis.
 - [xuanbg/gateway](https://github.com/xuanbg/gateway) - 基于Spring Cloud Gateway的微服务网关
 - [spring-tips/spring-cloud-load-balancer](https://github.com/spring-tips/spring-cloud-load-balancer) - Hi Spring fans! In this installment we look at the new Spring Cloud Load Balancer abstraction.
