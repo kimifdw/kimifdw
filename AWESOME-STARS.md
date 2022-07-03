@@ -428,7 +428,7 @@
 - [xiang90/paxos](https://github.com/xiang90/paxos) - A go implementation of the Paxos algorithm
 - [lovoo/goka](https://github.com/lovoo/goka) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Minimum resources, high-end performance :leaves:  | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 - [sethvargo/go-retry](https://github.com/sethvargo/go-retry) - Go library for retrying with configurable backoffs
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [bnkamalesh/goapp](https://github.com/bnkamalesh/goapp) - An opinionated guideline to structure & develop a Go web application/service
@@ -2909,7 +2909,7 @@
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [colinmollenhour/mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
 - [docker-flink/docker-flink](https://github.com/docker-flink/docker-flink) - Docker packaging for Apache Flink
-- [apolloconfig/apollo-build-scripts](https://github.com/apolloconfig/apollo-build-scripts) - Apollo Quick Start Build Scripts
+- [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
 - [xwisen/deployk8s](https://github.com/xwisen/deployk8s) - 部署生产可用kubernetes集群
 - [rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook) - Istio 基础教程——云原生应用网络构建指南
 - [redhat-developer/reactive-microservices-in-java](https://github.com/redhat-developer/reactive-microservices-in-java) - Source code from the Reactive Microservices in Java book
