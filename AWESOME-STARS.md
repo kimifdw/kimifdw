@@ -2071,6 +2071,7 @@
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [eggjs/examples](https://github.com/eggjs/examples) - Store all egg examples in one place
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [superman66/vue-axios-github](https://github.com/superman66/vue-axios-github) - Vue 全家桶 + axios 前端实现登录拦截、登出、拦截器等功能
 - [sls-admin/sls-admin-vue](https://github.com/sls-admin/sls-admin-vue) - 
 - [duxianwei520/react](https://github.com/duxianwei520/react) - React+webpack+redux+ant design+axios+less全家桶后台管理框架
@@ -2804,7 +2805,6 @@
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 - [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod) - 
 - [anishathalye/neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! 🎨
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [DaoCloud/python-mysql-sample](https://github.com/DaoCloud/python-mysql-sample) - Sample application in python and mysql
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
