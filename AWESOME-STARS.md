@@ -1354,7 +1354,7 @@
 - [JakeWharton/gradle-like-bazel](https://github.com/JakeWharton/gradle-like-bazel) - A demo showing that you can (probably) structure Gradle projects like you would Bazel
 - [eclipse/eclipse-collections](https://github.com/eclipse/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [whataa/pandora](https://github.com/whataa/pandora) - an android library for debugging what we care about directly in app.
-- [rahmanusta/practicing-java9-module-system](https://github.com/rahmanusta/practicing-java9-module-system) - Practicing the Java 9 Module System - Devoxx PL
+- [rahmanusta/practicing-java-module-system](https://github.com/rahmanusta/practicing-java-module-system) - Practicing the Java 9 Module System - Devoxx PL
 - [IBM/etcd-java](https://github.com/IBM/etcd-java) - Alternative etcd3 java client
 - [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 - [Netflix/metacat](https://github.com/Netflix/metacat) - 
@@ -1428,7 +1428,7 @@
 - [OAuth-Apis/apis](https://github.com/OAuth-Apis/apis) - OAuth Authorization as a Service
 - [sdeleuze/spring-kotlin-deepdive](https://github.com/sdeleuze/spring-kotlin-deepdive) - A journey from Java to Kotlin with Spring
 - [aankur/spring-authentication-session-oauth2](https://github.com/aankur/spring-authentication-session-oauth2) - This is an example on how to use either spring-session or spring-security-oauth2 for securing a resource
-- [spring-cloud-samples/authserver](https://github.com/spring-cloud-samples/authserver) - 
+- [spring-attic/authserver](https://github.com/spring-attic/authserver) - 
 - [spring-attic/springbox-cloud](https://github.com/spring-attic/springbox-cloud) - Spring Cloud Reference Application
 - [zhangtr/canal-mongo](https://github.com/zhangtr/canal-mongo) - replication data from mysql to mongoDB by canal
 - [febsteam/FEBS-Shiro](https://github.com/febsteam/FEBS-Shiro) - Spring Boot 2.4.2，Shiro1.6.0 & Layui 2.5.6 权限管理系统。
