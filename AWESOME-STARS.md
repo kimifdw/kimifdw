@@ -14,6 +14,7 @@
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [Go](#go)
@@ -252,6 +253,10 @@
 - [joker8023/confluence](https://github.com/joker8023/confluence) - 
 - [mercari/docker-appengine-go](https://github.com/mercari/docker-appengine-go) - Projects has been moved
 - [AliyunContainerService/maven-image](https://github.com/AliyunContainerService/maven-image) - Maven Docker Image with Aliyun Mirror
+
+## Elixir 
+
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 
 ## Emacs Lisp 
 
@@ -500,7 +505,7 @@
 - [leosabbir/consul_fabio_demo](https://github.com/leosabbir/consul_fabio_demo) - Demonstration of service registration with consul
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。
-- [pion/ion](https://github.com/pion/ion) - Real-Distributed  RTC System by pure Go and Flutter
+- [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
@@ -2804,7 +2809,6 @@
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
 - [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod) - 
 - [anishathalye/neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! 🎨
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [DaoCloud/python-mysql-sample](https://github.com/DaoCloud/python-mysql-sample) - Sample application in python and mysql
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
