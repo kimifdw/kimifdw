@@ -1750,7 +1750,7 @@
 - [jeneser/vue-scroll-behavior](https://github.com/jeneser/vue-scroll-behavior) - Customize the scrolling position on route navigation. Especially hash mode.
 - [kuntoaji/hello-world-input-field](https://github.com/kuntoaji/hello-world-input-field) - React JS, Redux, create-react-app example application
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
-- [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - 基于 node.js + Mongodb 构建的后台系统
+- [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [bailicangdu/react-pxq](https://github.com/bailicangdu/react-pxq) - 一个 react + redux 的完整项目 和 个人总结
 - [jialunguo/vue-server-render-jscHelper](https://github.com/jialunguo/vue-server-render-jscHelper) - 
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
@@ -2337,7 +2337,7 @@
 
 ## PLpgSQL 
 
-- [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.6 、Spring Cloud 2021 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服
+- [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.7 、Spring Cloud 2021 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
 
 ## Perl 
@@ -2855,7 +2855,7 @@
 - [luosijie/vue-manager](https://github.com/luosijie/vue-manager) - A panel framework based on Vue 2.0, iView and ECharts.
 - [halfrost/vue-objccn](https://github.com/halfrost/vue-objccn) - 🔥 Use Vue.js to develop a cross-platform full stack application / 用 Vue.js 开发的跨三端应用
 - [varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io) - :blue_book: Personal blog site based on github issues.
-- [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
+- [bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
 - [lincenying/vue2-multiple-entry](https://github.com/lincenying/vue2-multiple-entry) - vue2, vue2+vue-router, vue2+vue-router+vuex 混合多页配置实例
 - [javaswing/NeteaseCloudWebApp](https://github.com/javaswing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [ElemeFE/element-dashboard](https://github.com/ElemeFE/element-dashboard) - element dashboard
