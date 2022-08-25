@@ -300,7 +300,7 @@
 - [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [labring/sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.24.0 in 3 minutes!
+- [labring/sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. Let's sealos run kubernetes:v1.25.0 in 3 minutes!
 - [micro/micro](https://github.com/micro/micro) - API first services platform
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -1467,7 +1467,7 @@
 - [gaoxianglong/shark](https://github.com/gaoxianglong/shark) - :shark:分布式mysql分库分表中间件，sharding领域的一站式解决方案
 - [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) - Java诊断工具
 - [weexteam/hackernews-App-powered-by-Apache-Weex](https://github.com/weexteam/hackernews-App-powered-by-Apache-Weex) - 
-- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
+- [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
 - [json-iterator/java](https://github.com/json-iterator/java) - jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [apache/activemq](https://github.com/apache/activemq) - Mirror of Apache ActiveMQ
