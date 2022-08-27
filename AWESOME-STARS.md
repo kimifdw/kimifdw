@@ -883,7 +883,7 @@
 - [wx-chevalier/Cloud-Series](https://github.com/wx-chevalier/Cloud-Series) - :books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。
-- [xiaoymin/swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui) - Swagger-bootstrap-ui is the Swagger front-end UI implementation, the purpose is to replace the Swagger default UI implementation Swagger-UI, make the document more friendly....
+- [xiaoymin/swagger-bootstrap-ui](https://github.com/xiaoymin/swagger-bootstrap-ui) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
 - [typesafehub/activator-akka-java-spring](https://github.com/typesafehub/activator-akka-java-spring) - Activator tutorial for Akka showing Java & Spring integration
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [tc39/proposal-async-await](https://github.com/tc39/proposal-async-await) - Async/await for ECMAScript
@@ -953,7 +953,7 @@
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [didi/sds](https://github.com/didi/sds) - SDS是一个基于Java开发的简单、易用、高性能的服务降级系统，支持限流、熔断和降级等功能，服务端必备！！
 - [didi/LogiCommon](https://github.com/didi/LogiCommon) - Java版 认证、鉴权、管理、任务调度通用功能组件
-- [openjdk/jmh](https://github.com/openjdk/jmh) - https://openjdk.java.net/projects/code-tools/jmh/
+- [openjdk/jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [tuguangquan/mybatis](https://github.com/tuguangquan/mybatis) - mybatis源码中文注释
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
@@ -1018,10 +1018,10 @@
 - [zavakid/paxos](https://github.com/zavakid/paxos) - a paxos simulation using Java
 - [luxiaoxun/eagle](https://github.com/luxiaoxun/eagle) - Real time data processing system based on flink and CEP
 - [ronmamo/reflections](https://github.com/ronmamo/reflections) - Java runtime metadata analysis
-- [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.java.net/projects/loom/
+- [openjdk/loom](https://github.com/openjdk/loom) - https://openjdk.org/projects/loom
 - [YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 - [javagrowing/JGrowing](https://github.com/javagrowing/JGrowing) - Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk
 - [skanjo/realworld-vertx](https://github.com/skanjo/realworld-vertx) - Starter kit for new RealWorld framework implementations
 - [cescoffier/vertx-microservices-workshop](https://github.com/cescoffier/vertx-microservices-workshop) - Vert.x Microservices Hand's on lab
 - [j-easy/easy-flows](https://github.com/j-easy/easy-flows) - The simple, stupid workflow engine for Java
