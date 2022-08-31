@@ -301,7 +301,7 @@
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [labring/sealos](https://github.com/labring/sealos) - Let's sealos run kubernetes:v1.25.0 in 3 minutes!
-- [micro/micro](https://github.com/micro/micro) - An API first development platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
