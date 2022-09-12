@@ -300,7 +300,7 @@
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [labring/sealos](https://github.com/labring/sealos) - Let's sealos run kubernetes:v1.25.0 in 3 minutes!
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - Micro services development platform
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
@@ -2073,7 +2073,6 @@
 - [rkuhn/blog](https://github.com/rkuhn/blog) - Various pieces and opinions by Roland Kuhn
 - [sorrycc/awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 🎉 整理我平时关注的前端库。
 - [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools) - Awesome tools I used.
-- [cyanzhong/apple-terminated-my-dev-account](https://github.com/cyanzhong/apple-terminated-my-dev-account) - Apple terminated my developer account for no reason
 - [wonderfo/wonderfogo](https://github.com/wonderfo/wonderfogo) - 最近对Go语言很感兴趣，所以整理相关资料，呵呵
 - [mercyblitz/tech-daily-questions](https://github.com/mercyblitz/tech-daily-questions) - 「小马哥每日一问」
 - [servicemesher/infoq-service-mesh-emag-zh](https://github.com/servicemesher/infoq-service-mesh-emag-zh) - InfoQ eMag #75 Service Mesh Past, Present, and Future 中文版
