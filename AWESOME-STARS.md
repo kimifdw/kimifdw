@@ -721,7 +721,7 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
-- [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - Fast Golang database for easy Go structs/objects persistence; plus out-of-the-box Data Sync
+- [objectbox/objectbox-go](https://github.com/objectbox/objectbox-go) - Go database for fast and effortless data management
 - [lpxxn/godockerswarm](https://github.com/lpxxn/godockerswarm) - go docker swarms
 - [src-d/go-mysql-server](https://github.com/src-d/go-mysql-server) - An extensible MySQL server implementation in Go.
 - [XiaoMi/naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
@@ -1276,7 +1276,6 @@
 - [1ssqq1lxr/iot_push](https://github.com/1ssqq1lxr/iot_push) - 基于netty+mqtt3.1.1+springboot+jdk8 实现的 mqtt 服务端跟客户端
 - [helloworlde/SpringBoot-DynamicDataSource](https://github.com/helloworlde/SpringBoot-DynamicDataSource) - Dynamic datasource, multiple datasource of spring boot/ distribution transaction; spring boot 多数据源，动态数据源，分布式事务
 - [269941633/spring-boot-mybatis-mysql-write-read](https://github.com/269941633/spring-boot-mybatis-mysql-write-read) - springboot 学习mybatis+mysql读写分离(一写多读)+事务
-- [pingcap/tispark](https://github.com/pingcap/tispark) - TiSpark is built for running Apache Spark on top of TiDB/TiKV
 - [ulisesbocchio/jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot) - Jasypt integration for Spring boot
 - [CheZS/CleanCodeHandBook](https://github.com/CheZS/CleanCodeHandBook) - 
 - [yidongnan/grpc-spring-boot-starter](https://github.com/yidongnan/grpc-spring-boot-starter) - Spring Boot starter module for gRPC framework.
@@ -1654,7 +1653,7 @@
 - [bingo-oss/bui-weex-sample](https://github.com/bingo-oss/bui-weex-sample) - bui-weex示例工程，包含了丰富的组件展示案例
 - [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [eggjs/doctools](https://github.com/eggjs/doctools) - doctools for eggjs
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [alibaba/beidou](https://github.com/alibaba/beidou) - :milky_way: Isomorphic framework for server-rendered React apps
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
@@ -2547,6 +2546,7 @@
 - [oel/akka-iot-mqtt](https://github.com/oel/akka-iot-mqtt) - IoT with MQTT pub-sub & Akka Actor Systems
 - [jacksu/utils4s](https://github.com/jacksu/utils4s) - scala、spark使用过程中，各种测试用例以及相关资料整理
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+- [pingcap/tispark](https://github.com/pingcap/tispark) - TiSpark is built for running Apache Spark on top of TiDB/TiKV
 - [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
 - [linkerd/linkerd](https://github.com/linkerd/linkerd) - Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.
 - [lagom/lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM
@@ -2608,7 +2608,7 @@
 - [rainglow/vscode](https://github.com/rainglow/vscode) - 320+ color themes for Visual Studio Code.
 - [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [chengbinbbs/spring-cloud](https://github.com/chengbinbbs/spring-cloud) - SpringCloud微服务架构，提供快速上手脚手架，快速构建高可用注册中心，高可用配置中心，加入Hystrix断路器，gateway服务官网，权限认证、服务降级、限流，加入应用监控
 - [linuxkit/kubernetes](https://github.com/linuxkit/kubernetes) - minimal and immutable Kubernetes images built with LinuxKit
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
@@ -2719,7 +2719,7 @@
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) - Official Elasticsearch client library for Node.js
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [youzan/zan-proxy](https://github.com/youzan/zan-proxy) - An extensible proxy for PC/Mobile/APP developer
