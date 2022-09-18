@@ -151,6 +151,7 @@
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Stan
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
@@ -1369,7 +1370,7 @@
 - [ZHENFENG13/concurrent-programming](https://github.com/ZHENFENG13/concurrent-programming) - :cactus:《实战java高并发程序设计》源码整理
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
 - [li5454yong/springboot-security-oauth2](https://github.com/li5454yong/springboot-security-oauth2) - 
-- [dunwu/spring-tutorial](https://github.com/dunwu/spring-tutorial) - :book: Spring Framework 教程
+- [dunwu/spring-tutorial](https://github.com/dunwu/spring-tutorial) - :book: Spring 教程
 - [Qihoo360/XLearning](https://github.com/Qihoo360/XLearning) - AI on Hadoop
 - [leftso/demo-spring-boot-security-oauth2](https://github.com/leftso/demo-spring-boot-security-oauth2) - demo-spring-boot-security-oauth2
 - [alibaba/jstorm](https://github.com/alibaba/jstorm) - Enterprise Stream Process Engine
@@ -2384,7 +2385,6 @@
 - [debops/debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
 - [ansible/awx](https://github.com/ansible/awx) - AWX Project
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
