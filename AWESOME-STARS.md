@@ -1054,7 +1054,7 @@
 - [wenweihu86/raft-java](https://github.com/wenweihu86/raft-java) - Raft Java implementation which is simple and easy to understand.
 - [rickfast/consul-client](https://github.com/rickfast/consul-client) - Java Client for Consul HTTP API
 - [TogetherOS/cicada](https://github.com/TogetherOS/cicada) - 🚀 Fast lightweight HTTP service framework.
-- [baidu/brpc-java](https://github.com/baidu/brpc-java) - Java implementation for Baidu RPC, multi-protocol & high performance RPC.
+- [baidu/starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [afedulov/fraud-detection-demo](https://github.com/afedulov/fraud-detection-demo) - Repository for Advanced Flink Application Patterns series
 - [fenixsoft/jvm_book](https://github.com/fenixsoft/jvm_book) - 《深入理解Java虚拟机（第3版）》样例代码&勘误
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -2672,7 +2672,7 @@
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
