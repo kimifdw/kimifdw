@@ -1062,7 +1062,6 @@
 - [fenixsoft/jvm_book](https://github.com/fenixsoft/jvm_book) - 《深入理解Java虚拟机（第3版）》样例代码&勘误
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [TangBean/Java-Concurrency-in-Practice](https://github.com/TangBean/Java-Concurrency-in-Practice) - 《Java 并发编程实战》阅读整理笔记，附加了一些《Java 并发编程的艺术》中的内容，以及对原书结构进行了调整。
-- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [google/openrtb](https://github.com/google/openrtb) - OpenRTB model for Java and other languages via protobuf; Helper OpenRTB libraries for Java including JSON serialization
 - [hivemq/hivemq-community-edition](https://github.com/hivemq/hivemq-community-edition) - HiveMQ CE is a Java-based open source MQTT broker that fully supports MQTT 3.x and MQTT 5. It is the foundation of the HiveMQ Enterprise Connectivity and Messaging Platform
 - [RajeshBhojwani/springboot-resilience4j](https://github.com/RajeshBhojwani/springboot-resilience4j) - 
@@ -1851,6 +1850,7 @@
 
 ## Kotlin 
 
+- [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [Tencent/bk-ci](https://github.com/Tencent/bk-ci) - 蓝鲸持续集成平台(蓝盾)
 - [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs
 - [arrow-kt/arrow-meta](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler
@@ -2672,6 +2672,7 @@
 
 ## TypeScript 
 
+- [tudou527/OneAPI](https://github.com/tudou527/OneAPI) - OneAPI：一个根据 Java 代码生成 API 的工具，不需要后端改代码，也不需要启动后端应用 🐝
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
