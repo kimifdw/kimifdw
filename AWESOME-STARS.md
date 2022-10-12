@@ -1137,7 +1137,7 @@
 - [normanmaurer/netty-in-action](https://github.com/normanmaurer/netty-in-action) - 
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providin
 - [Arronlong/httpclientutil](https://github.com/Arronlong/httpclientutil) - 该项目基于HttpClient-4.4.1封装的一个工具类。提供了更为简单的GET、POST及上传下载等功能。同时支持插件式配置Http-Header（包含自定义header）、配置SSL和Proxy等。
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene.
 - [fyhertz/libstreaming](https://github.com/fyhertz/libstreaming) - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
 - [Meituan-Dianping/Leaf](https://github.com/Meituan-Dianping/Leaf) - Distributed ID Generate Service
 - [Sayi/ddd-cargo](https://github.com/Sayi/ddd-cargo) - Domain-Driven Design
@@ -1512,6 +1512,7 @@
 - [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
 - [sonar-intellij-plugin/sonar-intellij-plugin](https://github.com/sonar-intellij-plugin/sonar-intellij-plugin) - This SonarQube community plugin is developed to support multiple languages and almost all Jetbrains IDEs. See the README for more details
 - [ojacquemart/spring-boot-rxjava](https://github.com/ojacquemart/spring-boot-rxjava) - Spring boot rxjava parallel observables
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [Edvinas01/MultipleDatasources](https://github.com/Edvinas01/MultipleDatasources) - Multiple datasources on spring boot with jpa
 - [apache/flume](https://github.com/apache/flume) - Mirror of Apache Flume
 - [abhioncbr/Kafka-Message-Server](https://github.com/abhioncbr/Kafka-Message-Server) - Example application based on Apache Kafka framework to show it usage as distributed message server. Exploring this sample application help users to understand how good and easy is Apache Kafka usage.
@@ -2503,7 +2504,6 @@
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 
 ## Rust 
 
@@ -2551,6 +2551,7 @@
 
 ## Shell 
 
+- [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [calee0219/awesome-5g](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects.
@@ -2666,7 +2667,7 @@
 
 ## TypeScript 
 
-- [tudou527/OneAPI](https://github.com/tudou527/OneAPI) - 🐝 一个根据 Java 代码生成 API 的工具，不需要后端改代码，也不需要启动后端应用
+- [tudou527/OneAPI](https://github.com/tudou527/OneAPI) - 🐝 一个用于替代 Swagger/SpringFox 的 API 工具，不需要修改后端代码，也不需要启动应用（几乎能 💯 替代）
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
