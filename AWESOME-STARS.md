@@ -2666,7 +2666,7 @@
 
 ## TypeScript 
 
-- [tudou527/OneAPI](https://github.com/tudou527/OneAPI) - 🐝 一个用于替代 Swagger/SpringFox 的 API 工具，不需要修改后端代码，也不需要启动应用（几乎能 💯 替代）
+- [tudou527/OneAPI](https://github.com/tudou527/OneAPI) - 🐝  API tool for replace Swagger/SpringFox without modifying the back-end code or starting the application
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
