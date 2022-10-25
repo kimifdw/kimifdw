@@ -279,7 +279,7 @@
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [brokercap/Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL,MariaDB 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
+- [brokercap/Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL,MariaDB,kafka 同步到Redis,MongoDB,ClickHouse等服务的异构中间件
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -495,7 +495,7 @@
 - [ExperienceOne/apikit](https://github.com/ExperienceOne/apikit) - Generates Golang client and server based on OpenAPI2 (swagger) definitions
 - [adamluzsi/testcase](https://github.com/adamluzsi/testcase) - testcase is an opinionated testing framework to support test driven design.
 - [thoas/go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
-- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin
+- [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev   Demo： https://www.go-admin.dev Antd 订阅版：https://antd.go-admin.pr
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -998,7 +998,7 @@
 - [doocs/jvm](https://github.com/doocs/jvm) - 🤗 JVM 底层原理最全知识总结
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生流数据管控平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
+- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
 - [making/rsc](https://github.com/making/rsc) - RSocket Client CLI (RSC) that aims to be a curl for RSocket
 - [odrotbohm/spring-playground](https://github.com/odrotbohm/spring-playground) - A collection of tiny helpers for building Spring applications
 - [apache/ratis](https://github.com/apache/ratis) - Open source Java implementation for Raft consensus protocol.
@@ -1901,7 +1901,7 @@
 - [KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin
 - [mcxiaoke/kotlin-notes](https://github.com/mcxiaoke/kotlin-notes) - Kotlin Notes
-- [SumiMakito/AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android.
+- [sumimakito/AwesomeQRCode](https://github.com/sumimakito/AwesomeQRCode) - An awesome QR code generator for Android.
 - [bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials) - 【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程
 - [Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans) - Kotlin workshop
 - [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Samples builds using the Gradle Kotlin DSL
@@ -2164,6 +2164,7 @@
 - [vuejs/vue-docs-zh-cn](https://github.com/vuejs/vue-docs-zh-cn) - 该项目已不再维护，有劳通过 Vue 官网查阅最新的文档
 - [dsyer/simple-gateway](https://github.com/dsyer/simple-gateway) - simple-gateway
 - [zebook/zebook](https://github.com/zebook/zebook) - 
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
 - [huyubing/books-pdf](https://github.com/huyubing/books-pdf) - books pdf
 - [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
@@ -2645,7 +2646,6 @@
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [gragrance/CaptuocrToy](https://github.com/gragrance/CaptuocrToy) - A tool to capture screenshot and recognize text by online ocr apis
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [ole/whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
