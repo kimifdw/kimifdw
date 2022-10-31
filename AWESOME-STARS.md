@@ -2264,7 +2264,7 @@
 - [rokid/speech-python-demo](https://github.com/rokid/speech-python-demo) - python 版本的 speechv, speecht 及 tts 简单调用 demo
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [duanhongyi/gmssl](https://github.com/duanhongyi/gmssl) - a python crypto for sm2/sm3/sm4
-- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 - [wx-chevalier/Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) - :books: Ultimate CheatSheets(Tutorials&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [mars-project/mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.
