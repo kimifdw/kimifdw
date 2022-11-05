@@ -58,6 +58,7 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -2725,6 +2726,10 @@
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [useryangtao/vue-wechat](https://github.com/useryangtao/vue-wechat) - 用Vue.js开发微信app
 - [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
