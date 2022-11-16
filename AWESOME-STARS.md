@@ -1540,7 +1540,7 @@
 - [mattkrick/meatier](https://github.com/mattkrick/meatier) - :hamburger: like meteor, but meatier :hamburger:
 - [zhengguorong/maizuo](https://github.com/zhengguorong/maizuo) - 使用vue/vuex/redux开发的卖座网
 - [hubcarl/egg-vue-webpack-dev](https://github.com/hubcarl/egg-vue-webpack-dev) - 基于egg + vue2 + webpack2 的前后端集成开发编译构建插件
-- [yorkie/tensorflow-nodejs](https://github.com/yorkie/tensorflow-nodejs) - TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for Node.js users.
+- [yorkie/tensorflow-nodejs](https://github.com/yorkie/tensorflow-nodejs) - TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for Node.js users. TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for N
 - [alibaba/dawn](https://github.com/alibaba/dawn) - :sunrise: Dawn is a lightweight task management and build tool for front-end and nodejs.
 - [microsoft/typescript-styled-plugin](https://github.com/microsoft/typescript-styled-plugin) - TypeScript server plugin that adds intellisense to styled component css strings
 - [cer/event-sourcing-examples](https://github.com/cer/event-sourcing-examples) - Example code for my building and deploying microservices with event sourcing, CQRS and Docker presentation
@@ -2241,7 +2241,7 @@
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [debops/debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project
-- [ansible/awx](https://github.com/ansible/awx) - AWX Project
+- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
