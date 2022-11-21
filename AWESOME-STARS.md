@@ -15,6 +15,7 @@
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
@@ -244,6 +245,10 @@
 - [joker8023/confluence](https://github.com/joker8023/confluence) - 
 - [mercari/docker-appengine-go](https://github.com/mercari/docker-appengine-go) - Projects has been moved
 - [AliyunContainerService/maven-image](https://github.com/AliyunContainerService/maven-image) - Maven Docker Image with Aliyun Mirror
+
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Elixir 
 
@@ -1378,7 +1383,6 @@
 ## JavaScript 
 
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
 - [luksa/kubernetes-in-action](https://github.com/luksa/kubernetes-in-action) - Code from the Kubernetes in Action book
