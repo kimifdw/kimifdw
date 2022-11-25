@@ -588,7 +588,7 @@
 - [liangdas/mqant](https://github.com/liangdas/mqant) - mqant是一款基于Golang语言的简洁,高效,高性能的分布式微服务框架
 - [zentures/surgemq](https://github.com/zentures/surgemq) - (Unmaintained) High-Performance MQTT Server and Client Libraries
 - [fhmq/hmq](https://github.com/fhmq/hmq) - High performance mqtt broker
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - A lightweight IoT edge analytics software
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper) - Lightweight data stream processing engine for IoT edge
 - [rsocket/rsocket-go](https://github.com/rsocket/rsocket-go) - rsocket-go implementation
 - [uber/prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers
 - [jfeng45/servicetmpl](https://github.com/jfeng45/servicetmpl) - Microservice template project for Go and gRPC
@@ -953,7 +953,7 @@
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-- [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Dubbox、RabbitMQ、RocketMQ、Polaris 、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
+- [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) - 📌 强大的动态线程池框架，附带监控报警功能。支持 JDK、Tomcat、Jetty、Undertow 线程池；Dubbo、Dubbox、RabbitMQ、RocketMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 - [Discord4J/Discord4J](https://github.com/Discord4J/Discord4J) - Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for Java, Kotlin, and other JVM languages using the official Discord Bot API.
 - [DiUS/java-faker](https://github.com/DiUS/java-faker) - Brings the popular ruby faker gem to Java
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
@@ -1011,7 +1011,7 @@
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [spring-io/spring-javaformat](https://github.com/spring-io/spring-javaformat) - 
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) - Spring Native is now superseded by Spring Boot 3 official native support
 - [TommyLemon/TrainSort](https://github.com/TommyLemon/TrainSort) - 火车跟进排序算法，最坏对比次数 N(N-1)/2，类似冒泡排序的一种交换排序
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
