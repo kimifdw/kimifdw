@@ -264,6 +264,7 @@
 
 ## Go 
 
+- [alibaba/open-object](https://github.com/alibaba/open-object) - 
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
