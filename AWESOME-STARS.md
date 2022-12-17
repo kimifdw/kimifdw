@@ -1497,7 +1497,6 @@
 - [yi-ge/Koa2-API-Scaffold](https://github.com/yi-ge/Koa2-API-Scaffold) - 一个基于Koa2的轻量级RESTful API Server脚手架。
 - [tvrcgo/weixin-pay](https://github.com/tvrcgo/weixin-pay) - 微信支付 Nodejs SDK
 - [annnhan/vue-spa-template](https://github.com/annnhan/vue-spa-template) - The base code of vue.js project.
-- [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [sessionboy/sinn-server](https://github.com/sessionboy/sinn-server) - an node server for sinn,that based on of nodejs,koa2,mongoose,docker,nginx,es6/7,Resful API,阿里云  http://servertest.boyagirl.com/
 - [koajs/examples](https://github.com/koajs/examples) - Example Koa apps
