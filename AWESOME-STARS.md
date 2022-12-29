@@ -1244,7 +1244,7 @@
 - [kawhii/wolf](https://github.com/kawhii/wolf) - wolf 是一个高可用平台，分布式快速开发平台。配置中心、权限统一管理、单点登录，作业系统、监控平台。
 - [youseries/ureport](https://github.com/youseries/ureport) - UReport2 is a high-performance pure Java report engine based on Spring architecture, where complex Chinese-style statements and reports can be prepared by iterating over cells.
 - [sofastack/sofa-jarslink](https://github.com/sofastack/sofa-jarslink) - Jarslink is a sofa ark plugin used to manage multi-application deployment
-- [joshlong/bootiful-kafka](https://github.com/joshlong/bootiful-kafka) - a roundup of Kafka in the Spring ecosystem.
+- [joshlong-scratch/bootiful-kafka](https://github.com/joshlong-scratch/bootiful-kafka) - a roundup of Kafka in the Spring ecosystem.
 - [anilallewar/microservices-basics-spring-boot](https://github.com/anilallewar/microservices-basics-spring-boot) - Basic architecture framework to create complete microservices using Spring boot and Spring cloud
 - [JeffLi1993/java-concurrency-core-learning](https://github.com/JeffLi1993/java-concurrency-core-learning) - 关于 Java 并发编程核心技术学习积累的例子，是 Java 并发编程初学者及核心技术巩固的最佳实践。
 - [JeffLi1993/myabtis-learning-example](https://github.com/JeffLi1993/myabtis-learning-example) - MyBatis 实践学习案例，是 MyBatis 初学者及核心技术巩固的最佳实践。
@@ -1290,7 +1290,7 @@
 - [hanglegehang/quartz-demo](https://github.com/hanglegehang/quartz-demo) - java quartz动态定时任务管理
 - [teaey/spring-boot-starter-dubbo-sample](https://github.com/teaey/spring-boot-starter-dubbo-sample) - 
 - [wziwen/JSBridgeDemo](https://github.com/wziwen/JSBridgeDemo) - 
-- [joshlong/spring-and-google-protocol-buffers](https://github.com/joshlong/spring-and-google-protocol-buffers) - Demonstrates using Spring MVC 4.1's new support for Google Protocol Buffers
+- [joshlong-scratch/spring-and-google-protocol-buffers](https://github.com/joshlong-scratch/spring-and-google-protocol-buffers) - Demonstrates using Spring MVC 4.1's new support for Google Protocol Buffers
 - [LogNet/grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
 - [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
