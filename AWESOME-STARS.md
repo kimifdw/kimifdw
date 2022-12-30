@@ -846,6 +846,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [wx-chevalier/MessageQueue-Series](https://github.com/wx-chevalier/MessageQueue-Series) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
@@ -1244,7 +1245,7 @@
 - [kawhii/wolf](https://github.com/kawhii/wolf) - wolf 是一个高可用平台，分布式快速开发平台。配置中心、权限统一管理、单点登录，作业系统、监控平台。
 - [youseries/ureport](https://github.com/youseries/ureport) - UReport2 is a high-performance pure Java report engine based on Spring architecture, where complex Chinese-style statements and reports can be prepared by iterating over cells.
 - [sofastack/sofa-jarslink](https://github.com/sofastack/sofa-jarslink) - Jarslink is a sofa ark plugin used to manage multi-application deployment
-- [joshlong-scratch/bootiful-kafka](https://github.com/joshlong-scratch/bootiful-kafka) - a roundup of Kafka in the Spring ecosystem.
+- [joshlong-attic/bootiful-kafka](https://github.com/joshlong-attic/bootiful-kafka) - a roundup of Kafka in the Spring ecosystem.
 - [anilallewar/microservices-basics-spring-boot](https://github.com/anilallewar/microservices-basics-spring-boot) - Basic architecture framework to create complete microservices using Spring boot and Spring cloud
 - [JeffLi1993/java-concurrency-core-learning](https://github.com/JeffLi1993/java-concurrency-core-learning) - 关于 Java 并发编程核心技术学习积累的例子，是 Java 并发编程初学者及核心技术巩固的最佳实践。
 - [JeffLi1993/myabtis-learning-example](https://github.com/JeffLi1993/myabtis-learning-example) - MyBatis 实践学习案例，是 MyBatis 初学者及核心技术巩固的最佳实践。
@@ -1290,7 +1291,7 @@
 - [hanglegehang/quartz-demo](https://github.com/hanglegehang/quartz-demo) - java quartz动态定时任务管理
 - [teaey/spring-boot-starter-dubbo-sample](https://github.com/teaey/spring-boot-starter-dubbo-sample) - 
 - [wziwen/JSBridgeDemo](https://github.com/wziwen/JSBridgeDemo) - 
-- [joshlong-scratch/spring-and-google-protocol-buffers](https://github.com/joshlong-scratch/spring-and-google-protocol-buffers) - Demonstrates using Spring MVC 4.1's new support for Google Protocol Buffers
+- [joshlong-attic/spring-and-google-protocol-buffers](https://github.com/joshlong-attic/spring-and-google-protocol-buffers) - Demonstrates using Spring MVC 4.1's new support for Google Protocol Buffers
 - [LogNet/grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
 - [wxiaoqi/Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新
 - [apache/rocketmq](https://github.com/apache/rocketmq) - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
@@ -2337,7 +2338,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EvilCult/moviecatcher](https://github.com/EvilCult/moviecatcher) - 电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。
 - [wzpan/dingdang-robot](https://github.com/wzpan/dingdang-robot) - 🤖 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [fendouai/Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) - Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
 - [deepmind/pysc2](https://github.com/deepmind/pysc2) - StarCraft II Learning Environment
