@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [alibaba/open-object](https://github.com/alibaba/open-object) - 
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
@@ -934,6 +935,7 @@
 
 ## Java 
 
+- [cbeust/testng](https://github.com/cbeust/testng) - TestNG testing framework
 - [alibaba/otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)
 - [bytedance/bitsail](https://github.com/bytedance/bitsail) - BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every d
 - [tdunning/t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
@@ -2552,7 +2554,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
+- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
