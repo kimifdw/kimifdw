@@ -41,7 +41,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
-- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
@@ -151,7 +150,6 @@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [Tencent/DCache](https://github.com/Tencent/DCache) - A distributed in-memory NOSQL system based on TARS framework, support LRU algorithm and data persists on  back-end database. Users can easily deploy, publish, and scale services on the web interface.
 - [baidu/braft](https://github.com/baidu/braft) - An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
-- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis
 - [y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6) - 分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，持续更新。后期重点进行mongodb-4.4最新版本内核源码分析
 - [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker) - 清华大学计算机系课程攻略
@@ -165,13 +163,11 @@
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
 - [zshellzhang1993-2025/algorithms](https://github.com/zshellzhang1993-2025/algorithms) - 记录我学过的算法与刷过的题
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [alibaba/euler](https://github.com/alibaba/euler) - A distributed graph deep learning framework.
 - [LiquidPlayer/LiquidCore](https://github.com/LiquidPlayer/LiquidCore) - Node.js virtual machine for Android and iOS
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
-- [apache/mesos](https://github.com/apache/mesos) - Apache Mesos
 - [Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
@@ -194,6 +190,7 @@
 
 ## CSS 
 
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [PyConChina/2019-slides](https://github.com/PyConChina/2019-slides) - PyCon China 2019 幻灯片
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [AxonIQ/reference-guide](https://github.com/AxonIQ/reference-guide) - The Axon Reference Guide
@@ -1858,6 +1855,7 @@
 
 ## Others 
 
+- [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [alibaba/macaca](https://github.com/alibaba/macaca) - Automation solution for multi-platform. 多端自动化解决方案
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
@@ -2211,26 +2209,12 @@
 
 ## PHP 
 
-- [ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ) - ⚡ The most advanced open-source automatic algorithm online judge system | 南京邮电大学开源 Online Judge | QQ群：668108264
-- [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [adamfisk/LittleProxy](https://github.com/adamfisk/LittleProxy) - High performance HTTP proxy originally written by your friends at Lantern and now maintained by a stellar group of volunteer open source programmers.
-- [didi/rdebug](https://github.com/didi/rdebug) - Rdebug — Real Debugger
 - [nemoTyrant/manong](https://github.com/nemoTyrant/manong) - 码农周刊整理
-- [summerblue/laravel-shop](https://github.com/summerblue/laravel-shop) - Laravel 电商实战教程的项目代码
-- [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. 
-- [Tencent/Biny](https://github.com/Tencent/Biny) - Biny is a tiny, high-performance PHP framework for web applications
-- [figofuture/cfimagehost-on-openshift](https://github.com/figofuture/cfimagehost-on-openshift) - CF Image Host on Red Hat OpenShift PAAS
-- [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
-- [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 
 ## PLpgSQL 
 
 - [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.7 、Spring Cloud 2021 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服
 - [digoal/blog](https://github.com/digoal/blog) - Everything about database,business.(Most for PostgreSQL).
-
-## Perl 
-
-- [yoshinorim/mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) - Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part
 
 ## PowerShell 
 
@@ -2338,7 +2322,6 @@
 - [xiaoquantou/jd_spider](https://github.com/xiaoquantou/jd_spider) - 京东爬虫，可抓取京东商品信息和评论
 - [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
-- [kimifdw/python-tips](https://github.com/kimifdw/python-tips) - python学习实践
 - [pcdack/SDMUSIC](https://github.com/pcdack/SDMUSIC) - Search && Download Music from multi-platform
 - [graphql-python/gql](https://github.com/graphql-python/gql) - A GraphQL client in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -2379,7 +2362,6 @@
 
 ## Ruby 
 
-- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [logstash-plugins/logstash-patterns-core](https://github.com/logstash-plugins/logstash-patterns-core) - 
@@ -2439,9 +2421,9 @@
 
 ## Shell 
 
+- [kiwenlau/hadoop-cluster-docker](https://github.com/kiwenlau/hadoop-cluster-docker) - Run Hadoop Custer within Docker Containers
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [gyuho/learn](https://github.com/gyuho/learn) - learn
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [calee0219/awesome-5g](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
@@ -2716,25 +2698,18 @@
 - [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-- [wmz1930/Jeebase](https://github.com/wmz1930/Jeebase) - Jeebase是一款前后端分离的开源开发框架，基于springboot+vue（vue-element-admin/Ant Design Pro Vue）开发，一套SpringBoot后台，两套前端页面，可以自由选择基于ElementUI或者AntDesign的前端界面。二期会整合react前端框架（Ant Design React）。在实际应用中已经使用这套框架开发了CMS网站系统，社区论坛系统
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-- [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
-- [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-- [Jackyzm/ant-design-vue-pro](https://github.com/Jackyzm/ant-design-vue-pro) - ant-design-vue-pro Demo: https://jackyzm.com/vue/
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
-- [EasyTuan/nuxt-elm](https://github.com/EasyTuan/nuxt-elm) - 基于nuxt2+vue构建的全栈开源项目
 - [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
 - [jiangshanmeta/vue-admin](https://github.com/jiangshanmeta/vue-admin) - 基于vue的针对admin应用的low code解决方案
 - [iczer/vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 🐜 Ant Design Pro's implementation with Vue
 - [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - My digital garden, powered by @vuejs
-- [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [vuejs/ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
 - [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
