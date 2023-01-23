@@ -1191,7 +1191,7 @@
 - [eclipse/eclipse-collections](https://github.com/eclipse/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [whataa/pandora](https://github.com/whataa/pandora) - an android library for debugging what we care about directly in app.
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
-- [rahmanusta/practicing-java-module-system](https://github.com/rahmanusta/practicing-java-module-system) - Practicing the Java 9 Module System - Devoxx PL
+- [rahmanusta/practicing-java-module-system](https://github.com/rahmanusta/practicing-java-module-system) - Practicing the Java Module System - Devoxx PL
 - [IBM/etcd-java](https://github.com/IBM/etcd-java) - Alternative etcd3 java client
 - [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 - [takipi/profiling-agent](https://github.com/takipi/profiling-agent) - 
