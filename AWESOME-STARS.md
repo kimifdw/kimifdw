@@ -855,7 +855,7 @@
 ## HTML 
 
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
@@ -944,6 +944,7 @@
 
 ## Java 
 
+- [f4b6a3/tsid-creator](https://github.com/f4b6a3/tsid-creator) - A Java library for generating Time-Sorted Unique Identifiers (TSID).
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [cbeust/testng](https://github.com/cbeust/testng) - TestNG testing framework
 - [alibaba/otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)
@@ -1855,6 +1856,7 @@
 
 ## Others 
 
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [alibaba/macaca](https://github.com/alibaba/macaca) - Automation solution for multi-platform. 多端自动化解决方案
@@ -2377,6 +2379,7 @@
 
 ## Rust 
 
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
