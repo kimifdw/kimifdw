@@ -1342,7 +1342,7 @@
 - [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 - [yangtao309/zuul-route-jdbc-spring-cloud-starter](https://github.com/yangtao309/zuul-route-jdbc-spring-cloud-starter) - 
 - [itmuch/spring-cloud-dubbo-together](https://github.com/itmuch/spring-cloud-dubbo-together) - Spring Cloud与Dubbo共存方案
-- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for metrics.
+- [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) - An application observability facade for the most popular observability tools. Think SLF4J, but for observability.
 - [code4craft/netty-learning](https://github.com/code4craft/netty-learning) - Netty learning.
 - [databricks/learning-spark](https://github.com/databricks/learning-spark) - Example code from Learning Spark book
 - [mockito/mockito](https://github.com/mockito/mockito) - Most popular Mocking framework for unit tests written in Java
