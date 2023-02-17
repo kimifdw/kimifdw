@@ -179,7 +179,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [Tencent/phxqueue](https://github.com/Tencent/phxqueue) - A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [jvm-profiling-tools/async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [shoutrain/gMaxLinked](https://github.com/shoutrain/gMaxLinked) - gMaxLinked，a framework or a backend application for large concurrency, real-time, long-live TCP connections based applications.
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
@@ -246,7 +246,6 @@
 ## Dockerfile 
 
 - [31z4/zookeeper-docker](https://github.com/31z4/zookeeper-docker) - Docker image packaging for Apache Zookeeper
-- [GoogleCloudPlatform/cassandra-docker](https://github.com/GoogleCloudPlatform/cassandra-docker) - 
 - [joker8023/confluence](https://github.com/joker8023/confluence) - 
 - [mercari/docker-appengine-go](https://github.com/mercari/docker-appengine-go) - Projects has been moved
 - [AliyunContainerService/maven-image](https://github.com/AliyunContainerService/maven-image) - Maven Docker Image with Aliyun Mirror
@@ -2051,7 +2050,7 @@
 - [dsyer/simple-gateway](https://github.com/dsyer/simple-gateway) - simple-gateway
 - [zebook/zebook](https://github.com/zebook/zebook) - 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  我个人曾经做过的技术分享...
+- [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 - [huyubing/books-pdf](https://github.com/huyubing/books-pdf) - books pdf
 - [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
 - [o2team/H5Skills](https://github.com/o2team/H5Skills) - 移动端开发技巧集合
@@ -2456,6 +2455,7 @@
 - [GerritCodeReview/docker-gerrit](https://github.com/GerritCodeReview/docker-gerrit) - Official Docker image of Gerrit Code Review - (mirror of http://gerrit.googlesource.com/docker-gerrit)
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
+- [GoogleCloudPlatform/cassandra-docker](https://github.com/GoogleCloudPlatform/cassandra-docker) - 
 - [colinmollenhour/mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
 - [docker-flink/docker-flink](https://github.com/docker-flink/docker-flink) - Docker packaging for Apache Flink
 - [apolloconfig/apollo-quick-start](https://github.com/apolloconfig/apollo-quick-start) - Apollo Quick Start
