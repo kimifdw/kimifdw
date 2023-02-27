@@ -681,7 +681,7 @@
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [AlexStocks/getty](https://github.com/AlexStocks/getty) - a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo
+- [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo .
 - [seata/seata-go-server](https://github.com/seata/seata-go-server) - Seata compatible high availability server
 - [rancher/rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes
 - [yunlzheng/alertmanaer-dingtalk-webhook](https://github.com/yunlzheng/alertmanaer-dingtalk-webhook) - Alertmanage dingtalk support
@@ -743,7 +743,7 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
+- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [timonwong/prometheus-webhook-dingtalk](https://github.com/timonwong/prometheus-webhook-dingtalk) - DingTalk integration for Prometheus Alertmanager
 - [hnlq715/nginx-vts-exporter](https://github.com/hnlq715/nginx-vts-exporter) - Simple server that scrapes Nginx vts stats and exports them via HTTP for Prometheus consumption
 - [kbudde/rabbitmq_exporter](https://github.com/kbudde/rabbitmq_exporter) - Prometheus exporter for RabbitMQ
