@@ -2223,6 +2223,7 @@
 
 ## Python 
 
+- [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code
 - [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
