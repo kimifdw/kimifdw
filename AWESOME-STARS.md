@@ -321,7 +321,7 @@
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [lotusirous/go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns) - Concurrency patterns in Go
-- [get-eventually/go-eventually](https://github.com/get-eventually/go-eventually) - Idiomatic Event Sourcing in Go
+- [get-eventually/go-eventually](https://github.com/get-eventually/go-eventually) - Idiomatic Event Sourcing for Go
 - [go-redsync/redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go
 - [go-workflow/go-workflow](https://github.com/go-workflow/go-workflow) - go版本极简工作流引擎
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
@@ -1813,6 +1813,7 @@
 - [kubernetes/design-proposals-archive](https://github.com/kubernetes/design-proposals-archive) - Archive of Kubernetes Design Proposals
 - [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [servicemesher/getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) - Knative入门——构建基于 Kubernetes 的现代化Serverless应用 - https://www.servicemesher.com/getting-started-with-knative/
 - [service-mesh-performance/service-mesh-performance](https://github.com/service-mesh-performance/service-mesh-performance) - Standardizing Service Mesh Value Measurement
 - [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz
@@ -1938,7 +1939,6 @@
 - [polaris1119/golangweekly](https://github.com/polaris1119/golangweekly) - Go语言爱好者周刊，每周日发布
 - [bigwhite/gopherdaily](https://github.com/bigwhite/gopherdaily) - the archive of gopher daily articles
 - [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
-- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) - Learning Kubernetes, The Chinese Taoist Way
 - [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -2561,7 +2561,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
