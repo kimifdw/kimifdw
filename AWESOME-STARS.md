@@ -1735,7 +1735,7 @@
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
 - [kousen/kotlin-cookbook](https://github.com/kousen/kotlin-cookbook) - Code from the book _Kotlin Cookbook_, published by O'Reilly Media in 2019, http://shop.oreilly.com/product/0636920224327.do
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [andrewparmet/buf-gradle-plugin](https://github.com/andrewparmet/buf-gradle-plugin) - Gradle plugin for the Buf Protocol Buffer tool
 - [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Code Generator and Runtime for Protocol Buffers
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
