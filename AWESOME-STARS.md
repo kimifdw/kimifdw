@@ -1856,6 +1856,7 @@
 
 ## Others 
 
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 kubernetes, golang 源码分析
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
