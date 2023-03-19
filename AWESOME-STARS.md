@@ -862,7 +862,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-- [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
+- [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [wx-chevalier/MessageQueue-Series](https://github.com/wx-chevalier/MessageQueue-Series) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
 - [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
@@ -1548,7 +1548,6 @@
 - [JetBrains/create-react-kotlin-app](https://github.com/JetBrains/create-react-kotlin-app) - Create React apps using Kotlin with no build configuration
 - [didilinkin/react-admin-antd](https://github.com/didilinkin/react-admin-antd) - (原始版本在 - Router 分支)基于React-Antd的后台管理系统; 将使用webpack3+Redux+React-router4+styled-components+ESlint4（目前为测试数据, 非正式）
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [silas/node-consul](https://github.com/silas/node-consul) - Consul client
 - [yuri2peter/win10-ui](https://github.com/yuri2peter/win10-ui) - Win10风格的UI框架。Windows10 style UI framework.
@@ -2645,6 +2644,7 @@
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [microsoft/TypeScript-WeChat-Starter](https://github.com/microsoft/TypeScript-WeChat-Starter) - A starter template for TypeScript and WeChat with a detailed README describing how to use the two together.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [s-panferov/awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) - Awesome TypeScript loader for webpack
