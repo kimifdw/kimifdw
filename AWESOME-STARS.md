@@ -720,6 +720,7 @@
 - [lpxxn/godockerswarm](https://github.com/lpxxn/godockerswarm) - go docker swarms
 - [src-d/go-mysql-server](https://github.com/src-d/go-mysql-server) - An extensible MySQL server implementation in Go.
 - [XiaoMi/naftis](https://github.com/XiaoMi/naftis) - An awesome dashboard for Istio built with love.
+- [apache/dubbo-admin](https://github.com/apache/dubbo-admin) - The ops and reference implementation for Apache Dubbo
 - [marcusolsson/goddd](https://github.com/marcusolsson/goddd) - Exploring DDD in Go
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [ZTE/Knitter](https://github.com/ZTE/Knitter) - Kubernetes network solution
@@ -2714,7 +2715,6 @@
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
-- [apache/dubbo-admin](https://github.com/apache/dubbo-admin) - The ops and reference implementation for Apache Dubbo
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
 - [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
