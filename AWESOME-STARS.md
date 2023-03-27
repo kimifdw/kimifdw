@@ -225,7 +225,6 @@
 
 ## Clojure 
 
-- [RallySoftware/jarvis](https://github.com/RallySoftware/jarvis) - A robot for Flowdock
 - [MarchLiu/market](https://github.com/MarchLiu/market) - Akka Sample Projects As a Virtual Crypto Coins  Market
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
