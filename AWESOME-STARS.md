@@ -115,6 +115,7 @@
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
 - [sergiomsilva/alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained) - License Plate Detection and Recognition in Unconstrained Scenarios
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [tds-fdw/tds_fdw](https://github.com/tds-fdw/tds_fdw) - A PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server)
@@ -1190,7 +1191,6 @@
 - [JakeWharton/gradle-like-bazel](https://github.com/JakeWharton/gradle-like-bazel) - A demo showing that you can (probably) structure Gradle projects like you would Bazel
 - [eclipse/eclipse-collections](https://github.com/eclipse/eclipse-collections) - Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [whataa/pandora](https://github.com/whataa/pandora) - an android library for debugging what we care about directly in app.
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [rahmanusta/practicing-java-module-system](https://github.com/rahmanusta/practicing-java-module-system) - Practicing the Java Module System - Devoxx PL
 - [IBM/etcd-java](https://github.com/IBM/etcd-java) - Alternative etcd3 java client
 - [aragozin/jvm-tools](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
@@ -1735,7 +1735,7 @@
 - [kousen/kotlin-cookbook](https://github.com/kousen/kotlin-cookbook) - Code from the book _Kotlin Cookbook_, published by O'Reilly Media in 2019, http://shop.oreilly.com/product/0636920224327.do
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [andrewparmet/buf-gradle-plugin](https://github.com/andrewparmet/buf-gradle-plugin) - Gradle plugin for the Buf Protocol Buffer tool
+- [bufbuild/buf-gradle-plugin](https://github.com/bufbuild/buf-gradle-plugin) - Gradle plugin for the Buf Protocol Buffer tool
 - [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Code Generator and Runtime for Protocol Buffers
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
