@@ -541,7 +541,7 @@
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
-- [kylesliu/awesome-golang-algorithm](https://github.com/kylesliu/awesome-golang-algorithm) - :memo: LeetCode of algorithms with golang solution(updating).
+- [6boris/awesome-golang-algorithm](https://github.com/6boris/awesome-golang-algorithm) - :memo: LeetCode of algorithms with golang solution(updating).
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
 - [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
 - [fatih/pool](https://github.com/fatih/pool) - Connection pool for Go's net.Conn interface
