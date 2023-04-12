@@ -867,7 +867,7 @@
 - [wx-chevalier/MessageQueue-Series](https://github.com/wx-chevalier/MessageQueue-Series) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
 - [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
-- [wx-chevalier/K8s-Series](https://github.com/wx-chevalier/K8s-Series) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
+- [wx-chevalier/K8s-Notes](https://github.com/wx-chevalier/K8s-Notes) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
 - [cch123/golang-notes](https://github.com/cch123/golang-notes) - Go source code analysis(zh-cn)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
