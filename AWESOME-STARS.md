@@ -864,7 +864,7 @@
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
-- [wx-chevalier/MessageQueue-Series](https://github.com/wx-chevalier/MessageQueue-Series) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
+- [wx-chevalier/MessageQueue-Notes](https://github.com/wx-chevalier/MessageQueue-Notes) - 深入浅出消息队列与消息中间件：Kafka、RabbitMQ、RocketMQ、Pulsar
 - [domain-driven-design/specification](https://github.com/domain-driven-design/specification) - http://domain-driven-design.org
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [wx-chevalier/K8s-Notes](https://github.com/wx-chevalier/K8s-Notes) - 深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展
@@ -874,15 +874,15 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [X-lab2017/github-analysis-report-2019](https://github.com/X-lab2017/github-analysis-report-2019) - GitHub 2019 Digital Report
-- [wx-chevalier/DevOps-Series](https://github.com/wx-chevalier/DevOps-Series) - 📚DevOps，软件开发与发布，测试、CI、自动化、日志聚合、监控告警、SRE
+- [wx-chevalier/DevOps-Notes](https://github.com/wx-chevalier/DevOps-Notes) - 📚DevOps，软件开发与发布，测试、CI、自动化、日志聚合、监控告警、SRE
 - [mritd/dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
 - [polaris1119/golangclub](https://github.com/polaris1119/golangclub) - Go语言俱乐部
-- [wx-chevalier/Business-Series](https://github.com/wx-chevalier/Business-Series) - 熊说财经与科技 ~ 某熊的创业之路
+- [wx-chevalier/Business-Notes](https://github.com/wx-chevalier/Business-Notes) - 熊说财经与科技 ~ 某熊的创业之路
 - [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [Kazakuri/traefik_websocket](https://github.com/Kazakuri/traefik_websocket) - Simple demo of an issue connecting to a WebSocket over HTTPS with Traefik
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
-- [wx-chevalier/Cloud-Series](https://github.com/wx-chevalier/Cloud-Series) - :books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）
+- [wx-chevalier/Cloud-Notes](https://github.com/wx-chevalier/Cloud-Notes) - :books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。
 - [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
@@ -927,7 +927,7 @@
 - [wangdicoder/angular-material-dashboard](https://github.com/wangdicoder/angular-material-dashboard) - A material-design dashboard by using angular
 - [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [rse/es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison
-- [wx-chevalier/CS-Series](https://github.com/wx-chevalier/CS-Series) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
+- [wx-chevalier/CS-Notes](https://github.com/wx-chevalier/CS-Notes) - :books: 编程语言语法基础与工程实践，JavaScript | Java | Python | Go | Rust | CPP | Swift
 - [handuyishe/dubbo-monitor](https://github.com/handuyishe/dubbo-monitor) - 基于Dubbox最新版本重新开发的简单监控
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
@@ -1704,7 +1704,7 @@
 - [DataXujing/YOLO-v5](https://github.com/DataXujing/YOLO-v5) - :art: Pytorch YOLO v5 训练自己的数据集超详细教程！！！ :art: (提供PDF训练教程下载）
 - [snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook) - 简单粗暴 TensorFlow 2 | A Concise Handbook of TensorFlow 2 | 一本简明的 TensorFlow 2 入门指导教程
 - [apachecn/Interview](https://github.com/apachecn/Interview) - Interview = 简历指南 + 算法题 + 八股文 + 源码分析
-- [wx-chevalier/TensorFlow-Series](https://github.com/wx-chevalier/TensorFlow-Series) - 人工智能与深度学习实战 - TensorFlow 篇（MD & Notebooks）
+- [wx-chevalier/TensorFlow-Notes](https://github.com/wx-chevalier/TensorFlow-Notes) - 人工智能与深度学习实战 - TensorFlow 篇（MD & Notebooks）
 - [yahoo/streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, ...
 - [d2l-ai/berkeley-stat-157](https://github.com/d2l-ai/berkeley-stat-157) - Homepage for STAT 157 at UC Berkeley
 - [huaweicloud/ModelArts-Lab](https://github.com/huaweicloud/ModelArts-Lab) - ModelArts-Lab是示例代码库。更多AI开发学习交流信息，请访问华为云AI开发者社区：huaweicloud.ai
