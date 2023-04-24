@@ -1982,7 +1982,7 @@
 - [skyao/servicemesh2018](https://github.com/skyao/servicemesh2018) - Service Mesh2018年度总结
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
-- [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )
+- [toptechevangelist/awesome-evangelist](https://github.com/toptechevangelist/awesome-evangelist) - Awesome for Top Tech Evangelist ( TTE )  卓越布道师
 - [Swagger2Markup/swagger2markup-gradle-project-template](https://github.com/Swagger2Markup/swagger2markup-gradle-project-template) - This is a Swagger2Markup Gradle template project which uses the swagger2markup-gradle-plugin to convert a contract-first Swagger specification into an AsciiDoctor-based HTML documentation.
 - [Ridter/Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) - 2018年初整理的一些内网渗透TIPS，后面更新的慢，所以整理出来希望跟小伙伴们一起更新维护~
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑
