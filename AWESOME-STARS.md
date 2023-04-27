@@ -297,7 +297,7 @@
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
 - [micro/micro](https://github.com/micro/micro) - API first development platform
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud! - https://ddosify.com 🚀
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
@@ -586,7 +586,6 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [krylovsk/mqtt-benchmark](https://github.com/krylovsk/mqtt-benchmark) - MQTT broker benchmarking tool
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
-- [xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [dustin/go-coap](https://github.com/dustin/go-coap) - Implementation of CoAP in go.
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
@@ -1923,6 +1922,7 @@
 - [dair-ai/nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
+- [xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
 - [nebgnahz/awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) - A Collection of Hacks in IoT Space so that we can address them (hopefully).
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
