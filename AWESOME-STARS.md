@@ -297,7 +297,7 @@
 - [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
 - [micro/micro](https://github.com/micro/micro) - API first development platform
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -1858,7 +1858,7 @@
 
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 博客文章 ( 高性能/kubernetes/golang/kv 等等设计分析)
+- [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
@@ -2342,7 +2342,7 @@
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [aiff22/DPED](https://github.com/aiff22/DPED) - Software and pre-trained models for automatic photo quality enhancement using Deep Convolutional Networks
 - [alibaba/alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) - 
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [FastSchnell/googlebridge](https://github.com/FastSchnell/googlebridge) - Demo Websize
 - [pubref/rules_maven](https://github.com/pubref/rules_maven) - Transitive maven dependencies with Bazel.
 - [nanohop/sketch-to-react-native](https://github.com/nanohop/sketch-to-react-native) - Convert Sketch files into React Native components
