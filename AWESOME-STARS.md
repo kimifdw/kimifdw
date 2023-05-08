@@ -1523,7 +1523,7 @@
 - [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [eggjs/doctools](https://github.com/eggjs/doctools) - doctools for eggjs
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [alibaba/beidou](https://github.com/alibaba/beidou) - :milky_way: Isomorphic framework for server-rendered React apps
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 - [spring-attic/atom-boot-java](https://github.com/spring-attic/atom-boot-java) - 
@@ -2363,7 +2363,7 @@
 
 ## Roff 
 
-- [vorburger/MariaDB4j](https://github.com/vorburger/MariaDB4j) - MariaDB Embedded in Java JAR
+- [MariaDB4j/MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) - MariaDB Embedded in Java JAR
 
 ## Ruby 
 
