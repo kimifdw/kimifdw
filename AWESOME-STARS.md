@@ -159,7 +159,7 @@
 - [gperftools/gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
 - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency, and realtime video server, supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
@@ -311,7 +311,7 @@
 - [openzipkin-contrib/zipkin-go-opentracing](https://github.com/openzipkin-contrib/zipkin-go-opentracing) - OpenTracing Bridge for Zipkin Go
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - Examples for Kitex.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
-- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by CloudWeGo.
+- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
 - [seccome/Ehoney](https://github.com/seccome/Ehoney) - 安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。A safe, fast, highly interactive and enterprise level honeypot management system, supports multiple protocol honeypots, honeytokens, baits and other functions
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
@@ -512,7 +512,7 @@
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 - [gomodule/redigo](https://github.com/gomodule/redigo) - Go client for Redis
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
