@@ -2039,6 +2039,7 @@
 - [rfyiamcool/share_ppt](https://github.com/rfyiamcool/share_ppt) - 🚗  个人做过的技术分享... ( topic: 高性能架构,  中间件原理实践，云原生，Golang 等)
 - [huyubing/books-pdf](https://github.com/huyubing/books-pdf) - books pdf
 - [unknwon/go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
+- [o2team/H5Skills](https://github.com/o2team/H5Skills) - 移动端开发技巧集合
 - [yangui28/tip](https://github.com/yangui28/tip) - 自写博客、博客收藏、开源项目收藏
 - [zwwill/blog](https://github.com/zwwill/blog) - :pencil2: stay hungry stay foolish
 - [kuaifan/eeui](https://github.com/kuaifan/eeui) - 📱 使用 Vue.js 跨平台开发高质量原生（Android/iOS）应用。
