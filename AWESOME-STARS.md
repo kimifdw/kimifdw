@@ -2066,7 +2066,7 @@
 - [the-road-to-learn-react/the-road-to-learn-react-chinese](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese) - 《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。
 - [Authing/Authing](https://github.com/Authing/Authing) - 🔥Authing - IDaaS/IAM solution that can Auth to web and mobile applications.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-- [yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node) - 深入理解Node.js：核心思想与源码分析
+- [yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node) - In-depth understanding of Node.js: Core Ideas and Source Code Analysis
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 - [waylau/spring-security-tutorial](https://github.com/waylau/spring-security-tutorial) - Spring Security Tutorial takes you to learn Spring Security step by step with a large number of samples. Spring Security Tutorial 是一本关于 Spring Security 学习的开源书。利用业余时间写了本书，图文并茂，用大量实例带你一步一步走进 Spring Secu
 - [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
