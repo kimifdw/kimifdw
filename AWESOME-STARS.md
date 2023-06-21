@@ -30,6 +30,7 @@
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -393,7 +394,6 @@
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
 - [uber-go/multierr](https://github.com/uber-go/multierr) - Combine one or more Go errors together
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [uber-archive/go-torch](https://github.com/uber-archive/go-torch) - Stochastic flame graph profiler for Go programs
 - [ouqiang/gocron](https://github.com/ouqiang/gocron) - 定时任务管理系统
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -1101,7 +1101,7 @@
 - [normanmaurer/netty-in-action](https://github.com/normanmaurer/netty-in-action) - 
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [Arronlong/httpclientutil](https://github.com/Arronlong/httpclientutil) - 该项目基于HttpClient-4.4.1封装的一个工具类。提供了更为简单的GET、POST及上传下载等功能。同时支持插件式配置Http-Header（包含自定义header）、配置SSL和Proxy等。
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [fyhertz/libstreaming](https://github.com/fyhertz/libstreaming) - A solution for streaming H.264, H.263, AMR, AAC using RTP on Android
 - [Meituan-Dianping/Leaf](https://github.com/Meituan-Dianping/Leaf) - Distributed ID Generate Service
 - [mercyblitz/tech-weekly](https://github.com/mercyblitz/tech-weekly) - 「小马哥技术周报」
@@ -1791,6 +1791,10 @@
 - [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [orlabs/orange](https://github.com/orlabs/orange) - OpenResty/Nginx Gateway for API Monitoring and Management.
+
+## MDX 
+
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
