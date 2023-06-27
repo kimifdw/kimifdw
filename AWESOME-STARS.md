@@ -2711,7 +2711,7 @@
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
-- [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
+- [elunez/eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
 - [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 - [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
