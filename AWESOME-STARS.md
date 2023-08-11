@@ -412,7 +412,7 @@
 - [draffensperger/go-interlang](https://github.com/draffensperger/go-interlang) - Examples of calls between Go and C/C++ (and how to call a Go shared object from Node/Ruby/Python/Java)
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [opentracing/opentracing-go](https://github.com/opentracing/opentracing-go) - OpenTracing API for Go. 🛑 This library is DEPRECATED! https://github.com/opentracing/specification/issues/163
@@ -564,7 +564,7 @@
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [plgd-dev/go-coap](https://github.com/plgd-dev/go-coap) - Implementation of CoAP Server & Client in Go
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [denverdino/aliyungo](https://github.com/denverdino/aliyungo) - Go SDK for Aliyun (Alibaba Cloud) - Golang API for ECS, OSS, DNS, SLB, RDS, RAM, MNS, STS, SLS, MQ, Push, OpenSearch, DM, Container Service etc.
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
 - [hatajoe/8am](https://github.com/hatajoe/8am) - 
