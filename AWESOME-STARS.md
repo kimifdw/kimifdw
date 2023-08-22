@@ -652,7 +652,7 @@
 - [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - redis-shake is a tool for Redis data migration and data filtering. redis-shake 是一个用于 Redis 数据迁移与过滤的工具。
+- [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Redis data processing and migration tool.
 - [KohlsTechnology/eunomia](https://github.com/KohlsTechnology/eunomia) - A GitOps Operator for Kubernetes
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [sdgmf/go-project-sample](https://github.com/sdgmf/go-project-sample) - Introduce the best practice experience of Go project with a complete project example.通过一个完整的项目示例介绍Go语言项目的最佳实践经验.
@@ -1864,7 +1864,7 @@
 - [fork-dev/TrackerWin](https://github.com/fork-dev/TrackerWin) - Bug and issue tracker for Fork for Windows
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [danvk/effective-typescript](https://github.com/danvk/effective-typescript) - Effective TypeScript: 62 Specific Ways to Improve Your TypeScript
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 科学上网-翻墙、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费科学上网、免费翻墙、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
 - [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
@@ -1915,7 +1915,7 @@
 - [gee4vee/circuit-breaker-redis-cache](https://github.com/gee4vee/circuit-breaker-redis-cache) - A drop-in replacement for RedisCache with a circuit breaker
 - [bungle/awesome-resty](https://github.com/bungle/awesome-resty) - A List of Quality OpenResty Libraries, and Resources.
 - [SkyAPM/skywalking-data-collect-protocol-for-go](https://github.com/SkyAPM/skywalking-data-collect-protocol-for-go) - Apache skywalking
-- [LingCoder/OnJava8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版
+- [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
 - [dair-ai/nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries) - ✍️ A carefully curated list of NLP paper summaries
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
