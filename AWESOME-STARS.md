@@ -1345,7 +1345,7 @@
 - [NLPchina/nlp-lang](https://github.com/NLPchina/nlp-lang) - 这个项目是一个基本包.封装了大多数nlp项目中常用工具
 - [ctripcorp/x-pipe](https://github.com/ctripcorp/x-pipe) - X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统。基于Redis的Master-Slave复制协议，实现低延时、高可用的Redis多数据中心、跨公网数据复制，并且提供一键机房切换，复制监控、异常报警等功能。开源版本和携程内部生产环境版本一致。
 - [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
-- [Liberty-yuan/algorithm](https://github.com/Liberty-yuan/algorithm) - 各种算法的学习，排序/查找/树/图
+- [nick-ysn/algorithm](https://github.com/nick-ysn/algorithm) - 各种算法的学习，排序/查找/树/图
 - [kanwangzjm/funiture](https://github.com/kanwangzjm/funiture) - github: https://github.com/kanwangzjm/funiture, spring项目，权限管理、系统监控、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等
 - [wacai/spring-boot-starter-dubbo](https://github.com/wacai/spring-boot-starter-dubbo) - a spring boot starter module for developing microservices with dubbo RPC framework.
 - [gaoxianglong/shark](https://github.com/gaoxianglong/shark) - :shark:分布式mysql分库分表中间件，sharding领域的一站式解决方案
