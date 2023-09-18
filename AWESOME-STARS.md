@@ -2121,7 +2121,6 @@
 - [Vamei/Python-Tutorial-Vamei](https://github.com/Vamei/Python-Tutorial-Vamei) - A Quick Tutorial of Python
 - [leanklass/leanreact](https://github.com/leanklass/leanreact) - 精益 react 学习指南
 - [NodeParty-China/Node-Party](https://github.com/NodeParty-China/Node-Party) - 『NodeParty 中国』往期记录（slide，照片，预告，视频等）
-- [zuojj/fedlab](https://github.com/zuojj/fedlab) - :writing_hand: FEDLAB - 前端开发实验室文章集锦
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [fibjs/awesome](https://github.com/fibjs/awesome) - Useful resources for creating apps with fibjs
 - [YutHelloWorld/Blog](https://github.com/YutHelloWorld/Blog) - 🌎  技术自留地
@@ -2432,7 +2431,7 @@
 ## Shell 
 
 - [ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray-core 一键脚本
 - [kiwenlau/hadoop-cluster-docker](https://github.com/kiwenlau/hadoop-cluster-docker) - Run Hadoop Custer within Docker Containers
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [gyuho/learn](https://github.com/gyuho/learn) - learn
