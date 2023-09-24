@@ -42,7 +42,6 @@
 - [PLpgSQL](#plpgsql)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -69,7 +68,7 @@
 
 ## C 
 
-- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
 - [gcc-mirror/gcc](https://github.com/gcc-mirror/gcc) - 
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -1032,6 +1031,7 @@
 - [google/dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [spring-io/spring-javaformat](https://github.com/spring-io/spring-javaformat) - 
+- [MariaDB4j/MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) - MariaDB Embedded in Java JAR
 - [spring-attic/spring-native](https://github.com/spring-attic/spring-native) - Spring Native is now superseded by Spring Boot 3 official native support
 - [TommyLemon/TrainSort](https://github.com/TommyLemon/TrainSort) - 火车跟进排序算法，最坏对比次数 N(N-1)/2，类似冒泡排序的一种交换排序
 - [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
@@ -2364,10 +2364,6 @@
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [leotse90/blogs](https://github.com/leotse90/blogs) - Android, Python, Java, Linux, Bigdata and Others
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-
-## Roff 
-
-- [MariaDB4j/MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) - MariaDB Embedded in Java JAR
 
 ## Ruby 
 
