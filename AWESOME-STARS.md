@@ -283,7 +283,7 @@
 - [shaj13/raft](https://github.com/shaj13/raft) - raft is a golang library that provides a simple, clean, and idiomatic implementation of the Raft consensus protocol
 - [kstone-io/kstone](https://github.com/kstone-io/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM chat
 - [datacharmer/dbdeployer](https://github.com/datacharmer/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 - [IceFireDB/redhub](https://github.com/IceFireDB/redhub) - High-performance Redis-Server multi-threaded framework, based on rawepoll model.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
