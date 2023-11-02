@@ -951,7 +951,7 @@
 - [alibaba/otter](https://github.com/alibaba/otter) - 阿里巴巴分布式数据库同步系统(解决中美异地机房)
 - [bytedance/bitsail](https://github.com/bytedance/bitsail) - BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every d
 - [tdunning/t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  
 - [CoderLeixiaoshuai/java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part) - 『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！
 - [zalando/logbook](https://github.com/zalando/logbook) - An extensible Java library for HTTP request and response logging
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -2667,7 +2667,7 @@
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [onury/accesscontrol](https://github.com/onury/accesscontrol) - Role and Attribute based Access Control for Node.js
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [yedf2/micro-service](https://github.com/yedf2/micro-service) - a micro service framework. 一个简单的微服务框架
 - [heanxu/typescript-koa-framework](https://github.com/heanxu/typescript-koa-framework) - Base on koa v2.0 & TypeScript .
 - [spring-guides/tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) - Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAu
