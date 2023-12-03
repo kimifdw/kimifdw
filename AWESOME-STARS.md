@@ -937,6 +937,7 @@
 
 ## Java 
 
+- [didi/super-jacoco](https://github.com/didi/super-jacoco) - 
 - [mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。
 - [fizzgate/fizz-gateway-node](https://github.com/fizzgate/fizz-gateway-node) - 微服务API聚合网关 An Aggregation API Gateway
 - [spring-cloud/spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway) - A Gateway built on Spring Framework and Spring Boot providing routing and more.
@@ -2140,7 +2141,7 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-- [pheromone/IOS-native-and-React-native-interaction](https://github.com/pheromone/IOS-native-and-React-native-interaction) - iOS原生和react native之间的交互
+- [shaoting0730/IOS-native-and-React-native-interaction](https://github.com/shaoting0730/IOS-native-and-React-native-interaction) - iOS原生和react native之间的交互
 - [xujinyang/react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) - 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
 - [yuguo/BAT-internal-referral](https://github.com/yuguo/BAT-internal-referral) - BAT等国内互联网公司内推
 - [YunaiV/Blog](https://github.com/YunaiV/Blog) - 每周一篇，内容精简，不咸不淡，期盼探讨。微信公众号：芋道源码【纯源码分享公众号】
