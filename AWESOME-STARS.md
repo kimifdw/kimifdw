@@ -1167,7 +1167,7 @@
 - [Yirendai/cicada](https://github.com/Yirendai/cicada) - A Dapper based Large-Scale Distributed Systems Tracing Infrastructure
 - [elgitdegabi/SampleUnitTests](https://github.com/elgitdegabi/SampleUnitTests) - Some ideas and samples about unit testing using the different tools given by Spring Boot Test dependency. For me and my team they are so useful when we write and run the Unit Test for medium or high c
 - [sofastack/sofa-tracer](https://github.com/sofastack/sofa-tracer) - SOFATracer is a component for the distributed system call trace. And through a unified traceId logging the logs of various network calls in the invoking link. These logs can be used for quick discover
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [AliyunContainerService/spring-cloud-k8s-sample](https://github.com/AliyunContainerService/spring-cloud-k8s-sample) - This example demonstrate how to use AliCloud Container Service feature to build a spring-boot application leveraging with Spring Cloud capabilities.
 - [echoTheLiar/JavaCodeAcc](https://github.com/echoTheLiar/JavaCodeAcc) - Java代码积累 | 大话设计模式（Java实现版本）、线程协作
