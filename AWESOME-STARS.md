@@ -2098,7 +2098,7 @@
 - [google/swift](https://github.com/google/swift) - The Swift Programming Language
 - [nicolaka/checklist](https://github.com/nicolaka/checklist) - Docker EE Operational Checklist
 - [barretlee/performance-column](https://github.com/barretlee/performance-column) - 🚅 性能专栏（Performance Column）
-- [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic IT resources
+- [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [Kotlin/coroutines-examples](https://github.com/Kotlin/coroutines-examples) - Examples for coroutines design in Kotlin
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
