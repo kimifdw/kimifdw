@@ -1171,7 +1171,7 @@
 - [AliyunContainerService/spring-cloud-k8s-sample](https://github.com/AliyunContainerService/spring-cloud-k8s-sample) - This example demonstrate how to use AliCloud Container Service feature to build a spring-boot application leveraging with Spring Cloud capabilities.
 - [echoTheLiar/JavaCodeAcc](https://github.com/echoTheLiar/JavaCodeAcc) - Java代码积累 | 大话设计模式（Java实现版本）、线程协作
 - [apache/servicecomb-pack](https://github.com/apache/servicecomb-pack) - Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by u
-- [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using
+- [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) - 📌 TransmittableThreadLocal (TTL), a missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using t
 - [uber-common/jvm-profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
@@ -1789,7 +1789,7 @@
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [fanqingxuan/jframe](https://github.com/fanqingxuan/jframe) - 
 - [raoxiaoyan/kong-plugins-canary](https://github.com/raoxiaoyan/kong-plugins-canary) - The grayscale plug-in based on gateway Kong, called Canary, meets A/B testing and dynamically switches upstream agents
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [menudoproblema/Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissetor for Wireshark
 - [doujiang24/lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) - Lua kafka client driver for the Openresty based on the cosocket API
 - [threathunterX/nebula](https://github.com/threathunterX/nebula) - "星云"业务风控系统，主工程
