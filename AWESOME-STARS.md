@@ -2367,7 +2367,7 @@
 - [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod) - 
 - [anishathalye/neural-style](https://github.com/anishathalye/neural-style) - Neural style in TensorFlow! 🎨
 - [DaoCloud/python-mysql-sample](https://github.com/DaoCloud/python-mysql-sample) - Sample application in python and mysql
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [leotse90/blogs](https://github.com/leotse90/blogs) - Android, Python, Java, Linux, Bigdata and Others
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
