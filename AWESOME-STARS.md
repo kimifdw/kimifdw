@@ -937,6 +937,7 @@
 
 ## Java 
 
+- [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
 - [jchambers/pushy](https://github.com/jchambers/pushy) - A Java library for sending APNs (iOS/macOS/Safari) push notifications
 - [didi/super-jacoco](https://github.com/didi/super-jacoco) - 
@@ -2406,7 +2407,6 @@
 
 ## SCSS 
 
-- [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
@@ -2439,6 +2439,7 @@
 - [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 - [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [phodal/dx-book](https://github.com/phodal/dx-book) - 《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)
 - [calee0219/awesome-5g](https://github.com/calee0219/awesome-5g) - Awesome lists about 5G projects.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
