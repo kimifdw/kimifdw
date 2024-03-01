@@ -1497,7 +1497,7 @@
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) - 《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：
 - [TonyLuo/element-vue-admin](https://github.com/TonyLuo/element-vue-admin) - vue admin template base on element 2
-- [ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - Apache ECharts 的微信小程序版本
+- [ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - 基于 Apache ECharts 的微信小程序图表库
 - [caiya/vuejs-admin](https://github.com/caiya/vuejs-admin) - 基于eggjs、vuejs的设备管理系统，有帮助的话麻烦给个star谢谢
 - [ant-design/ant-design-pro-cli](https://github.com/ant-design/ant-design-pro-cli) - Cli tool of Ant Design Pro
 - [umijs/umi-example-dva-user-dashboard](https://github.com/umijs/umi-example-dva-user-dashboard) - User dashboard example with combination use of umi and dva.
