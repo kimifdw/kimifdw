@@ -379,7 +379,7 @@
 - [mdlayher/netlink](https://github.com/mdlayher/netlink) - Package netlink provides low-level access to Linux netlink sockets (AF_NETLINK). MIT Licensed.
 - [blushft/go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 - [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
-- [x1unix/go-playground](https://github.com/x1unix/go-playground) - 🇺🇦 Better Go Playground powered by React and Monaco editor
+- [x1unix/go-playground](https://github.com/x1unix/go-playground) - Better Go Playground powered by React and Monaco editor
 - [go-ini/ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go
 - [careermonk/data-structures-and-algorithmic-thinking-with-go](https://github.com/careermonk/data-structures-and-algorithmic-thinking-with-go) - Data Structures and Algorithmic Thinking With Go
 - [rencalo770/gengine](https://github.com/rencalo770/gengine) - Rule Engine for Golang
