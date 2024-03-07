@@ -243,7 +243,6 @@
 
 ## Emacs Lisp 
 
-- [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Erlang 
@@ -2460,6 +2459,7 @@
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [GerritCodeReview/docker-gerrit](https://github.com/GerritCodeReview/docker-gerrit) - Official Docker image of Gerrit Code Review - (mirror of http://gerrit.googlesource.com/docker-gerrit)
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes without the root privileges
+- [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [GoogleCloudPlatform/cassandra-docker](https://github.com/GoogleCloudPlatform/cassandra-docker) - 
 - [colinmollenhour/mariadb-galera-swarm](https://github.com/colinmollenhour/mariadb-galera-swarm) - Easy to use MariaDb Galera Cluster container based on official mariadb image with support for Docker Swarm Mode.
