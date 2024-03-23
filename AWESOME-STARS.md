@@ -1472,7 +1472,6 @@
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
-- [kitze/JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
 - [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [Corey600/zoodubbo](https://github.com/Corey600/zoodubbo) - A Javascript module for Node.js to connect Dubbo service.
 - [sofastack/sofa-bolt-node](https://github.com/sofastack/sofa-bolt-node) - The Node.js implementation of the SOFABolt protocol
