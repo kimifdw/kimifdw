@@ -1062,7 +1062,7 @@
 - [apache/incubator-kie-drools](https://github.com/apache/incubator-kie-drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [RoaringBitmap/RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others
-- [lettuce-io/lettuce-core](https://github.com/lettuce-io/lettuce-core) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+- [redis/lettuce](https://github.com/redis/lettuce) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
 - [alibaba/alibaba-rsocket-broker](https://github.com/alibaba/alibaba-rsocket-broker) - Alibaba RSocket Broker: Mesh, Streaming & IoT
 - [zhailuxu/Dubbo-Demo](https://github.com/zhailuxu/Dubbo-Demo) - 《深度剖析Apache Dubbo技术内幕》一书Demo
 - [real-logic/agrona](https://github.com/real-logic/agrona) - High Performance data structures and utility methods for Java
@@ -1583,7 +1583,6 @@
 - [easy-team/easywebpack](https://github.com/easy-team/easywebpack) - A Simple, Powerful Webpack Front-End Development Solution
 - [easy-team/egg-vue-webpack-boilerplate](https://github.com/easy-team/egg-vue-webpack-boilerplate) - Egg Vue Server Side Render (SSR) / Client Side Render (CSR)
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [enzolutions/react-antd-demo](https://github.com/enzolutions/react-antd-demo) - 
 - [start-react/sb-admin-react](https://github.com/start-react/sb-admin-react) - Starter theme for React JS Dashboard Apps
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
@@ -2681,6 +2680,7 @@
 - [tensorflow/playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [onury/accesscontrol](https://github.com/onury/accesscontrol) - Role and Attribute based Access Control for Node.js
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [yedf2/micro-service](https://github.com/yedf2/micro-service) - a micro service framework. 一个简单的微服务框架
 - [heanxu/typescript-koa-framework](https://github.com/heanxu/typescript-koa-framework) - Base on koa v2.0 & TypeScript .
