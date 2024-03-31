@@ -2710,7 +2710,7 @@
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
