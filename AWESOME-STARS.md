@@ -783,7 +783,7 @@
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [AliyunContainerService/pouch](https://github.com/AliyunContainerService/pouch) - An Efficient Enterprise-class Container Engine
-- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Training operators on Kubernetes.
+- [kubeflow/training-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine-Tuning on Kubernetes
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [neugram/ng](https://github.com/neugram/ng) - scripting language integrated with Go
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
