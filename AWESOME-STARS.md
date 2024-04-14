@@ -2701,7 +2701,7 @@
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [Aedron/Luoo.spider](https://github.com/Aedron/Luoo.spider) - 🤖 A spider and server for Luoo.qy
+- [elliothux/Luoo.spider](https://github.com/elliothux/Luoo.spider) - 🤖 A spider and server for Luoo.qy
 - [varHarrie/varharrie.github.io](https://github.com/varHarrie/varharrie.github.io) - :blue_book: Personal blog site based on github issues.
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [dabbott/react-native-express](https://github.com/dabbott/react-native-express) - The all-in-one guide to React Native
