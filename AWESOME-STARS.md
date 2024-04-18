@@ -262,7 +262,7 @@
 ## Go 
 
 - [Huawei/dockyard](https://github.com/Huawei/dockyard) - Container & Artifact Repository
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for building complex, real-world software with LLMs
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -2161,7 +2161,6 @@
 - [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 - [reactjs/react-basic](https://github.com/reactjs/react-basic) - A description of the conceptual model of React without implementation burden.
 - [wagamamaz/tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial) - TensorFlow and Deep Learning Tutorials
-- [shengxinjing/be-a-professional-programmer](https://github.com/shengxinjing/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [DDFE/DDFE-blog](https://github.com/DDFE/DDFE-blog) - :clap: welcome to DDFE's blog
 - [jsfront/src](https://github.com/jsfront/src) - 常用代码收集资源分享
@@ -2455,7 +2454,6 @@
 - [sdelrio/consul](https://github.com/sdelrio/consul) - docker consul for use in swarm mode
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
-- [rootsongjc/serverless-handbook](https://github.com/rootsongjc/serverless-handbook) - Serverless Handbook 无服务架构实践手册 - https://jimmysong.io/serverless-handbook
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [spencergibb/spring-cloud-gateway-bench](https://github.com/spencergibb/spring-cloud-gateway-bench) - Simple benchmark comparing zuul and spring cloud gateway
 - [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
@@ -2510,7 +2508,6 @@
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
 - [jasonGeng88/blog](https://github.com/jasonGeng88/blog) - 随写工作中遇到的问题、学习的心得，于己总结回顾，与他分享讨论。。。
 - [kubeup/okdc](https://github.com/kubeup/okdc) - One-liner Kubernetes Deployment in China 一键部署K8S
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn) - Elasticsearch权威指南中文版
 - [aqingsao/nana](https://github.com/aqingsao/nana) - A lightweight Nginx log analyzer written in shell(statistics of traffic/rate/response time/upstream servers/spiders/response codes)
