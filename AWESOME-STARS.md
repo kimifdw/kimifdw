@@ -213,7 +213,6 @@
 - [quanke/vert-x-core-manual-for-java](https://github.com/quanke/vert-x-core-manual-for-java) - 
 - [fwon/gulp-webpack-demo](https://github.com/fwon/gulp-webpack-demo) - gulp+webpack to build multi-page frontend project
 - [QzhouZ/Webpack-React-MultiplePage](https://github.com/QzhouZ/Webpack-React-MultiplePage) - Webpack+React多页面应用探索
-- [aliqin/atui](https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [okoala/vue-antd](https://github.com/okoala/vue-antd) - Vue UI Component & Ant.Design
 - [vum-team/vum](https://github.com/vum-team/vum) - An UI Framework build with Vue.js for mobile webapp
@@ -942,7 +941,7 @@
 ## Java 
 
 - [codecentric/spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [jchambers/pushy](https://github.com/jchambers/pushy) - A Java library for sending APNs (iOS/macOS/Safari) push notifications
 - [didi/super-jacoco](https://github.com/didi/super-jacoco) - 
 - [mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) - AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。
@@ -1784,6 +1783,7 @@
 - [ant-mini-program/mini-antui](https://github.com/ant-mini-program/mini-antui) - mini-antui 停止维护，可使用 mini-ali-ui ，品牌升级，功能加强，欢迎使用！
 - [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [caohuilin/Resume](https://github.com/caohuilin/Resume) - 2017-曹慧琳-前端工程师-简历
+- [aliqin/atui](https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Lua 
@@ -2233,7 +2233,7 @@
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
-- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code
 - [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
