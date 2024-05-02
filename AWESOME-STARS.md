@@ -2505,7 +2505,7 @@
 - [kakawait/uaa-behind-zuul-sample](https://github.com/kakawait/uaa-behind-zuul-sample) - Spring AuthorizationServer load balanced behind Zuul
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [marshalYuan/spring-cloud-example](https://github.com/marshalYuan/spring-cloud-example) - some demos of spring-cloud
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
 - [jasonGeng88/blog](https://github.com/jasonGeng88/blog) - 随写工作中遇到的问题、学习的心得，于己总结回顾，与他分享讨论。。。
 - [kubeup/okdc](https://github.com/kubeup/okdc) - One-liner Kubernetes Deployment in China 一键部署K8S
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
