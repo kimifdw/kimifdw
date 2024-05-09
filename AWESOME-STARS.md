@@ -493,7 +493,7 @@
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [antlinker/go-mqtt](https://github.com/antlinker/go-mqtt) - MQTT 3.1.1 golang客户端，支持同步模式，事件模式，自动重连，报文统计,tcp/tls连接等功能
 - [gnet-io/gnet-benchmarks](https://github.com/gnet-io/gnet-benchmarks) - Benchmark test of gnet
-- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) - Reference library for the parsing and loading Compose files
+- [compose-spec/compose-go](https://github.com/compose-spec/compose-go) - Reference library for parsing and loading Compose YAML files
 - [rancher/fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
 - [birdayz/kaf](https://github.com/birdayz/kaf) - Modern CLI for Apache Kafka, written in Go.
 - [austingebauer/go-leetcode](https://github.com/austingebauer/go-leetcode) - A collection of 100+ popular LeetCode problems solved in Go.
