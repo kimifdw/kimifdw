@@ -636,7 +636,7 @@
 - [ibbd-dev/go-async-log](https://github.com/ibbd-dev/go-async-log) - Golang异步日志库，支持异步批量写入，按天或者小时自动切割，错误等级，多文件等
 - [kplcloud/kplcloud](https://github.com/kplcloud/kplcloud) - 基于Kubernetes的PaaS平台
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [kujtimiihoxha/kit](https://github.com/kujtimiihoxha/kit) - GoKit CLI
 - [okteto/go-getting-started](https://github.com/okteto/go-getting-started) - Develop Go Apps in Kubernetes with Okteto
 - [phuctm97/go-restful](https://github.com/phuctm97/go-restful) - 🚀 A real world production-grade RESTful Web Services proof-of-concept project.
