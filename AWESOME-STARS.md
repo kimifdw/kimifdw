@@ -1425,7 +1425,7 @@
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [JeromeLiuLly/dubbo-gray](https://github.com/JeromeLiuLly/dubbo-gray) - 基于Dubbo实现的灰度发布
 - [hqwlkj/umi-dva-antd-mobile](https://github.com/hqwlkj/umi-dva-antd-mobile) - 基于 umi + dva + antd-mobile 快速构建H5 APP 应用。
-- [seeden/rbac](https://github.com/seeden/rbac) - Hierarchical Role Based Access Control for NodeJS
+- [goodmodule/rbac](https://github.com/goodmodule/rbac) - Hierarchical Role Based Access Control for NodeJS
 - [ElasticHQ/elasticsearch-HQ](https://github.com/ElasticHQ/elasticsearch-HQ) - Monitoring and Management Web Application for ElasticSearch instances and clusters.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
