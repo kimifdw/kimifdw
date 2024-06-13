@@ -326,7 +326,7 @@
 - [tetratelabs/getmesh](https://github.com/tetratelabs/getmesh) - 
 - [dlsniper/debugger](https://github.com/dlsniper/debugger) - Debugging helper for Go
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) - An interesting go struct tag expression syntax for field validation, etc.
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed DarwinKit!
+- [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [labulakalia/ibm_bak](https://github.com/labulakalia/ibm_bak) - IBM Developer 中文网站文章备份
 - [snyk/driftctl](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
