@@ -303,7 +303,7 @@
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
-- [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+- [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented DevOps platform
 - [openzipkin-contrib/zipkin-go-opentracing](https://github.com/openzipkin-contrib/zipkin-go-opentracing) - OpenTracing Bridge for Zipkin Go
 - [cloudwego/kitex-examples](https://github.com/cloudwego/kitex-examples) - Examples for Kitex.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
@@ -2732,7 +2732,7 @@
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+- [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
