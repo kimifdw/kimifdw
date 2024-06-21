@@ -188,7 +188,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [Qihoo360/QConf](https://github.com/Qihoo360/QConf) - Qihoo Distributed Configuration Management System
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 
 ## CSS 
 
@@ -2230,7 +2230,7 @@
 
 ## Python 
 
-- [6drf21e/ChatTTS_colab](https://github.com/6drf21e/ChatTTS_colab) - 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
+- [6drf21e/ChatTTS_colab](https://github.com/6drf21e/ChatTTS_colab) - 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持流式输出、音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [karpathy/minbpe](https://github.com/karpathy/minbpe) - Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
