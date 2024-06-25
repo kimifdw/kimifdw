@@ -2178,7 +2178,6 @@
 - [webpack-china/awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
 - [jobbole/awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) - MySQL 资源大全中文版，分析工具、备份、性能测试、配置、部署、GUI 等
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [reactnativecn/react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
 - [liangxiaojuan/eleme](https://github.com/liangxiaojuan/eleme) - restructure..
@@ -2719,6 +2718,7 @@
 - [laixintao/myrc](https://github.com/laixintao/myrc) - ⚙️ My Linux Config files.
 - [oldratlee/vim-practice](https://github.com/oldratlee/vim-practice) - 💘 Vim is awesome! Here is my practice and study log.
 - [gpakosz/.vim](https://github.com/gpakosz/.vim) - Sensible yet opinionated Vim configuration
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
