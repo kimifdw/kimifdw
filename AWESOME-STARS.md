@@ -263,6 +263,7 @@
 
 ## Go 
 
+- [bytedance/netcap](https://github.com/bytedance/netcap) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [Huawei/dockyard](https://github.com/Huawei/dockyard) - Container & Artifact Repository
@@ -2685,7 +2686,7 @@
 - [onury/accesscontrol](https://github.com/onury/accesscontrol) - Role and Attribute based Access Control for Node.js
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [yedf2/micro-service](https://github.com/yedf2/micro-service) - a micro service framework. 一个简单的微服务框架
 - [heanxu/typescript-koa-framework](https://github.com/heanxu/typescript-koa-framework) - Base on koa v2.0 & TypeScript .
 - [spring-guides/tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js) - Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAu
