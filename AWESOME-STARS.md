@@ -727,7 +727,7 @@
 - [bilibili/discovery](https://github.com/bilibili/discovery) - A registry for resilient mid-tier load balancing and failover.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) - Console-based JVM monitoring tool
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 - [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
@@ -2663,7 +2663,7 @@
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
@@ -2748,7 +2748,7 @@
 - [surmon-china/surmon.me](https://github.com/surmon-china/surmon.me) - 🌱 My digital garden, powered by myself.
 - [vuejs/ui](https://github.com/vuejs/ui) - 💻 UI components for official Vue organization apps
 - [didi/mand-mobile](https://github.com/didi/mand-mobile) - 💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.
-- [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
+- [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. 
 - [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
 - [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
