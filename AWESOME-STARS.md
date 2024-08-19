@@ -90,7 +90,7 @@
 - [shiyanhui/libcsp](https://github.com/shiyanhui/libcsp) - A concurrency C library 10x faster than Golang.
 - [pgspider/pgspider](https://github.com/pgspider/pgspider) - High-Performance SQL Cluster Engine for Scalable Data Virtualization
 - [alibaba/erlang_multi_pollset](https://github.com/alibaba/erlang_multi_pollset) - 
-- [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc
+- [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.
 - [RedisLabs/redis-cluster-proxy](https://github.com/RedisLabs/redis-cluster-proxy) - A proxy for Redis clusters.
 - [giltene/wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
