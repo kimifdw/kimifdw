@@ -970,7 +970,6 @@
 - [alexxiyang/shiro-redis](https://github.com/alexxiyang/shiro-redis) - shiro only provide the support of ehcache and concurrentHashMap. Here is an implement of redis cache can be used by shiro. Hope it will help you!
 - [raphw/byte-buddy](https://github.com/raphw/byte-buddy) - Runtime code generation for the Java virtual machine.
 - [starcwang/easy_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [gaoxianglong/service-tracing](https://github.com/gaoxianglong/service-tracing) - 基于Dubbo埋点的分布式调用跟踪系统
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [didi/LogiCommon](https://github.com/didi/LogiCommon) - Java版 认证、鉴权、管理、任务调度通用功能组件
@@ -1306,7 +1305,6 @@
 - [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) - :crown: LeetCode of algorithms with java solution(updating).
 - [keets2012/snowflake-id-generator](https://github.com/keets2012/snowflake-id-generator) - snowflake-id-generator
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
-- [hanglegehang/quartz-demo](https://github.com/hanglegehang/quartz-demo) - java quartz动态定时任务管理
 - [teaey/spring-boot-starter-dubbo-sample](https://github.com/teaey/spring-boot-starter-dubbo-sample) - 
 - [wziwen/JSBridgeDemo](https://github.com/wziwen/JSBridgeDemo) - 
 - [joshlong-attic/spring-and-google-protocol-buffers](https://github.com/joshlong-attic/spring-and-google-protocol-buffers) - Demonstrates using Spring MVC 4.1's new support for Google Protocol Buffers
@@ -1620,7 +1618,7 @@
 - [walid1992/weex-frame](https://github.com/walid1992/weex-frame) - weex 基于vue2.0开发框架
 - [jeneser/vue-scroll-behavior](https://github.com/jeneser/vue-scroll-behavior) - Customize the scrolling position on route navigation. Especially hash mode.
 - [kuntoaji/hello-world-input-field](https://github.com/kuntoaji/hello-world-input-field) - React JS, Redux, create-react-app example application
-- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+- [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [bailicangdu/react-pxq](https://github.com/bailicangdu/react-pxq) - 一个 react + redux 的完整项目 和 个人总结
 - [jialunguo/vue-server-render-jscHelper](https://github.com/jialunguo/vue-server-render-jscHelper) - 
@@ -1859,7 +1857,7 @@
 
 ## Others 
 
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了900多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1000多个poc/exp，长期更新。
 - [chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
