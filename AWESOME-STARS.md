@@ -657,7 +657,6 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Redis data processing and migration tool.
@@ -883,6 +882,7 @@
 - [wx-chevalier/Cloud-Notes](https://github.com/wx-chevalier/Cloud-Notes) - :books: 《深入浅出云计算与 Kubernetes》：云计算（云安全，云原生）、虚拟化（容器、Docker、Xen）、集群编排（Kubernetes、ServiceMesh）
 - [doocs/technical-books](https://github.com/doocs/technical-books) - 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
 - [songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 基础知识，性能优化和大量实战经验。
+- [golang/proposal](https://github.com/golang/proposal) - Go Project Design Documents
 - [xiaoymin/knife4j](https://github.com/xiaoymin/knife4j) - Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution
 - [typesafehub/activator-akka-java-spring](https://github.com/typesafehub/activator-akka-java-spring) - Activator tutorial for Akka showing Java & Spring integration
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
