@@ -2217,7 +2217,7 @@
 ## PLpgSQL 
 
 - [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.7 、Spring Cloud 2021 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服
-- [digoal/blog](https://github.com/digoal/blog) - OpenSource,Database,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
+- [digoal/blog](https://github.com/digoal/blog) - Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog
 
 ## PowerShell 
 
@@ -2320,7 +2320,7 @@
 - [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) - PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing"
 - [Jeff2Ma/launchd-with-networkchange](https://github.com/Jeff2Ma/launchd-with-networkchange) - A tool with shell script and launchd to trigger actions whenever a Mac's network information is changed.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [apache/dubbo-python](https://github.com/apache/dubbo-python) - Python Client For Apache Dubbo
+- [apache/dubbo-python](https://github.com/apache/dubbo-python) - The python Implementation For Apache Dubbo.
 - [mahyarnajibi/SNIPER](https://github.com/mahyarnajibi/SNIPER) - SNIPER / AutoFocus is an efficient multi-scale object detection training / inference algorithm
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [ys323945/iOSAutoPage](https://github.com/ys323945/iOSAutoPage) - 🔥 python脚本实现自动化打包
