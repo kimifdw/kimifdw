@@ -2642,7 +2642,7 @@
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [DanielRosenwasser/React-TypeScript-Tutorial](https://github.com/DanielRosenwasser/React-TypeScript-Tutorial) - 
 - [gpmer/gpm.js](https://github.com/gpmer/gpm.js) - :gem:Git Package Manager, make you manage the repository easier, Power by Typescript & Nodejs
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [uiwjs/uiw](https://github.com/uiwjs/uiw) - ⚛️ @uiwjs A high quality UI Toolkit, A Component Library for React 16+.
