@@ -1419,7 +1419,6 @@
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [JeromeLiuLly/dubbo-gray](https://github.com/JeromeLiuLly/dubbo-gray) - 基于Dubbo实现的灰度发布
 - [hqwlkj/umi-dva-antd-mobile](https://github.com/hqwlkj/umi-dva-antd-mobile) - 基于 umi + dva + antd-mobile 快速构建H5 APP 应用。
 - [goodmodule/rbac](https://github.com/goodmodule/rbac) - Hierarchical Role Based Access Control for NodeJS
@@ -2279,6 +2278,7 @@
 - [zhaoboy9692/me-tools](https://github.com/zhaoboy9692/me-tools) - 一些小工具，淘宝抓包xposed模块、微信运动、秒杀抢票、table2json、抹机王、flyme助手
 - [TencentCloud/serverless](https://github.com/TencentCloud/serverless) - TencentCloud Serverless
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat) - 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
