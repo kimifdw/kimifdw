@@ -1856,7 +1856,7 @@
 
 ## Others 
 
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1000多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1100多个poc/exp，长期更新。
 - [chenking2020/FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
