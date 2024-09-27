@@ -2071,7 +2071,7 @@
 - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 - [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - 《Koa2进阶学习笔记》已完结🎄🎄🎄
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [kjaisingh/ML-for-High-Schoolers](https://github.com/kjaisingh/ML-for-High-Schoolers) - Being a high schooler myself and having studied Machine Learning and Artificial Intelligence for a year now, I believe that there fails to exist a learning path in this field for High School students.
+- [kjaisingh/ML-for-High-Schoolers](https://github.com/kjaisingh/ML-for-High-Schoolers) - This guide details a learning path for high school students looking to explore the field of Machine Learning & Artificial Intelligence.
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [android/android-ktx](https://github.com/android/android-ktx) - A set of Kotlin extensions for Android app development.
 - [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
