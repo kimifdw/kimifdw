@@ -144,6 +144,7 @@
 ## C++ 
 
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a Redis-Compatible database developed by Qihoo's infrastructure team.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [uber-archive/pyflame](https://github.com/uber-archive/pyflame) - 🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.
@@ -264,8 +265,8 @@
 
 ## Go 
 
+- [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - 不只是即时通讯(IM)
 - [bytedance/netcap](https://github.com/bytedance/netcap) - 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [Huawei/dockyard](https://github.com/Huawei/dockyard) - Container & Artifact Repository
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
@@ -889,6 +890,7 @@
 - [typesafehub/activator-akka-java-spring](https://github.com/typesafehub/activator-akka-java-spring) - Activator tutorial for Akka showing Java & Spring integration
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [tc39/proposal-async-await](https://github.com/tc39/proposal-async-await) - Async/await for ECMAScript
+- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [skyao/learning-servicemesh](https://github.com/skyao/learning-servicemesh) - ServiceMesh学习笔记
 - [glepnir/GoDoc-CN](https://github.com/glepnir/GoDoc-CN) - Go标准库的中文版Dash文档
 - [wx-chevalier/Awesome-Methodologies](https://github.com/wx-chevalier/Awesome-Methodologies) - :books: Ultimate CheatSheets(Tutorials&MindMap), overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. :dizzy:  干货满满的全栈开发速学速查手册集锦
@@ -2414,7 +2416,6 @@
 ## SCSS 
 
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation: content and static site generator
 - [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
