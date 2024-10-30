@@ -344,7 +344,7 @@
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [LockGit/gochat](https://github.com/LockGit/gochat) - goim server write by golang !🚀
 - [Hyperspace-Logistics/heart](https://github.com/Hyperspace-Logistics/heart) - A high performance Lua web server with a simple, powerful API
-- [eclipse/paho.golang](https://github.com/eclipse/paho.golang) - Go libraries
+- [eclipse-paho/paho.golang](https://github.com/eclipse-paho/paho.golang) - Go libraries
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [zhangyunhao116/skipset](https://github.com/zhangyunhao116/skipset) - skipset is a high-performance, scalable concurrent sorted set based on skip-list. Up to 15x faster than sync.Map in the typical pattern.
@@ -2591,6 +2591,7 @@
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [influxdata/chronograf](https://github.com/influxdata/chronograf) - Open source monitoring and visualization UI for the TICK stack
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [leebenson/reactql](https://github.com/leebenson/reactql) - Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR
