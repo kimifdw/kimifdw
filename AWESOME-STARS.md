@@ -1736,7 +1736,7 @@
 - [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [bufbuild/buf-gradle-plugin](https://github.com/bufbuild/buf-gradle-plugin) - Gradle plugin for the Buf CLI
-- [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Code Generator and Runtime for Protocol Buffers
+- [streem/pbandk](https://github.com/streem/pbandk) - Kotlin Multiplatform Code Generator and Runtime for Protocol Buffers (Protobuf)
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [marcoferrer/kroto-plus](https://github.com/marcoferrer/kroto-plus) - gRPC Kotlin Coroutines, Protobuf DSL, Scripting for Protoc
