@@ -25,11 +25,11 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          2 hrs 56 mins         ██████████░░░░░░░░░░░░░░░   40.01 %
-Python            2 hrs 10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.72 %
-Java              1 hr 8 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Java Properties   17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Other             17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown          2 hrs 19 mins         ████████░░░░░░░░░░░░░░░░░   31.98 %
+Python            2 hrs 10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.10 %
+Java              1 hr 8 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Other             28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JSON              23 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
