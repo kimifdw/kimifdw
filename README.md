@@ -25,8 +25,9 @@ I'm F**u** D**ong**W**ei**, a senior software engineer from NingBo, China.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    28 mins               ██████████████████▓░░░░░░   75.31 %
-Other   9 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
+YAML    28 mins               ████████████████▓░░░░░░░░   66.90 %
+Other   11 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
+SQL     2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:waka-->
